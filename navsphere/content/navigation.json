@@ -718,6 +718,56 @@
       ]
     },
     {
+      "id": "1764059789924",
+      "title": "产品人工具包",
+      "icon": "Users",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "e6dc34ff-9b38-486c-85ee-52ac6933e072",
+          "title": "市场研究与数据分析",
+          "icon": "Brain",
+          "description": "用户调研平台、数据分析工具、问卷工具、竞品分析网站",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "6bca61f3-1be3-434e-add4-368809407a4d",
+          "title": "产品设计与原型案例",
+          "icon": "Flag",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "e20690f6-8ae3-45db-8f28-6903f280bb39",
+          "title": "视觉资产与内容制作",
+          "icon": "Palette",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "0e65b366-675c-4d16-b7ab-be9b03c3b7e2",
+          "title": "开发与部署",
+          "icon": "Code",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "3d4bcc4b-9fc7-47a7-aa90-9ee27de654b6",
+          "title": "运营与增长",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
+    },
+    {
       "id": "1735265493940",
       "title": "开发者工具包",
       "icon": "Box",
@@ -1420,56 +1470,6 @@
               "enabled": true
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "1764059789924",
-      "title": "产品人工具包",
-      "icon": "Users",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "e6dc34ff-9b38-486c-85ee-52ac6933e072",
-          "title": "市场研究与数据分析",
-          "icon": "Brain",
-          "description": "用户调研平台、数据分析工具、问卷工具、竞品分析网站",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "6bca61f3-1be3-434e-add4-368809407a4d",
-          "title": "产品设计与原型案例",
-          "icon": "Flag",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "e20690f6-8ae3-45db-8f28-6903f280bb39",
-          "title": "视觉资产与内容制作",
-          "icon": "Palette",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "0e65b366-675c-4d16-b7ab-be9b03c3b7e2",
-          "title": "开发与部署",
-          "icon": "Code",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "3d4bcc4b-9fc7-47a7-aa90-9ee27de654b6",
-          "title": "运营与增长",
-          "icon": "Globe",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     }
