@@ -325,6 +325,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "6538de38-85a4-4305-beba-3699a90aab43",
+          "title": "AI 提示词",
+          "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
