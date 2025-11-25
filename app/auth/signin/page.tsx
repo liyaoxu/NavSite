@@ -56,9 +56,18 @@ function SignInContent() {
         <div className="relative z-20 mt-auto">
           <blockquote className="space-y-2">
             <p className="text-lg">
-              &ldquo;这是一个专为程序员设计的导航网站，集成了常用的开发工具、学习资源和技术社区。&rdquo;
+              &ldquo;NavSite 是精心挑选的优质网站导航，汇集最新AI工具、设计资源、开发文档、热门资讯与实用生活服务。助您快速定位网络资源，提升工作和学习效率。&rdquo;
             </p>
-            <footer className="text-sm">NavSphere Team</footer>
+            <footer className="text-sm">
+              <a
+                href="https://chinapmcc.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:underline"
+              >
+                ChinaPMCC.com
+              </a>
+            </footer>
           </blockquote>
         </div>
       </div>
