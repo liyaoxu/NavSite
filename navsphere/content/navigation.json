@@ -1428,7 +1428,7 @@
       "title": "产品人工具包",
       "icon": "Users",
       "description": "",
-      "enabled": false,
+      "enabled": true,
       "items": [],
       "subCategories": [
         {
