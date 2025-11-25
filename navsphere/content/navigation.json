@@ -152,6 +152,14 @@
           "description": "36kr.com_让一部分人先看到未来",
           "icon": "/assets/favicon_1764054441195.png",
           "enabled": true
+        },
+        {
+          "id": "1764076631364",
+          "title": "雷峰网",
+          "href": "https://www.leiphone.com/",
+          "description": "雷峰网将持续连接和服务学术界、工业界与投资界。通过三界融合，与科学家、工程师、创业者、投资人一道在技术与产品创新之路上同行，通过深入和权威的信息资讯，服务于改变世界的人们。",
+          "icon": "/assets/favicon_1764076641769.png",
+          "enabled": true
         }
       ],
       "subCategories": []
