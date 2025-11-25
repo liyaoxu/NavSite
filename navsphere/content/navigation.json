@@ -333,6 +333,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "222c46e5-b1de-4b66-a917-6b798a70d72a",
+          "title": "AI 学习站",
+          "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
