@@ -184,6 +184,14 @@
           "description": "虎嗅是一个聚焦科技与创新的资讯平台，致力于为一切热爱思考与发现的用户，提供有效率的信息服务，从而帮助他们更清晰准确地洞察世界、实现更好的创新与创造。",
           "icon": "/assets/favicon_1764077085996.png",
           "enabled": true
+        },
+        {
+          "id": "1764077143880",
+          "title": "亿欧",
+          "href": "https://www.iyiou.com/",
+          "description": "亿欧是一家专注科技+产业+投资的信息平台和智库；亿欧为中外客户提供行业研究、投资分析、创新咨询、数据产品、品牌公关、国际化落地等服务。",
+          "icon": "/assets/favicon_1764077148744.png",
+          "enabled": true
         }
       ],
       "subCategories": []
