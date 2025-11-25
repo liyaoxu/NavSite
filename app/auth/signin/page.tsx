@@ -56,7 +56,7 @@ function SignInContent() {
         <div className="relative z-20 mt-auto">
           <blockquote className="space-y-2">
             <p className="text-lg">
-              &ldquo;NavSite 是精心挑选的优质网站导航，汇集最新AI工具、设计资源、开发文档、热门资讯与实用生活服务。助您快速定位网络资源，提升工作和学习效率。&rdquo;
+              &ldquo;NavSite 是精心挑选的优质全能网站导航，汇集最新AI工具、设计资源、开发文档、热门资讯与实用生活服务。助您快速定位网络资源，提升工作和学习效率。其中以产品开发工具链为亮点，向外延伸至营销、运营及通用效率领域，助您快速发现那些能让工作变得轻松的高质量网站与应用。&rdquo;
             </p>
             <footer className="text-sm">
               <a
