@@ -1452,7 +1452,7 @@
           "title": "视觉资产与内容制作",
           "icon": "Palette",
           "description": "",
-          "enabled": false,
+          "enabled": true,
           "items": []
         },
         {
