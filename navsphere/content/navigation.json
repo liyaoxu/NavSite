@@ -1430,7 +1430,16 @@
       "description": "",
       "enabled": false,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "e6dc34ff-9b38-486c-85ee-52ac6933e072",
+          "title": "灵感与构思",
+          "icon": "Brain",
+          "description": "",
+          "enabled": false,
+          "items": []
+        }
+      ]
     }
   ]
 }
