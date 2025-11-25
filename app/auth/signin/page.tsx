@@ -48,7 +48,7 @@ function SignInContent() {
             </div>
             <div className="flex flex-col">
               <span className="text-lg font-semibold leading-none tracking-tight text-white">
-                NavSphere
+                NavSite
               </span>
             </div>
           </div>
