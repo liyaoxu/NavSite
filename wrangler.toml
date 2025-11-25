@@ -5,7 +5,7 @@ pages_build_output_dir = ".vercel/output/static"
 
 [env.production.vars]
 GITHUB_CLIENT_ID = "Ov23liW9E6NnnlO8X5b6"
-GITHUB_OWNER = "chinapmcc"
+GITHUB_OWNER = "liyaoxu"
 GITHUB_REPO = "NavSite"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://nav.chinapmcc.com/api/auth"
