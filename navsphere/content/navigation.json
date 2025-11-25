@@ -1444,7 +1444,7 @@
           "title": "产品设计与原型案例",
           "icon": "Flag",
           "description": "",
-          "enabled": false,
+          "enabled": true,
           "items": []
         },
         {
