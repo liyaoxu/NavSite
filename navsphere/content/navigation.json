@@ -246,8 +246,8 @@
         },
         {
           "id": "43ae2a7d-5e66-462c-bfde-d84cb312ef14",
-          "title": "AI 办公",
-          "icon": "BookOpen",
+          "title": "AI 聊天",
+          "icon": "Book",
           "description": "",
           "enabled": true,
           "items": []
