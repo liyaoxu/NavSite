@@ -270,6 +270,14 @@
           ]
         },
         {
+          "id": "78a6c81e-baab-46b8-8aef-f853236bbaa3",
+          "title": "AI 音频",
+          "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "428d0ba1-78f8-48d6-83db-f837f3830e1f",
           "title": "AI 视频",
           "icon": "BookOpen",
@@ -309,14 +317,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "78a6c81e-baab-46b8-8aef-f853236bbaa3",
-          "title": "AI 音频",
-          "icon": "BookOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
