@@ -1333,23 +1333,6 @@
           ]
         },
         {
-          "id": "5820a691-8aa4-4479-a90f-3789744d944a",
-          "title": "开发文档与知识库",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760507310883",
-              "title": "Free for Developers",
-              "href": "https://free-for.dev/#/",
-              "description": "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
-              "icon": "/assets/favicon_1760507315276.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "044a42a2-b7be-4a19-bce8-1bc3fd98f052",
           "title": "系统监控与运维",
           "icon": "Laptop",
@@ -1386,6 +1369,23 @@
               "href": "https://coolify.io/",
               "description": "Self-hosting platform with superpowers. Deploy apps, databases &#38; 280+ services to your server. Open-source alternative to Heroku.",
               "icon": "/assets/favicon_1761279686786.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "5820a691-8aa4-4479-a90f-3789744d944a",
+          "title": "开发文档与知识库",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760507310883",
+              "title": "Free for Developers",
+              "href": "https://free-for.dev/#/",
+              "description": "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
+              "icon": "/assets/favicon_1760507315276.png",
               "enabled": true
             }
           ]
