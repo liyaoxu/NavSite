@@ -949,6 +949,14 @@
               "description": "Principle使得设计动画和交互式用户界面变得容易。无论是设计多屏应用程序的流程，还是新的交互和动画，Principle都能帮助你创建出既美观又感觉极佳的设计。",
               "icon": "/assets/images/logos/principle.png",
               "enabled": true
+            },
+            {
+              "id": "1764142542281",
+              "title": "Axure RP",
+              "href": "https://www.axure.com/",
+              "description": "用于创建原型、规格和图表的多功能于一体的软件设计工具，广泛应用与产品经理、设计师群体\n",
+              "icon": "/assets/favicon_1764142544589.ico",
+              "enabled": true
             }
           ]
         },
