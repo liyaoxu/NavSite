@@ -853,6 +853,14 @@
               "description": "浏览成千上万的美丽的颜色调色板，并生成自己的AI。100% 免费，无需登录。",
               "icon": "/assets/favicon_1764144395449.ico",
               "enabled": true
+            },
+            {
+              "id": "1764144476824",
+              "title": "Happy Hues",
+              "href": "https://www.happyhues.co/",
+              "description": "在一个真实的例子网站上看到调色板的灵感。当您单击不同的调色板时，此网站上的每种颜色都会更新，以使您了解该颜色如何用于您的设计或插图项目。",
+              "icon": "/assets/favicon_1764144479203.png",
+              "enabled": true
             }
           ]
         },
