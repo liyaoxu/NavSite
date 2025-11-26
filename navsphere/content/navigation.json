@@ -1364,6 +1364,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "770d2f5e-6929-48e6-90bb-d35efe87cee0",
+          "title": "开发百宝箱",
+          "icon": "Laptop",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
