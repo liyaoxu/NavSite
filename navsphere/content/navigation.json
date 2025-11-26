@@ -869,6 +869,14 @@
               "description": "Turn prompts into color palettes.",
               "icon": "/assets/favicon_1764144531963.png",
               "enabled": true
+            },
+            {
+              "id": "1764144594767",
+              "title": "Colordrop",
+              "href": "https://colordrop.io/",
+              "description": "ColorDrop 是一款专为创意人士打造的调色板工具",
+              "icon": "/assets/favicon_1764144598248.png",
+              "enabled": true
             }
           ]
         },
