@@ -306,6 +306,14 @@
               "description": "腾讯元宝是基于腾讯混元大模型的AI应用，可以帮你写作绘画文案翻译编程搜索阅读总结的全能助手",
               "icon": "/assets/favicon_1764117358908.png",
               "enabled": true
+            },
+            {
+              "id": "1764117504263",
+              "title": "Meta AI",
+              "href": "https://www.meta.ai/",
+              "description": "使用 Meta AI 助手来完成任务，免费创建 AI 生成的图像，并获得任何问题的答案。",
+              "icon": "/assets/favicon_1764117506922.ico",
+              "enabled": true
             }
           ]
         },
