@@ -14,6 +14,14 @@
           "enabled": true
         },
         {
+          "id": "1764139970965",
+          "title": "DeepSeek",
+          "href": "https://chat.deepseek.com/",
+          "description": "深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
+          "icon": "/assets/favicon_1764139973304.svg",
+          "enabled": true
+        },
+        {
           "id": "1_2",
           "title": "Vercel",
           "href": "https://vercel.com/",
@@ -59,14 +67,6 @@
           "href": "https://free-for.dev/#/",
           "description": "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
           "icon": "/assets/favicon_1760507241370.png",
-          "enabled": true
-        },
-        {
-          "id": "1764139970965",
-          "title": "DeepSeek",
-          "href": "https://chat.deepseek.com/",
-          "description": "深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
-          "icon": "/assets/favicon_1764139973304.svg",
           "enabled": true
         }
       ],
