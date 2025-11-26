@@ -413,6 +413,14 @@
               "description": "Cursor是一款AI代码编辑器，由Anysphere开发。其采用定制化与前沿模型混合驱动，速度快且智能。它支持一键导入扩展、主题和快捷键绑定，还具备隐私模式，已通过SOC 2认证。产品定位是为开发者提供高效编程工具，助力他们以更快速度构建软件。价格方面可免费下载试用。",
               "icon": "/assets/favicon_1764118369162.png",
               "enabled": true
+            },
+            {
+              "id": "1764118558243",
+              "title": "Visual Studio IntelliCode",
+              "href": "https://visualstudio.microsoft.com/zh-hans/services/intellicode",
+              "description": "Visual Studio IntelliCode 是一组实验性的 AI 辅助开发功能，用于提高下一代开发人员的工作效率。主要优点包括能够基于代码上下文提供整行自动完成，提高代码的准确性和一致性；其重要性在于能够显著提高开发人员的工作效率，减少手动输入代码的时间。",
+              "icon": "/assets/favicon_1764118560339.png",
+              "enabled": true
             }
           ]
         },
