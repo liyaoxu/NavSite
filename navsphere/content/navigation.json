@@ -611,6 +611,14 @@
               "description": "Arya，是一款基于 Vue2、Vditor，为未来而构建的在线 Markdown 编辑器；轻量且强大：内置粘贴 HTML 自动转换为 Markdown，支持流程图、甘特图、时序图、任务列表，可导出携带样式的图片、PDF、微信公众号特制的 HTML 等等。",
               "icon": "/assets/favicon_1764146418576.ico",
               "enabled": true
+            },
+            {
+              "id": "1764146466834",
+              "title": "Markdown to Image Online",
+              "href": "https://www.md2image.com/app",
+              "description": "使用md2image-最好的免费Markdown到图像转换器在线转换Markdown到图像。从Markdown创建漂亮的社交媒体图像，文档和代码片段。快速，轻松的MD图像转换与8个惊人的主题。",
+              "icon": "/assets/favicon_1764146468817.ico",
+              "enabled": true
             }
           ]
         },
