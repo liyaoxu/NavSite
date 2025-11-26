@@ -1020,6 +1020,14 @@
       "items": [],
       "subCategories": [
         {
+          "id": "770d2f5e-6929-48e6-90bb-d35efe87cee0",
+          "title": "开发百宝箱",
+          "icon": "Laptop",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "2ac7e66f-d3ff-4cec-85f9-c2af42c85608",
           "title": "UI框架与组件库",
           "icon": "Laptop",
@@ -1364,14 +1372,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "770d2f5e-6929-48e6-90bb-d35efe87cee0",
-          "title": "开发百宝箱",
-          "icon": "Laptop",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
