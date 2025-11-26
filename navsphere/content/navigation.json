@@ -937,6 +937,14 @@
           ]
         },
         {
+          "id": "0e65b366-675c-4d16-b7ab-be9b03c3b7e2",
+          "title": "原型与交互设计",
+          "icon": "LayoutGrid",
+          "description": "原型设计工具、UI组件库、交互设计规范、各行业系统实例参考。",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "e20690f6-8ae3-45db-8f28-6903f280bb39",
           "title": "视觉资产与内容制作",
           "icon": "Palette",
@@ -960,14 +968,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "0e65b366-675c-4d16-b7ab-be9b03c3b7e2",
-          "title": "原型与交互设计",
-          "icon": "LayoutGrid",
-          "description": "原型设计工具、UI组件库、交互设计规范、各行业系统实例参考。",
-          "enabled": true,
-          "items": []
         },
         {
           "id": "3d4bcc4b-9fc7-47a7-aa90-9ee27de654b6",
