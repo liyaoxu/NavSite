@@ -804,7 +804,16 @@
           "icon": "Palette",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764143573759",
+              "title": "unDraw",
+              "href": "https://undraw.co/illustrations",
+              "description": "浏览完整的unDraw开源插图集合。为您的下一个项目或网站查找并自定义完美的插图。",
+              "icon": "/assets/favicon_1764143575789.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "65a5ce29-3a35-49bc-bf5a-a1f0e1e6a61f",
