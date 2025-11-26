@@ -283,6 +283,14 @@
               "enabled": true
             },
             {
+              "id": "1764119063323",
+              "title": "表格 - Excelly-AI",
+              "href": "https://excelly-ai.io/index.html",
+              "description": "Excelly - AI是一款用于文本到Excel公式转换的工具。它支持Excel、Google Sheets和VBA，利用新技术可计算复杂公式。与其他工具不同，它考虑了单个电子表格的列架构，允许用户使用有意义的提示生成公式。产品提供免费试用，每月有5个免费公式生成额度，还有不同价格的付费套餐，适合各类团队，能有效提升公司整体的Excel和Google Sheets使用能力。其定价包括月付和年付，如入门计划月付29美元，年付199美元；成长计划月付59美元，年付100美元；商业计划月付139美元，年付100美元。产品旨在帮助用户节省搜索公式的时间，提高工作效率。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=excelly-ai.io",
+              "enabled": true
+            },
+            {
               "id": "1736418296509",
               "title": "Napkin",
               "href": "https://www.napkin.ai/",
@@ -296,14 +304,6 @@
               "href": "https://gamma.app/",
               "description": "AI生成PPT工具",
               "icon": "/assets/img_1736911490095.png",
-              "enabled": true
-            },
-            {
-              "id": "1764119063323",
-              "title": "表格 - Excelly-AI",
-              "href": "https://excelly-ai.io/index.html",
-              "description": "Excelly - AI是一款用于文本到Excel公式转换的工具。它支持Excel、Google Sheets和VBA，利用新技术可计算复杂公式。与其他工具不同，它考虑了单个电子表格的列架构，允许用户使用有意义的提示生成公式。产品提供免费试用，每月有5个免费公式生成额度，还有不同价格的付费套餐，适合各类团队，能有效提升公司整体的Excel和Google Sheets使用能力。其定价包括月付和年付，如入门计划月付29美元，年付199美元；成长计划月付59美元，年付100美元；商业计划月付139美元，年付100美元。产品旨在帮助用户节省搜索公式的时间，提高工作效率。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=excelly-ai.io",
               "enabled": true
             }
           ]
