@@ -579,6 +579,14 @@
               "description": "合并、压缩、创建、编辑和转换PDF文件的免费在线PDF工具。 快捷方便。没有安装。没有注册。",
               "icon": "/assets/favicon_1764146153632.png",
               "enabled": true
+            },
+            {
+              "id": "1764146180963",
+              "title": "MinerU",
+              "href": "https://mineru.net/",
+              "description": "Mineru 全能的文档解析神器，精准解析 高效提取 全面助力AI Ready数据自由",
+              "icon": "/assets/favicon_1764146184501.svg",
+              "enabled": true
             }
           ]
         },
