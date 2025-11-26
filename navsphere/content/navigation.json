@@ -1049,6 +1049,14 @@
               "description": "JSON Editor Online is the original and most copied JSON Editor on the web. Use it to view, edit, format, repair, compare, query, transform, validate, and share your JSON data.",
               "icon": "/assets/favicon_1764126438625.png",
               "enabled": true
+            },
+            {
+              "id": "1764126547898",
+              "title": "Beautifier",
+              "href": "https://beautifier.io/",
+              "description": "Beautify JavaScript, JSON, React.js, HTML, CSS",
+              "icon": "/assets/favicon_1764126550026.png",
+              "enabled": true
             }
           ]
         },
