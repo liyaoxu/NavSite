@@ -314,6 +314,14 @@
               "description": "使用 Meta AI 助手来完成任务，免费创建 AI 生成的图像，并获得任何问题的答案。",
               "icon": "/assets/favicon_1764117506922.ico",
               "enabled": true
+            },
+            {
+              "id": "1764117606817",
+              "title": "Wanderboat",
+              "href": "https://wanderboat.ai/",
+              "description": "Wanderboat AI是一款专注于旅行和本地生活探索的AI工具。它为用户提供了丰富的旅行和生活信息，帮助用户轻松规划旅行和发现本地的精彩。其重要性在于能够节省用户查找信息的时间，提高旅行和生活体验的质量。主要优点包括信息全面、查找便捷、推荐贴心等。该产品定位为用户的日常旅行和生活探索伙伴，目前关于价格未提及，推测可能是免费模式吸引用户使用。",
+              "icon": "/assets/favicon_1764117609216.png",
+              "enabled": true
             }
           ]
         },
