@@ -770,7 +770,16 @@
           "icon": "Heart",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764148044923",
+              "title": "居家菜谱视频",
+              "href": "https://cook.zhangjc.tech/",
+              "description": "居家隔离食用手册，跟着视频学习常见食材能做哪些菜！想在家里种菜？来看看吧！是老饭骨的粉丝吗？这里有最全的菜谱视频合集！",
+              "icon": "/assets/favicon_1764148047289.png",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
