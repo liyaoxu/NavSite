@@ -761,6 +761,14 @@
               "description": "BioDigital Human是一个虚拟的3D身体，在交互式3D网络平台中可视化人体解剖，疾病和治疗\n",
               "icon": "/assets/favicon_1764147932415.ico",
               "enabled": true
+            },
+            {
+              "id": "1764148373233",
+              "title": "TimeGrid 时间方格",
+              "href": "https://timegrid.visualized.fun/",
+              "description": "将每天分成100个10分钟的时间方格，帮助你更好地规划和利用时间",
+              "icon": "/assets/favicon_1764148375115.png",
+              "enabled": true
             }
           ]
         },
