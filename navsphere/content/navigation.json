@@ -941,6 +941,14 @@
               "description": "Flinto 是一款 Mac 应用程序，被世界各地的顶尖设计师用来创建他们应用程序的交互式和动画原型。",
               "icon": "/assets/favicon_1764142364486.png",
               "enabled": true
+            },
+            {
+              "id": "1764142426321",
+              "title": "Principle",
+              "href": "https://principleformac.com/",
+              "description": "Principle使得设计动画和交互式用户界面变得容易。无论是设计多屏应用程序的流程，还是新的交互和动画，Principle都能帮助你创建出既美观又感觉极佳的设计。",
+              "icon": "/assets/images/logos/principle.png",
+              "enabled": true
             }
           ]
         },
