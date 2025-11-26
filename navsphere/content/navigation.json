@@ -963,9 +963,9 @@
         },
         {
           "id": "0e65b366-675c-4d16-b7ab-be9b03c3b7e2",
-          "title": "开发与部署",
-          "icon": "Code",
-          "description": "",
+          "title": "原型与交互设计",
+          "icon": "LayoutGrid",
+          "description": "原型设计工具、UI组件库、交互设计规范、各行业系统实例参考。",
           "enabled": true,
           "items": []
         },
