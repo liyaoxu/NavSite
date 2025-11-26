@@ -1390,6 +1390,14 @@
               "description": "借助 Google AdSense广告服务，您可以利用自己的在线内容获利。",
               "icon": "/assets/favicon_1764136962805.png",
               "enabled": true
+            },
+            {
+              "id": "1764149250335",
+              "title": "UTM生成器",
+              "href": "https://utm-url-builder.toolsnav.top/",
+              "description": "营销链接追踪工具，轻松创建、管理和分析UTM参数，优化您的营销活动效果。",
+              "icon": "/assets/favicon_1764149252114.png",
+              "enabled": true
             }
           ]
         },
