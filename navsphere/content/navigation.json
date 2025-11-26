@@ -666,7 +666,16 @@
           "icon": "Palette",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764141725650",
+              "title": "Color Hunt",
+              "href": "https://colorhunt.co/",
+              "description": "发现color Hunt的最新精选调色板。为您的设计和艺术项目获取色彩灵感。",
+              "icon": "/assets/favicon_1764141753776.svg",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "8_1",
