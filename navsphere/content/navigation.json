@@ -819,7 +819,16 @@
           "icon": "Briefcase",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764149533131",
+              "title": "Bookmark Separator",
+              "href": "https://separator.site/",
+              "description": "为您的书签栏创建美丽的，可自定义的分隔符，告别杂乱无章，轻松打造层次分明的书签管理体验",
+              "icon": "/assets/favicon_1764149535004.png",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
