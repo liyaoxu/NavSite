@@ -321,6 +321,14 @@
               "description": "AI生成PPT工具",
               "icon": "/assets/img_1736911490095.png",
               "enabled": true
+            },
+            {
+              "id": "1764119476354",
+              "title": "脑图 - Mapify",
+              "href": "https://mapify.so/cn",
+              "description": "Mapify 是一个强大的 AI 思维导图工具，能够在几分钟内将包括 PDFs、Word 文档、PowerPoint 演示文稿、YouTube 视频和图片在内的多种内容类型转换成清晰、结构化的思维导图。",
+              "icon": "/assets/favicon_1764119480291.svg",
+              "enabled": true
             }
           ]
         },
