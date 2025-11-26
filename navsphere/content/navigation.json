@@ -397,7 +397,16 @@
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764118151195",
+              "title": "Coding | Claude",
+              "href": "https://claude.com/solutions/coding",
+              "description": "Transform your engineering workflow with our powerful coding model, available in Claude.ai and through the Claude API.",
+              "icon": "/assets/favicon_1764118309943.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "6538de38-85a4-4305-beba-3699a90aab43",
