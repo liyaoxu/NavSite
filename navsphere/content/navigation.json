@@ -704,6 +704,14 @@
               "description": "一站式二维码生成工具，免费可用。提供编码解码、数据统计、富文本和多媒体展示、表单制作、美化标签、批量管理等功能，并可作为无代码平台，搭建二维码信息系统。",
               "icon": "/assets/favicon_1764146772534.ico",
               "enabled": true
+            },
+            {
+              "id": "1764146893943",
+              "title": "QR Code Generator",
+              "href": "https://qrfy.com/",
+              "description": "自定义QR码生成器与您的徽标，框架和颜色。创建您的免费帐户并下载URL，vCard，PDF等的QR码。",
+              "icon": "/assets/favicon_1764146895886.png",
+              "enabled": true
             }
           ]
         },
