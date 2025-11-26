@@ -1039,7 +1039,7 @@
               "title": "SQL Formatter & Beautifier Online",
               "href": "https://www.dpriver.com/pp/sqlformat.htm",
               "description": "Free online sql formatting tool, beautify sql code instantly for SQL Server, Oracle, DB2, MySQL, Sybase, Access and MDX",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.dpriver.com",
+              "icon": "/assets/images/logos/sqlformat.ico",
               "enabled": true
             },
             {
