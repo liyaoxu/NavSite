@@ -913,9 +913,9 @@
       "subCategories": [
         {
           "id": "e6dc34ff-9b38-486c-85ee-52ac6933e072",
-          "title": "市场研究与数据分析",
+          "title": "市场与用户洞察",
           "icon": "Brain",
-          "description": "用户调研平台、数据分析工具、问卷工具、竞品分析网站",
+          "description": "行业分析报告平台、数据查询工具、用户调研平台、竞品分析矩阵、舆情监测工具。",
           "enabled": true,
           "items": []
         },
