@@ -1041,6 +1041,14 @@
               "description": "在线设计协作平台Canva可画提供了海量的设计模板，涵盖海报、简历、名片、Logo、PPT、手抄报、二维码、Banner等数十种平面设计场景，更有千款中英文字体及千万张正版图片素材可供使用。精彩设计，随时随地！",
               "icon": "/assets/favicon_1764145077361.png",
               "enabled": true
+            },
+            {
+              "id": "1764147165084",
+              "title": "Pacdora",
+              "href": "https://www.pacdora.cn/",
+              "description": "Pacdora 是一个极其友好、易于上手的在线包装设计平台，提供海量样机和盒型模板。无论你是经验丰富的设计师，还是设计新手，都能轻松快速地打造吸引眼球的作品。",
+              "icon": "/assets/favicon_1764147170790.png",
+              "enabled": true
             }
           ]
         }
