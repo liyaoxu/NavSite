@@ -983,7 +983,16 @@
           "icon": "BarChart",
           "description": "数据可视化工具、营销自动化平台、A/B测试工具、用户反馈工具、CRM系统。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764136855905",
+              "title": "Google Analytics",
+              "href": "https://analytics.google.com/",
+              "description": "Google分析（Google Analytics）是一个由Google所提供的网站流量统计服务。",
+              "icon": "/assets/favicon_1764136868355.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "d25a559f-1fc7-4c8f-a835-1ce2f4461c0b",
