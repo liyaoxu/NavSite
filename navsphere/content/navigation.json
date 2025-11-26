@@ -448,6 +448,14 @@
               "description": "为您的书签栏创建美丽的，可自定义的分隔符，告别杂乱无章，轻松打造层次分明的书签管理体验",
               "icon": "/assets/favicon_1764149535004.png",
               "enabled": true
+            },
+            {
+              "id": "1764149784867",
+              "title": "URL多开工具",
+              "href": "https://open-urls.toolsnav.top/",
+              "description": "URL多开工具帮您一键批量打开多个网址，支持域名后缀多开、URL列表多开、收藏常用后缀和历史记录保存，是提高网页浏览和开发测试效率的理想工具，让您的工作更便捷高效。",
+              "icon": "/assets/favicon_1764149787637.png",
+              "enabled": true
             }
           ]
         }
