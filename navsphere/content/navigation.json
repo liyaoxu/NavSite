@@ -281,6 +281,14 @@
               "description": "AI生成PPT工具",
               "icon": "/assets/img_1736911490095.png",
               "enabled": true
+            },
+            {
+              "id": "1764118786109",
+              "title": "翻译 - 沉浸式翻译",
+              "href": "https://immersivetranslate.com/zh-Hans/",
+              "description": "新一代AI翻译软件 | 双语对照网页翻译/PDF翻译/视频字幕翻译/漫画&图片翻译",
+              "icon": "/assets/favicon_1764118789298.png",
+              "enabled": true
             }
           ]
         },
