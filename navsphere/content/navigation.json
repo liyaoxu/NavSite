@@ -291,6 +291,14 @@
               "enabled": true
             },
             {
+              "id": "1764119184273",
+              "title": "表格 - ChatExcel-AI",
+              "href": "https://www.chatexcel.com/#/home",
+              "description": "ChatExcel AI Excel处理和数据分析\n  用户只需像和好友聊天一样操作，Chatexcel会自动通过 AI完成图表处理和分析，彻底改变了与表格数据的交互方式。将用户从繁琐的公式与运算中解放出来，无需编写复杂的公式和代码，让用户专注于文件数据和分析本身。",
+              "icon": "/assets/favicon_1764119187937.svg",
+              "enabled": true
+            },
+            {
               "id": "1736418296509",
               "title": "Napkin",
               "href": "https://www.napkin.ai/",
@@ -304,14 +312,6 @@
               "href": "https://gamma.app/",
               "description": "AI生成PPT工具",
               "icon": "/assets/img_1736911490095.png",
-              "enabled": true
-            },
-            {
-              "id": "1764119184273",
-              "title": "表格 - ChatExcel-AI",
-              "href": "https://www.chatexcel.com/#/home",
-              "description": "ChatExcel AI Excel处理和数据分析\n  用户只需像和好友聊天一样操作，Chatexcel会自动通过 AI完成图表处理和分析，彻底改变了与表格数据的交互方式。将用户从繁琐的公式与运算中解放出来，无需编写复杂的公式和代码，让用户专注于文件数据和分析本身。",
-              "icon": "/assets/favicon_1764119187937.svg",
               "enabled": true
             }
           ]
