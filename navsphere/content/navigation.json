@@ -654,7 +654,16 @@
           "href": "#图形创意",
           "icon": "Zap",
           "description": "",
-          "items": [],
+          "items": [
+            {
+              "id": "1764146560991",
+              "title": "Wormhole",
+              "href": "https://wormhole.app/",
+              "description": "Wormhole  - 简单、私密的文件共享，让你能以端到端加密和自动过期链接的方式分享文件。",
+              "icon": "/assets/favicon_1764146563183.png",
+              "enabled": true
+            }
+          ],
           "enabled": true
         },
         {
