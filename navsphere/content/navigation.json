@@ -799,6 +799,14 @@
           ]
         },
         {
+          "id": "24c3efcb-413f-46e7-bfdb-e7acaffb01e7",
+          "title": "插图素材",
+          "icon": "Palette",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "65a5ce29-3a35-49bc-bf5a-a1f0e1e6a61f",
           "title": "配色灵感",
           "icon": "Palette",
@@ -814,14 +822,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "24c3efcb-413f-46e7-bfdb-e7acaffb01e7",
-          "title": "插图素材",
-          "icon": "Palette",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
