@@ -894,7 +894,16 @@
           "icon": "Palette",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764145012574",
+              "title": "即时设计",
+              "href": "https://js.design/home",
+              "description": "即时设计是第一款面向国内设计师的专业在线UI设计工具，支持多人实时协作、原型交互、资源管理与开发标注，拥有海量的设计资源与素材。兼容Figma、Sketch、XD文件格式，浏览器即可使用，永久免费。立即体验高效、流畅的国产设计工具！",
+              "icon": "/assets/favicon_1764145016819.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
