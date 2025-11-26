@@ -662,6 +662,14 @@
               "description": "Wormhole  - 简单、私密的文件共享，让你能以端到端加密和自动过期链接的方式分享文件。",
               "icon": "/assets/favicon_1764146563183.png",
               "enabled": true
+            },
+            {
+              "id": "1764146598207",
+              "title": "ToffeeShare",
+              "href": "https://toffeeshare.com/",
+              "description": "私下快速发送您的文件。没有文件大小限制。没有注册。点对点。端到端加密。",
+              "icon": "/assets/favicon_1764146600146.png",
+              "enabled": true
             }
           ],
           "enabled": true
