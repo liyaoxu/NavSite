@@ -1153,8 +1153,8 @@
         },
         {
           "id": "62f10118-6926-4ea5-bb65-14adc90a29d2",
-          "title": "AI编程工具",
-          "icon": "Edit",
+          "title": "AI编程助手",
+          "icon": "Laptop",
           "description": "",
           "enabled": true,
           "items": [
