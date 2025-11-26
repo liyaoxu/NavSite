@@ -405,6 +405,14 @@
               "description": "Transform your engineering workflow with our powerful coding model, available in Claude.ai and through the Claude API.",
               "icon": "/assets/favicon_1764118309943.png",
               "enabled": true
+            },
+            {
+              "id": "1764118366820",
+              "title": "Cursor",
+              "href": "https://www.cursor.com/",
+              "description": "Cursor是一款AI代码编辑器，由Anysphere开发。其采用定制化与前沿模型混合驱动，速度快且智能。它支持一键导入扩展、主题和快捷键绑定，还具备隐私模式，已通过SOC 2认证。产品定位是为开发者提供高效编程工具，助力他们以更快速度构建软件。价格方面可免费下载试用。",
+              "icon": "/assets/favicon_1764118369162.png",
+              "enabled": true
             }
           ]
         },
