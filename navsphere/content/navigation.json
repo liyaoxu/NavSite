@@ -679,9 +679,9 @@
         },
         {
           "id": "8_1",
-          "title": "图标素材",
+          "title": "图标图库",
           "href": "#图标素材",
-          "icon": "",
+          "icon": "Palette",
           "description": "",
           "items": [
             {
@@ -788,7 +788,8 @@
               "icon": "/assets/favicon_1764139025859.png",
               "enabled": true
             }
-          ]
+          ],
+          "enabled": true
         },
         {
           "id": "8_2",
