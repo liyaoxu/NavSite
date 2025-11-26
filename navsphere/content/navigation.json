@@ -1068,6 +1068,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1764139460590",
+              "title": "Free for Developers",
+              "href": "https://free-for.dev/",
+              "description": "开发者专属的“免费服务地图”，让你零成本搞定从编码到上线所需的几乎一切工具链。它由 1600+ 开发者共同维护，把全球对开发者真正长期免费的 SaaS / PaaS / IaaS 服务按开发流程分门别类整理成一份「超大号 README」，并配套了简单的静态页面方便检索",
+              "icon": "/assets/favicon_1764139467180.png",
+              "enabled": true
+            },
+            {
               "id": "1764126141878",
               "title": "Table Convert",
               "href": "https://tableconvert.com/zh-cn/",
@@ -1097,14 +1105,6 @@
               "href": "https://beautifier.io/",
               "description": "Beautify JavaScript, JSON, React.js, HTML, CSS",
               "icon": "/assets/images/logos/beautifier.png",
-              "enabled": true
-            },
-            {
-              "id": "1764139460590",
-              "title": "Free for Developers",
-              "href": "https://free-for.dev/",
-              "description": "开发者专属的“免费服务地图”，让你零成本搞定从编码到上线所需的几乎一切工具链。它由 1600+ 开发者共同维护，把全球对开发者真正长期免费的 SaaS / PaaS / IaaS 服务按开发流程分门别类整理成一份「超大号 README」，并配套了简单的静态页面方便检索",
-              "icon": "/assets/favicon_1764139467180.png",
               "enabled": true
             }
           ]
