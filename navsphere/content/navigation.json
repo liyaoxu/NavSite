@@ -990,6 +990,14 @@
               "description": "免费在线屏幕截图编辑器工具，创建带有背景、注释和浏览器边框的屏幕截图。非常适合营销人员、设计师、开发人员和教育工作者。只需几秒钟，即可为社交媒体、博客、网站、新闻通讯和演示文稿创建精美的视觉效果。",
               "icon": "/assets/favicon_1764138357873.ico",
               "enabled": true
+            },
+            {
+              "id": "1764138882077",
+              "title": "Shots",
+              "href": "https://shots.so/",
+              "description": "Shots用于截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
+              "icon": "/assets/favicon_1764138884225.png",
+              "enabled": true
             }
           ]
         },
