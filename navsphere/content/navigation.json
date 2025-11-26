@@ -845,6 +845,14 @@
               "description": "发现color Hunt的最新精选调色板。为您的设计和艺术项目获取色彩灵感。",
               "icon": "/assets/favicon_1764141753776.svg",
               "enabled": true
+            },
+            {
+              "id": "1764144392146",
+              "title": "Colorable",
+              "href": "https://colordrop.io/",
+              "description": "浏览成千上万的美丽的颜色调色板，并生成自己的AI。100% 免费，无需登录。",
+              "icon": "/assets/favicon_1764144395449.ico",
+              "enabled": true
             }
           ]
         },
