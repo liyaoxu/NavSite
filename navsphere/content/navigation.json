@@ -659,6 +659,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "25e9d7cd-ea38-42fe-ba02-6d61b6919177",
+          "title": "便捷查询",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
