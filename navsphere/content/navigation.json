@@ -753,6 +753,14 @@
               "description": "时光图书馆是一座“数字怀旧仓库”，专攻晚清至 20 世纪末的珍稀纸质文献高清扫描与免费分享。站内已整理 老照片、老课本、近代杂志、连环画、古籍、书画、乐谱、县志、老报纸 等 20+ 专题，合计超 15 万册，全部 300-600 dpi 高清扫描，并附年代、作者、内容提要，方便快速判断价值。",
               "icon": "/assets/favicon_1764147723416.png",
               "enabled": true
+            },
+            {
+              "id": "1764147930555",
+              "title": "BioDigital",
+              "href": "https://human.biodigital.com/explore",
+              "description": "BioDigital Human是一个虚拟的3D身体，在交互式3D网络平台中可视化人体解剖，疾病和治疗\n",
+              "icon": "/assets/favicon_1764147932415.ico",
+              "enabled": true
             }
           ]
         }
