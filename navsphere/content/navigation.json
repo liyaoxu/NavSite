@@ -587,6 +587,14 @@
               "description": "Mineru 全能的文档解析神器，精准解析 高效提取 全面助力AI Ready数据自由",
               "icon": "/assets/favicon_1764146184501.svg",
               "enabled": true
+            },
+            {
+              "id": "1764146220278",
+              "title": "UPDF",
+              "href": "https://www.updf.cn/",
+              "description": "UPDF是AI 智能 PDF 编辑器，一款集AI 、阅读、编辑、注释、格式转换、OCR、文档对比等近百项功能于一体的综合型 PDF 编辑软件。",
+              "icon": "/assets/favicon_1764146228162.png",
+              "enabled": true
             }
           ]
         },
