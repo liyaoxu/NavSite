@@ -957,6 +957,14 @@
               "description": "用于创建原型、规格和图表的多功能于一体的软件设计工具，广泛应用与产品经理、设计师群体\n",
               "icon": "/assets/favicon_1764142544589.ico",
               "enabled": true
+            },
+            {
+              "id": "1764142681631",
+              "title": "Framer",
+              "href": "https://www.framer.com/",
+              "description": "使用Framer构建免费网站-享受完全的设计自由，强大的CMS，内置SEO和实时协作。使用设计师和高性能团队喜爱的无代码构建器创建专业的完全自定义网站。",
+              "icon": "/assets/favicon_1764142683704.png",
+              "enabled": true
             }
           ]
         },
