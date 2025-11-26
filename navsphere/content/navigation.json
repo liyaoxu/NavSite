@@ -290,7 +290,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764117102376",
+              "title": "通义星尘",
+              "href": "https://tongyi.aliyun.com/xingchen/",
+              "description": "阿里云通义星尘是基于通义大模型设计的，它是一个能够快速创造独有人设、风格的角色对话智能体，可在多种场景中进行人工智能互动，广泛应用在角色扮演、智能NPC等领域。",
+              "icon": "/assets/favicon_1764117107141.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "eb656a11-5442-4670-9cb6-9ba9bd08682f",
