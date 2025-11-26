@@ -420,7 +420,16 @@
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764120199059",
+              "title": "通义听悟",
+              "href": "https://tingwu.aliyun.com/home",
+              "description": "阿里云通义听悟是聚焦音视频内容的工作学习AI助手，依托大模型，帮助用户记录、整理和分析音视频内容，体验用大模型做音视频笔记、整理会议记录。",
+              "icon": "/assets/favicon_1764120203077.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "428d0ba1-78f8-48d6-83db-f837f3830e1f",
