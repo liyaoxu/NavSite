@@ -1351,8 +1351,8 @@
         },
         {
           "id": "044a42a2-b7be-4a19-bce8-1bc3fd98f052",
-          "title": "运维工具",
-          "icon": "Book",
+          "title": "系统监控与运维",
+          "icon": "Laptop",
           "description": "",
           "enabled": true,
           "items": [
