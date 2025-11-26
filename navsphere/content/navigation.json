@@ -974,7 +974,16 @@
           "icon": "Palette",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764123177627",
+              "title": "Remotion",
+              "href": "https://www.remotion.dev/",
+              "description": "Remotion是一个开源库，允许开发者使用React创建视频。支持服务器端渲染、参数化、音频渲染等。可快速编辑和预览视频，支持多种格式。适用于营销视频、教育内容等场景",
+              "icon": "/assets/favicon_1764123181396.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "0e65b366-675c-4d16-b7ab-be9b03c3b7e2",
