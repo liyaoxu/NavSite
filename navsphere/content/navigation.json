@@ -661,6 +661,14 @@
       "items": [],
       "subCategories": [
         {
+          "id": "65a5ce29-3a35-49bc-bf5a-a1f0e1e6a61f",
+          "title": "配色灵感",
+          "icon": "Palette",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "8_1",
           "title": "图标素材",
           "href": "#图标素材",
@@ -838,14 +846,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "65a5ce29-3a35-49bc-bf5a-a1f0e1e6a61f",
-          "title": "配色灵感",
-          "icon": "Palette",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
