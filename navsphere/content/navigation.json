@@ -988,6 +988,14 @@
               "description": "易观博阅是易观旗下的知识服务云,专注于互联网信息分析,多维度多角度了解‘互联网+’,目前覆盖上百个领域，持续积累十余年的5000份行业深度分析， 4000家互联网创新企业，帮助企业登高望远，快速把握商机。",
               "icon": "/assets/favicon_1764145417598.ico",
               "enabled": true
+            },
+            {
+              "id": "1764145434813",
+              "title": "consumerSim | AI驱动的消费者研究平台",
+              "href": "https://www.consumersim.cc/",
+              "description": "使用AI智能消费者代理进行快速高效的用户研究，获取深入洞察，优化产品设计，缩短研发周期，降低研究成本。",
+              "icon": "/assets/favicon_1764145437404.ico",
+              "enabled": true
             }
           ]
         },
