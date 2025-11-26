@@ -972,7 +972,16 @@
           "icon": "Brain",
           "description": "行业分析报告平台、数据查询工具、用户调研平台、竞品分析矩阵、舆情监测工具。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764145382686",
+              "title": "友盟+",
+              "href": "https://www.umeng.com/reports.html",
+              "description": "【友盟+】,第三方全域大数据服务提供商,为客户提供PC/APP/线下统计,广告效果监测,消息推送/微社区/分享/IM等运营工具,DIP,全域指数与行业报告等。",
+              "icon": "/assets/favicon_1764145386548.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "6bca61f3-1be3-434e-add4-368809407a4d",
