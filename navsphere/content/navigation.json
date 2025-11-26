@@ -991,6 +991,14 @@
               "description": "Google分析（Google Analytics）是一个由Google所提供的网站流量统计服务。",
               "icon": "/assets/favicon_1764136868355.png",
               "enabled": true
+            },
+            {
+              "id": "1764136948841",
+              "title": "Google AdSense",
+              "href": "https://www.google.com/adsense/",
+              "description": "借助 Google AdSense广告服务，您可以利用自己的在线内容获利。",
+              "icon": "/assets/favicon_1764136962805.png",
+              "enabled": true
             }
           ]
         },
