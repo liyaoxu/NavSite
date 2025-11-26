@@ -1242,39 +1242,6 @@
           ]
         },
         {
-          "id": "457c35b5-fcfb-4c72-8a9a-af21f9371e6b",
-          "title": "付费订阅托管平台",
-          "icon": "BookOpen",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1759044488616",
-              "title": "wordpress",
-              "href": "https://wordpress.org/",
-              "description": "Open source software which you can use to easily create a beautiful website, blog, or app.",
-              "icon": "/assets/favicon_1759044512474.ico",
-              "enabled": true
-            },
-            {
-              "id": "1759044534148",
-              "title": "listmonk",
-              "href": "https://listmonk.app/",
-              "description": " Free and open source self-hosted newsletter, mailing list manager, and transactional mails",
-              "icon": "/assets/favicon_1759044556303.png",
-              "enabled": true
-            },
-            {
-              "id": "1759044578679",
-              "title": "Ghost",
-              "href": "https://ghost.org/",
-              "description": "Beautiful, modern publishing with email newsletters and paid subscriptions built-in. Used by Platformer, 404Media, Lever News, Tangle, The Browser, and thousands more.",
-              "icon": "/assets/favicon_1759044603255.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "4da4ad49-4cfe-4e78-992b-af84a1d6c0ad",
           "title": "代码托管与CI/CD",
           "icon": "Laptop",
@@ -1386,6 +1353,39 @@
               "href": "https://free-for.dev/#/",
               "description": "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.",
               "icon": "/assets/favicon_1760507315276.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "457c35b5-fcfb-4c72-8a9a-af21f9371e6b",
+          "title": "付费订阅托管平台",
+          "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1759044488616",
+              "title": "wordpress",
+              "href": "https://wordpress.org/",
+              "description": "Open source software which you can use to easily create a beautiful website, blog, or app.",
+              "icon": "/assets/favicon_1759044512474.ico",
+              "enabled": true
+            },
+            {
+              "id": "1759044534148",
+              "title": "listmonk",
+              "href": "https://listmonk.app/",
+              "description": " Free and open source self-hosted newsletter, mailing list manager, and transactional mails",
+              "icon": "/assets/favicon_1759044556303.png",
+              "enabled": true
+            },
+            {
+              "id": "1759044578679",
+              "title": "Ghost",
+              "href": "https://ghost.org/",
+              "description": "Beautiful, modern publishing with email newsletters and paid subscriptions built-in. Used by Platformer, 404Media, Lever News, Tangle, The Browser, and thousands more.",
+              "icon": "/assets/favicon_1759044603255.png",
               "enabled": true
             }
           ]
