@@ -820,6 +820,14 @@
               "description": "将插图与InVIsion Studio和Sketch的设计库混合搭配。",
               "icon": "/assets/favicon_1764143637105.png",
               "enabled": true
+            },
+            {
+              "id": "1764143690388",
+              "title": "Blush",
+              "href": "https://blush.design/zh-CN",
+              "description": "Blush使您可以轻松地在设计中添加免费插图。尽情使用由全球艺术家创作的可自定义的图形。",
+              "icon": "/assets/favicon_1764143693525.png",
+              "enabled": true
             }
           ]
         },
