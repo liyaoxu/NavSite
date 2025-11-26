@@ -1144,8 +1144,8 @@
         },
         {
           "id": "e4c71dbf-d8c2-4dba-8c7e-b9cef0366a84",
-          "title": "开源组件&SDK",
-          "icon": "Book",
+          "title": "开源库/SDK/API",
+          "icon": "Laptop",
           "description": "",
           "enabled": true,
           "items": [
