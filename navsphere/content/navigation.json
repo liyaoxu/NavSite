@@ -982,6 +982,14 @@
               "description": "Remotion是一个开源库，允许开发者使用React创建视频。支持服务器端渲染、参数化、音频渲染等。可快速编辑和预览视频，支持多种格式。适用于营销视频、教育内容等场景",
               "icon": "/assets/favicon_1764123181396.png",
               "enabled": true
+            },
+            {
+              "id": "1764123318197",
+              "title": "Motion Canvas",
+              "href": "https://motioncanvas.io/",
+              "description": " Motion Canvas是一个用TypeScript编写的开源动画库，以其程序化动画技术，为视频制作带来了革命性的变化。Motion Canvas 特别适合那些需要将动画与语音解说同步的场景，例如教育视频、技术演示和信息图表等。",
+              "icon": "/assets/favicon_1764123320745.svg",
+              "enabled": true
             }
           ]
         },
