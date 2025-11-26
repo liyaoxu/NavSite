@@ -877,6 +877,14 @@
               "description": "ColorDrop 是一款专为创意人士打造的调色板工具",
               "icon": "/assets/favicon_1764144598248.png",
               "enabled": true
+            },
+            {
+              "id": "1764144798992",
+              "title": "Arco Color Palette",
+              "href": "https://arco.design/palette/list",
+              "description": "Arco Design Palette 是字节跳动开源设计系统 Arco Design 的官方配色工具",
+              "icon": "/assets/favicon_1764144802918.ico",
+              "enabled": true
             }
           ]
         },
