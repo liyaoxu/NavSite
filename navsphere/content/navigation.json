@@ -298,6 +298,14 @@
               "description": "阿里云通义星尘是基于通义大模型设计的，它是一个能够快速创造独有人设、风格的角色对话智能体，可在多种场景中进行人工智能互动，广泛应用在角色扮演、智能NPC等领域。",
               "icon": "/assets/favicon_1764117107141.png",
               "enabled": true
+            },
+            {
+              "id": "1764117355684",
+              "title": "腾讯元宝",
+              "href": "https://yuanbao.tencent.com/",
+              "description": "腾讯元宝是基于腾讯混元大模型的AI应用，可以帮你写作绘画文案翻译编程搜索阅读总结的全能助手",
+              "icon": "/assets/favicon_1764117358908.png",
+              "enabled": true
             }
           ]
         },
