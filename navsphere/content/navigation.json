@@ -696,7 +696,16 @@
           "icon": "Zap",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764146767712",
+              "title": "草料二维码生成器",
+              "href": "https://cli.im/",
+              "description": "一站式二维码生成工具，免费可用。提供编码解码、数据统计、富文本和多媒体展示、表单制作、美化标签、批量管理等功能，并可作为无代码平台，搭建二维码信息系统。",
+              "icon": "/assets/favicon_1764146772534.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "25e9d7cd-ea38-42fe-ba02-6d61b6919177",
