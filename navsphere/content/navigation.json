@@ -812,6 +812,14 @@
               "description": "浏览完整的unDraw开源插图集合。为您的下一个项目或网站查找并自定义完美的插图。",
               "icon": "/assets/favicon_1764143575789.png",
               "enabled": true
+            },
+            {
+              "id": "1764143635078",
+              "title": "Humaaans",
+              "href": "https://www.humaaans.com/",
+              "description": "将插图与InVIsion Studio和Sketch的设计库混合搭配。",
+              "icon": "/assets/favicon_1764143637105.png",
+              "enabled": true
             }
           ]
         },
