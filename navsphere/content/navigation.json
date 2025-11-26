@@ -769,6 +769,14 @@
               "description": "将每天分成100个10分钟的时间方格，帮助你更好地规划和利用时间",
               "icon": "/assets/favicon_1764148375115.png",
               "enabled": true
+            },
+            {
+              "id": "1764149147792",
+              "title": "硬币生成器",
+              "href": "https://onlinewahn.de/generator/m-maker.htm",
+              "description": "",
+              "icon": "/assets/favicon_1764149151099.png",
+              "enabled": true
             }
           ]
         },
