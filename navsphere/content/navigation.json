@@ -1120,7 +1120,16 @@
           "icon": "Folder",
           "description": "项目协作工具、API文档平台、测试管理工具、应用内测分发平台。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764145598224",
+              "title": "Jira",
+              "href": "https://www.atlassian.com/software/jira/features",
+              "description": "Jira Software配备的功能可支持软件开发过程的每个阶段，以帮助您计划，跟踪和报告。",
+              "icon": "/assets/favicon_1764145600539.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "9c385f98-0c3f-4acd-9a95-86b1f9983685",
