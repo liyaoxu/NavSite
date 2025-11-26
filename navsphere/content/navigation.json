@@ -1045,8 +1045,8 @@
         },
         {
           "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
-          "title": "ICON",
-          "icon": "BookOpen",
+          "title": "图标与动效资源",
+          "icon": "Files",
           "description": "站点图标",
           "enabled": true,
           "items": [
