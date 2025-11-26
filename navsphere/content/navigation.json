@@ -712,6 +712,14 @@
               "description": "自定义QR码生成器与您的徽标，框架和颜色。创建您的免费帐户并下载URL，vCard，PDF等的QR码。",
               "icon": "/assets/favicon_1764146895886.png",
               "enabled": true
+            },
+            {
+              "id": "1764146959255",
+              "title": "34QR.com",
+              "href": "https://34qr.com/zh-hans/#text",
+              "description": "在线一键二维码生成器，提供文字、网址、图片、相册、影片、地图、音效等生成类別，可个性化二维码颜色、图标、边框等设定。",
+              "icon": "/assets/favicon_1764146961842.png",
+              "enabled": true
             }
           ]
         },
