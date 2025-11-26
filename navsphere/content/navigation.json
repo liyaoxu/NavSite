@@ -585,9 +585,9 @@
         },
         {
           "id": "4",
-          "title": "图形创意",
+          "title": "文件传输",
           "href": "#图形创意",
-          "icon": "Folder",
+          "icon": "Zap",
           "description": "",
           "items": [],
           "enabled": true
