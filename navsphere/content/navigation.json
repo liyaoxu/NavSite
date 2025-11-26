@@ -165,6 +165,297 @@
       "subCategories": []
     },
     {
+      "id": "2",
+      "title": "常用工具",
+      "icon": "Laptop",
+      "items": [],
+      "subCategories": [
+        {
+          "id": "1f8c12e6-1c2a-486d-934b-ac06172fc9ee",
+          "title": "文档处理",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1764146105876",
+              "title": "Convertio",
+              "href": "https://convertio.co/zh/",
+              "description": "Convertio - 在线转换文件的简单工具。支持超过309种不同的文档、图像、电子表格、电子书、文档、演示文稿、音频和视频格式。",
+              "icon": "/assets/favicon_1764146108426.png",
+              "enabled": true
+            },
+            {
+              "id": "1764146124330",
+              "title": "iLovePDF",
+              "href": "https://www.ilovepdf.com/zh-cn",
+              "description": "iLovePDF网站提供PDF文件在线转换服务。它完全免费，而且使用方便。无论是合并PDF文件、拆分PDF文件、压缩PDF文件、Office文件转换为PDF文件，还是PDF转换为JPG图片等，iLovePDF都能满足您的需求！",
+              "icon": "/assets/favicon_1764146130676.png",
+              "enabled": true
+            },
+            {
+              "id": "1764146151717",
+              "title": "PDF24 Tools",
+              "href": "https://tools.pdf24.org/zh/",
+              "description": "合并、压缩、创建、编辑和转换PDF文件的免费在线PDF工具。 快捷方便。没有安装。没有注册。",
+              "icon": "/assets/favicon_1764146153632.png",
+              "enabled": true
+            },
+            {
+              "id": "1764146180963",
+              "title": "MinerU",
+              "href": "https://mineru.net/",
+              "description": "Mineru 全能的文档解析神器，精准解析 高效提取 全面助力AI Ready数据自由",
+              "icon": "/assets/favicon_1764146184501.svg",
+              "enabled": true
+            },
+            {
+              "id": "1764146220278",
+              "title": "UPDF",
+              "href": "https://www.updf.cn/",
+              "description": "UPDF是AI 智能 PDF 编辑器，一款集AI 、阅读、编辑、注释、格式转换、OCR、文档对比等近百项功能于一体的综合型 PDF 编辑软件。",
+              "icon": "/assets/favicon_1764146228162.png",
+              "enabled": true
+            },
+            {
+              "id": "1764146344704",
+              "title": "mdeditor",
+              "href": "https://mdeditor.net/zh/",
+              "description": "mdeditor.net 在线Markdown编辑器，提供实时预览、格式化及PDF导出功能。完全支持GitHub兼容格式，简单易用，免费！",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=mdeditor.net",
+              "enabled": true
+            },
+            {
+              "id": "1764146416434",
+              "title": "Arya",
+              "href": "https://markdown.lovejade.cn/",
+              "description": "Arya，是一款基于 Vue2、Vditor，为未来而构建的在线 Markdown 编辑器；轻量且强大：内置粘贴 HTML 自动转换为 Markdown，支持流程图、甘特图、时序图、任务列表，可导出携带样式的图片、PDF、微信公众号特制的 HTML 等等。",
+              "icon": "/assets/favicon_1764146418576.ico",
+              "enabled": true
+            },
+            {
+              "id": "1764146466834",
+              "title": "Markdown to Image Online",
+              "href": "https://www.md2image.com/app",
+              "description": "使用md2image-最好的免费Markdown到图像转换器在线转换Markdown到图像。从Markdown创建漂亮的社交媒体图像，文档和代码片段。快速，轻松的MD图像转换与8个惊人的主题。",
+              "icon": "/assets/favicon_1764146468817.ico",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "图片处理",
+          "href": "#在线工具",
+          "icon": "Zap",
+          "description": "",
+          "items": [
+            {
+              "id": "3_5",
+              "title": "TinyPNG",
+              "href": "https://tinypng.com/",
+              "description": "在线图片压缩工具",
+              "icon": "/assets/images/logos/tinypng.png",
+              "enabled": true
+            },
+            {
+              "id": "1735256523960",
+              "title": "ScreenShots.pro",
+              "href": "https://screenshots.pro/",
+              "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
+              "icon": "/assets/img_1735258064656.png",
+              "enabled": true
+            }
+          ],
+          "enabled": true
+        },
+        {
+          "id": "4",
+          "title": "文件传输",
+          "href": "#图形创意",
+          "icon": "Zap",
+          "description": "",
+          "items": [
+            {
+              "id": "1764146560991",
+              "title": "Wormhole",
+              "href": "https://wormhole.app/",
+              "description": "Wormhole  - 简单、私密的文件共享，让你能以端到端加密和自动过期链接的方式分享文件。",
+              "icon": "/assets/favicon_1764146563183.png",
+              "enabled": true
+            },
+            {
+              "id": "1764146598207",
+              "title": "ToffeeShare",
+              "href": "https://toffeeshare.com/",
+              "description": "私下快速发送您的文件。没有文件大小限制。没有注册。点对点。端到端加密。",
+              "icon": "/assets/favicon_1764146600146.png",
+              "enabled": true
+            },
+            {
+              "id": "1764146630016",
+              "title": "ShareDrop",
+              "href": "https://sharedrop.io/",
+              "description": "ShareDrop是一个由HTML5 WebRTC支持的点对点文件共享应用程序。",
+              "icon": "/assets/favicon_1764146641433.png",
+              "enabled": true
+            },
+            {
+              "id": "1764146668970",
+              "title": "LocalSend",
+              "href": "https://localsend.org/zh-CN#/",
+              "description": "LocalSend是一个免费、开源、跨平台的文件分享工具，允许您将文件分享到附近的设备。",
+              "icon": "/assets/favicon_1764146670695.ico",
+              "enabled": true
+            }
+          ],
+          "enabled": true
+        },
+        {
+          "id": "0545e98a-a5f8-4fa0-ae4f-e90cd26293c3",
+          "title": "二维码工具",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1764146767712",
+              "title": "草料二维码生成器",
+              "href": "https://cli.im/",
+              "description": "一站式二维码生成工具，免费可用。提供编码解码、数据统计、富文本和多媒体展示、表单制作、美化标签、批量管理等功能，并可作为无代码平台，搭建二维码信息系统。",
+              "icon": "/assets/favicon_1764146772534.ico",
+              "enabled": true
+            },
+            {
+              "id": "1764146893943",
+              "title": "QRFY",
+              "href": "https://qrfy.com/",
+              "description": "自定义QR码生成器与您的徽标，框架和颜色。创建您的免费帐户并下载URL，vCard，PDF等的QR码。",
+              "icon": "/assets/favicon_1764146895886.png",
+              "enabled": true
+            },
+            {
+              "id": "1764146959255",
+              "title": "34QR.com",
+              "href": "https://34qr.com/zh-hans/#text",
+              "description": "在线一键二维码生成器，提供文字、网址、图片、相册、影片、地图、音效等生成类別，可个性化二维码颜色、图标、边框等设定。",
+              "icon": "/assets/favicon_1764146961842.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "25e9d7cd-ea38-42fe-ba02-6d61b6919177",
+          "title": "开眼视界",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1764147520213",
+              "title": "Paper Money Collecting",
+              "href": "https://www.realbanknotes.com/index.html",
+              "description": "一个纸币收集社区，其中包含目录值，图像画廊，论坛，博客和纸币拍卖以及许多其他资源。",
+              "icon": "/assets/favicon_1764147523256.png",
+              "enabled": true
+            },
+            {
+              "id": "1764147567915",
+              "title": "Virtual Travel",
+              "href": "https://drivenlisten.com/",
+              "description": "这个网站可以让你开车环游世界。只需点击开始按钮，选择一个城市，享受乘坐。驾驶和聆听虚拟旅行。Drivenlisten(又名prive &Listen)诞生于疫情期间，旨在为人们在边境关闭的情况下探索世界提供一种途径，并讯速发展成为全球热门应用。我们的平台让您足不出户即可虚拟驾车穿梭于世界各地的城市，同时收听当地的广播电台和聆听街头的声音。从纽约熙熙攘攘的大街小巷到京都宁静祥和的街道，您无需离开家即可沉浸于真实的体验之中。",
+              "icon": "/assets/favicon_1764147571079.png",
+              "enabled": true
+            },
+            {
+              "id": "1764147720203",
+              "title": "Atimebook",
+              "href": "https://atimebook.com/",
+              "description": "时光图书馆是一座“数字怀旧仓库”，专攻晚清至 20 世纪末的珍稀纸质文献高清扫描与免费分享。站内已整理 老照片、老课本、近代杂志、连环画、古籍、书画、乐谱、县志、老报纸 等 20+ 专题，合计超 15 万册，全部 300-600 dpi 高清扫描，并附年代、作者、内容提要，方便快速判断价值。",
+              "icon": "/assets/favicon_1764147723416.png",
+              "enabled": true
+            },
+            {
+              "id": "1764147930555",
+              "title": "BioDigital",
+              "href": "https://human.biodigital.com/explore",
+              "description": "BioDigital Human是一个虚拟的3D身体，在交互式3D网络平台中可视化人体解剖，疾病和治疗\n",
+              "icon": "/assets/favicon_1764147932415.ico",
+              "enabled": true
+            },
+            {
+              "id": "1764148373233",
+              "title": "TimeGrid 时间方格",
+              "href": "https://timegrid.visualized.fun/",
+              "description": "将每天分成100个10分钟的时间方格，帮助你更好地规划和利用时间",
+              "icon": "/assets/favicon_1764148375115.png",
+              "enabled": true
+            },
+            {
+              "id": "1764149147792",
+              "title": "硬币生成器",
+              "href": "https://onlinewahn.de/generator/m-maker.htm",
+              "description": "",
+              "icon": "/assets/favicon_1764149151099.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "29f23873-47fd-46bb-9545-5ad8edd97357",
+          "title": "生活服务",
+          "icon": "Heart",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1764148044923",
+              "title": "居家菜谱视频",
+              "href": "https://cook.zhangjc.tech/",
+              "description": "居家隔离食用手册，跟着视频学习常见食材能做哪些菜！想在家里种菜？来看看吧！是老饭骨的粉丝吗？这里有最全的菜谱视频合集！",
+              "icon": "/assets/favicon_1764148047289.png",
+              "enabled": true
+            },
+            {
+              "id": "1764148137851",
+              "title": "退休计算器",
+              "href": "https://daojishi.fun/",
+              "description": "使用我们的退休计算器和倒计时工具,精确计算您的法定退休年龄,并可视化您距离退休的时间。提供全屏显示、屏保模式、数据保存和深色模式等功能,助您提前规划,从容迎接退休生活。适用于各行业、各年龄段的中国工作者。",
+              "icon": "/assets/favicon_1764148139569.ico",
+              "enabled": true
+            },
+            {
+              "id": "1764148317513",
+              "title": "智能体检助手",
+              "href": "https://checkup-helper.toolsnav.top/",
+              "description": "基于医学指南和AI技术，为不同性别年龄群体提供科学的个性化体检方案。专业医疗团队审核，权威可信赖。",
+              "icon": "/assets/favicon_1764148319851.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "d5779ab7-49ec-4e92-9ea5-89c3aabbfb0c",
+          "title": "在线工具箱",
+          "icon": "Briefcase",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1764149533131",
+              "title": "Bookmark Separator",
+              "href": "https://separator.site/",
+              "description": "为您的书签栏创建美丽的，可自定义的分隔符，告别杂乱无章，轻松打造层次分明的书签管理体验",
+              "icon": "/assets/favicon_1764149535004.png",
+              "enabled": true
+            }
+          ]
+        }
+      ],
+      "description": "",
+      "enabled": true
+    },
+    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -535,297 +826,6 @@
               "href": "https://microsoft.github.io/ML-For-Beginners/#/translations/zh/README",
               "description": "Introduction to Machine Learning for Beginners",
               "icon": "/assets/favicon_1764120655235.png",
-              "enabled": true
-            }
-          ]
-        }
-      ],
-      "description": "",
-      "enabled": true
-    },
-    {
-      "id": "2",
-      "title": "常用工具",
-      "icon": "Laptop",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "1f8c12e6-1c2a-486d-934b-ac06172fc9ee",
-          "title": "文档处理",
-          "icon": "Zap",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1764146105876",
-              "title": "Convertio",
-              "href": "https://convertio.co/zh/",
-              "description": "Convertio - 在线转换文件的简单工具。支持超过309种不同的文档、图像、电子表格、电子书、文档、演示文稿、音频和视频格式。",
-              "icon": "/assets/favicon_1764146108426.png",
-              "enabled": true
-            },
-            {
-              "id": "1764146124330",
-              "title": "iLovePDF",
-              "href": "https://www.ilovepdf.com/zh-cn",
-              "description": "iLovePDF网站提供PDF文件在线转换服务。它完全免费，而且使用方便。无论是合并PDF文件、拆分PDF文件、压缩PDF文件、Office文件转换为PDF文件，还是PDF转换为JPG图片等，iLovePDF都能满足您的需求！",
-              "icon": "/assets/favicon_1764146130676.png",
-              "enabled": true
-            },
-            {
-              "id": "1764146151717",
-              "title": "PDF24 Tools",
-              "href": "https://tools.pdf24.org/zh/",
-              "description": "合并、压缩、创建、编辑和转换PDF文件的免费在线PDF工具。 快捷方便。没有安装。没有注册。",
-              "icon": "/assets/favicon_1764146153632.png",
-              "enabled": true
-            },
-            {
-              "id": "1764146180963",
-              "title": "MinerU",
-              "href": "https://mineru.net/",
-              "description": "Mineru 全能的文档解析神器，精准解析 高效提取 全面助力AI Ready数据自由",
-              "icon": "/assets/favicon_1764146184501.svg",
-              "enabled": true
-            },
-            {
-              "id": "1764146220278",
-              "title": "UPDF",
-              "href": "https://www.updf.cn/",
-              "description": "UPDF是AI 智能 PDF 编辑器，一款集AI 、阅读、编辑、注释、格式转换、OCR、文档对比等近百项功能于一体的综合型 PDF 编辑软件。",
-              "icon": "/assets/favicon_1764146228162.png",
-              "enabled": true
-            },
-            {
-              "id": "1764146344704",
-              "title": "mdeditor",
-              "href": "https://mdeditor.net/zh/",
-              "description": "mdeditor.net 在线Markdown编辑器，提供实时预览、格式化及PDF导出功能。完全支持GitHub兼容格式，简单易用，免费！",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=mdeditor.net",
-              "enabled": true
-            },
-            {
-              "id": "1764146416434",
-              "title": "Arya",
-              "href": "https://markdown.lovejade.cn/",
-              "description": "Arya，是一款基于 Vue2、Vditor，为未来而构建的在线 Markdown 编辑器；轻量且强大：内置粘贴 HTML 自动转换为 Markdown，支持流程图、甘特图、时序图、任务列表，可导出携带样式的图片、PDF、微信公众号特制的 HTML 等等。",
-              "icon": "/assets/favicon_1764146418576.ico",
-              "enabled": true
-            },
-            {
-              "id": "1764146466834",
-              "title": "Markdown to Image Online",
-              "href": "https://www.md2image.com/app",
-              "description": "使用md2image-最好的免费Markdown到图像转换器在线转换Markdown到图像。从Markdown创建漂亮的社交媒体图像，文档和代码片段。快速，轻松的MD图像转换与8个惊人的主题。",
-              "icon": "/assets/favicon_1764146468817.ico",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "3",
-          "title": "图片处理",
-          "href": "#在线工具",
-          "icon": "Zap",
-          "description": "",
-          "items": [
-            {
-              "id": "3_5",
-              "title": "TinyPNG",
-              "href": "https://tinypng.com/",
-              "description": "在线图片压缩工具",
-              "icon": "/assets/images/logos/tinypng.png",
-              "enabled": true
-            },
-            {
-              "id": "1735256523960",
-              "title": "ScreenShots.pro",
-              "href": "https://screenshots.pro/",
-              "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
-              "icon": "/assets/img_1735258064656.png",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
-          "id": "4",
-          "title": "文件传输",
-          "href": "#图形创意",
-          "icon": "Zap",
-          "description": "",
-          "items": [
-            {
-              "id": "1764146560991",
-              "title": "Wormhole",
-              "href": "https://wormhole.app/",
-              "description": "Wormhole  - 简单、私密的文件共享，让你能以端到端加密和自动过期链接的方式分享文件。",
-              "icon": "/assets/favicon_1764146563183.png",
-              "enabled": true
-            },
-            {
-              "id": "1764146598207",
-              "title": "ToffeeShare",
-              "href": "https://toffeeshare.com/",
-              "description": "私下快速发送您的文件。没有文件大小限制。没有注册。点对点。端到端加密。",
-              "icon": "/assets/favicon_1764146600146.png",
-              "enabled": true
-            },
-            {
-              "id": "1764146630016",
-              "title": "ShareDrop",
-              "href": "https://sharedrop.io/",
-              "description": "ShareDrop是一个由HTML5 WebRTC支持的点对点文件共享应用程序。",
-              "icon": "/assets/favicon_1764146641433.png",
-              "enabled": true
-            },
-            {
-              "id": "1764146668970",
-              "title": "LocalSend",
-              "href": "https://localsend.org/zh-CN#/",
-              "description": "LocalSend是一个免费、开源、跨平台的文件分享工具，允许您将文件分享到附近的设备。",
-              "icon": "/assets/favicon_1764146670695.ico",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
-          "id": "0545e98a-a5f8-4fa0-ae4f-e90cd26293c3",
-          "title": "二维码工具",
-          "icon": "Zap",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1764146767712",
-              "title": "草料二维码生成器",
-              "href": "https://cli.im/",
-              "description": "一站式二维码生成工具，免费可用。提供编码解码、数据统计、富文本和多媒体展示、表单制作、美化标签、批量管理等功能，并可作为无代码平台，搭建二维码信息系统。",
-              "icon": "/assets/favicon_1764146772534.ico",
-              "enabled": true
-            },
-            {
-              "id": "1764146893943",
-              "title": "QRFY",
-              "href": "https://qrfy.com/",
-              "description": "自定义QR码生成器与您的徽标，框架和颜色。创建您的免费帐户并下载URL，vCard，PDF等的QR码。",
-              "icon": "/assets/favicon_1764146895886.png",
-              "enabled": true
-            },
-            {
-              "id": "1764146959255",
-              "title": "34QR.com",
-              "href": "https://34qr.com/zh-hans/#text",
-              "description": "在线一键二维码生成器，提供文字、网址、图片、相册、影片、地图、音效等生成类別，可个性化二维码颜色、图标、边框等设定。",
-              "icon": "/assets/favicon_1764146961842.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "25e9d7cd-ea38-42fe-ba02-6d61b6919177",
-          "title": "开眼视界",
-          "icon": "Zap",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1764147520213",
-              "title": "Paper Money Collecting",
-              "href": "https://www.realbanknotes.com/index.html",
-              "description": "一个纸币收集社区，其中包含目录值，图像画廊，论坛，博客和纸币拍卖以及许多其他资源。",
-              "icon": "/assets/favicon_1764147523256.png",
-              "enabled": true
-            },
-            {
-              "id": "1764147567915",
-              "title": "Virtual Travel",
-              "href": "https://drivenlisten.com/",
-              "description": "这个网站可以让你开车环游世界。只需点击开始按钮，选择一个城市，享受乘坐。驾驶和聆听虚拟旅行。Drivenlisten(又名prive &Listen)诞生于疫情期间，旨在为人们在边境关闭的情况下探索世界提供一种途径，并讯速发展成为全球热门应用。我们的平台让您足不出户即可虚拟驾车穿梭于世界各地的城市，同时收听当地的广播电台和聆听街头的声音。从纽约熙熙攘攘的大街小巷到京都宁静祥和的街道，您无需离开家即可沉浸于真实的体验之中。",
-              "icon": "/assets/favicon_1764147571079.png",
-              "enabled": true
-            },
-            {
-              "id": "1764147720203",
-              "title": "Atimebook",
-              "href": "https://atimebook.com/",
-              "description": "时光图书馆是一座“数字怀旧仓库”，专攻晚清至 20 世纪末的珍稀纸质文献高清扫描与免费分享。站内已整理 老照片、老课本、近代杂志、连环画、古籍、书画、乐谱、县志、老报纸 等 20+ 专题，合计超 15 万册，全部 300-600 dpi 高清扫描，并附年代、作者、内容提要，方便快速判断价值。",
-              "icon": "/assets/favicon_1764147723416.png",
-              "enabled": true
-            },
-            {
-              "id": "1764147930555",
-              "title": "BioDigital",
-              "href": "https://human.biodigital.com/explore",
-              "description": "BioDigital Human是一个虚拟的3D身体，在交互式3D网络平台中可视化人体解剖，疾病和治疗\n",
-              "icon": "/assets/favicon_1764147932415.ico",
-              "enabled": true
-            },
-            {
-              "id": "1764148373233",
-              "title": "TimeGrid 时间方格",
-              "href": "https://timegrid.visualized.fun/",
-              "description": "将每天分成100个10分钟的时间方格，帮助你更好地规划和利用时间",
-              "icon": "/assets/favicon_1764148375115.png",
-              "enabled": true
-            },
-            {
-              "id": "1764149147792",
-              "title": "硬币生成器",
-              "href": "https://onlinewahn.de/generator/m-maker.htm",
-              "description": "",
-              "icon": "/assets/favicon_1764149151099.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "29f23873-47fd-46bb-9545-5ad8edd97357",
-          "title": "生活服务",
-          "icon": "Heart",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1764148044923",
-              "title": "居家菜谱视频",
-              "href": "https://cook.zhangjc.tech/",
-              "description": "居家隔离食用手册，跟着视频学习常见食材能做哪些菜！想在家里种菜？来看看吧！是老饭骨的粉丝吗？这里有最全的菜谱视频合集！",
-              "icon": "/assets/favicon_1764148047289.png",
-              "enabled": true
-            },
-            {
-              "id": "1764148137851",
-              "title": "退休计算器",
-              "href": "https://daojishi.fun/",
-              "description": "使用我们的退休计算器和倒计时工具,精确计算您的法定退休年龄,并可视化您距离退休的时间。提供全屏显示、屏保模式、数据保存和深色模式等功能,助您提前规划,从容迎接退休生活。适用于各行业、各年龄段的中国工作者。",
-              "icon": "/assets/favicon_1764148139569.ico",
-              "enabled": true
-            },
-            {
-              "id": "1764148317513",
-              "title": "智能体检助手",
-              "href": "https://checkup-helper.toolsnav.top/",
-              "description": "基于医学指南和AI技术，为不同性别年龄群体提供科学的个性化体检方案。专业医疗团队审核，权威可信赖。",
-              "icon": "/assets/favicon_1764148319851.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "d5779ab7-49ec-4e92-9ea5-89c3aabbfb0c",
-          "title": "在线工具箱",
-          "icon": "Briefcase",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1764149533131",
-              "title": "Bookmark Separator",
-              "href": "https://separator.site/",
-              "description": "为您的书签栏创建美丽的，可自定义的分隔符，告别杂乱无章，轻松打造层次分明的书签管理体验",
-              "icon": "/assets/favicon_1764149535004.png",
               "enabled": true
             }
           ]
