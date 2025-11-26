@@ -982,6 +982,14 @@
               "description": " Motion Canvas是一个用TypeScript编写的开源动画库，以其程序化动画技术，为视频制作带来了革命性的变化。Motion Canvas 特别适合那些需要将动画与语音解说同步的场景，例如教育视频、技术演示和信息图表等。",
               "icon": "/assets/favicon_1764123320745.svg",
               "enabled": true
+            },
+            {
+              "id": "1764138298874",
+              "title": "PostSpark",
+              "href": "https://postspark.app/",
+              "description": "免费在线屏幕截图编辑器工具，创建带有背景、注释和浏览器边框的屏幕截图。非常适合营销人员、设计师、开发人员和教育工作者。只需几秒钟，即可为社交媒体、博客、网站、新闻通讯和演示文稿创建精美的视觉效果。",
+              "icon": "/assets/favicon_1764138357873.ico",
+              "enabled": true
             }
           ]
         },
