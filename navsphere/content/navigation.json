@@ -1334,8 +1334,8 @@
         },
         {
           "id": "5820a691-8aa4-4479-a90f-3789744d944a",
-          "title": "知识库",
-          "icon": "Code",
+          "title": "开发文档与知识库",
+          "icon": "Files",
           "description": "",
           "enabled": true,
           "items": [
