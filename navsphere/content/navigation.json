@@ -544,6 +544,14 @@
               "description": "",
               "icon": "/assets/favicon_1764120493673.png",
               "enabled": true
+            },
+            {
+              "id": "1764120651986",
+              "title": "Machine Learning for Beginners",
+              "href": "https://microsoft.github.io/ML-For-Beginners/#/translations/zh/README",
+              "description": "Introduction to Machine Learning for Beginners",
+              "icon": "/assets/favicon_1764120655235.png",
+              "enabled": true
             }
           ]
         }
