@@ -329,6 +329,14 @@
               "description": "AI生成PPT工具",
               "icon": "/assets/img_1736911490095.png",
               "enabled": true
+            },
+            {
+              "id": "1764119626712",
+              "title": "脑图 - Xmind AI",
+              "href": "https://xmind.com/zh-hans/ai",
+              "description": "使用 Xmind AI，将您的想法在几秒钟内转换为结构化、视觉惊艳的思维导图。使用我们强大的 AI 思维导图工具自动生成清晰、可编辑的思维导图——非常适合头脑风暴、规划、学习等。",
+              "icon": "/assets/favicon_1764119629266.png",
+              "enabled": true
             }
           ]
         },
