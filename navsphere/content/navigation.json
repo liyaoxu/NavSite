@@ -1317,8 +1317,8 @@
         },
         {
           "id": "47206329-6eed-422c-bdc9-c7cec1eb5190",
-          "title": "域名注册",
-          "icon": "Files",
+          "title": "云服务与域名",
+          "icon": "Laptop",
           "description": "",
           "enabled": true,
           "items": [
