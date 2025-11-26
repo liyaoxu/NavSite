@@ -668,6 +668,14 @@
             }
           ],
           "enabled": true
+        },
+        {
+          "id": "1f8c12e6-1c2a-486d-934b-ac06172fc9ee",
+          "title": "办公效率",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
