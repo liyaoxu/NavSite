@@ -635,24 +635,6 @@
           "enabled": true
         },
         {
-          "id": "7",
-          "title": "配色灵感",
-          "href": "#在线配色",
-          "icon": "Zap",
-          "description": "",
-          "items": [
-            {
-              "id": "7_1",
-              "title": "Color Hunt",
-              "href": "https://colorhunt.co/",
-              "description": "色彩搭配",
-              "icon": "/assets/images/logos/colorhunt.png",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
           "id": "0545e98a-a5f8-4fa0-ae4f-e90cd26293c3",
           "title": "二维码工具",
           "icon": "Zap",
