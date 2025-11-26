@@ -822,6 +822,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "abcd1afc-f6bc-4dc2-97d9-750a6c3a0fd3",
+          "title": "在线设计工具",
+          "icon": "Palette",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
