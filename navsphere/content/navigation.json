@@ -670,6 +670,14 @@
               "description": "私下快速发送您的文件。没有文件大小限制。没有注册。点对点。端到端加密。",
               "icon": "/assets/favicon_1764146600146.png",
               "enabled": true
+            },
+            {
+              "id": "1764146630016",
+              "title": "ShareDrop",
+              "href": "https://sharedrop.io/",
+              "description": "ShareDrop是一个由HTML5 WebRTC支持的点对点文件共享应用程序。",
+              "icon": "/assets/favicon_1764146641433.png",
+              "enabled": true
             }
           ],
           "enabled": true
