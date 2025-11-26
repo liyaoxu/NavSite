@@ -1041,6 +1041,14 @@
               "description": "Free online sql formatting tool, beautify sql code instantly for SQL Server, Oracle, DB2, MySQL, Sybase, Access and MDX",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.dpriver.com",
               "enabled": true
+            },
+            {
+              "id": "1764126436794",
+              "title": "JSON Editor Online",
+              "href": "https://jsoneditoronline.org/",
+              "description": "JSON Editor Online is the original and most copied JSON Editor on the web. Use it to view, edit, format, repair, compare, query, transform, validate, and share your JSON data.",
+              "icon": "/assets/favicon_1764126438625.png",
+              "enabled": true
             }
           ]
         },
