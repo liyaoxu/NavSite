@@ -729,7 +729,16 @@
           "icon": "Zap",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764147520213",
+              "title": "Paper Money Collecting",
+              "href": "https://www.realbanknotes.com/index.html",
+              "description": "一个纸币收集社区，其中包含目录值，图像画廊，论坛，博客和纸币拍卖以及许多其他资源。",
+              "icon": "/assets/favicon_1764147523256.png",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
