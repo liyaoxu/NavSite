@@ -976,6 +976,14 @@
           "description": "项目协作工具、API文档平台、测试管理工具、应用内测分发平台。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "9c385f98-0c3f-4acd-9a95-86b1f9983685",
+          "title": "发布与数据运营",
+          "icon": "BarChart",
+          "description": "数据可视化工具、营销自动化平台、A/B测试工具、用户反馈工具、CRM系统。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
