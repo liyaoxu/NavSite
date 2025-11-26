@@ -933,7 +933,16 @@
           "icon": "LayoutGrid",
           "description": "原型设计工具、UI组件库、交互设计规范、各行业系统实例参考。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764142362379",
+              "title": "Flinto",
+              "href": "https://www.flinto.com/",
+              "description": "Flinto 是一款 Mac 应用程序，被世界各地的顶尖设计师用来创建他们应用程序的交互式和动画原型。",
+              "icon": "/assets/favicon_1764142364486.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "e20690f6-8ae3-45db-8f28-6903f280bb39",
