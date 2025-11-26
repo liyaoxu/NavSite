@@ -411,6 +411,14 @@
               "description": "Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.",
               "icon": "/assets/favicon_1760513560381.png",
               "enabled": true
+            },
+            {
+              "id": "1764137238044",
+              "title": "TensorArt",
+              "href": "https://tensor.art/",
+              "description": "Leonardo 免费的在线图像生成AI，附带营销活动、图形设计、印刷等工具，很多人用来构建他们的营销素材。",
+              "icon": "/assets/favicon_1764137262382.png",
+              "enabled": true
             }
           ]
         },
