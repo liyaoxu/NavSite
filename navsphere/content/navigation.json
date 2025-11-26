@@ -921,9 +921,9 @@
         },
         {
           "id": "6bca61f3-1be3-434e-add4-368809407a4d",
-          "title": "产品设计与原型案例",
+          "title": "需求与规划定义",
           "icon": "Flag",
-          "description": "",
+          "description": "思维导图工具、需求池管理工具、用户故事地图工具、PRD文档模板、优先级排序框架。",
           "enabled": true,
           "items": [
             {
