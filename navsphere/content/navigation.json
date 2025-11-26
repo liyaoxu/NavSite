@@ -971,9 +971,9 @@
         },
         {
           "id": "3d4bcc4b-9fc7-47a7-aa90-9ee27de654b6",
-          "title": "运营与增长",
-          "icon": "Globe",
-          "description": "",
+          "title": "研发与项目管理",
+          "icon": "Folder",
+          "description": "项目协作工具、API文档平台、测试管理工具、应用内测分发平台。",
           "enabled": true,
           "items": []
         }
