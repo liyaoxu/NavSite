@@ -571,6 +571,14 @@
               "description": "iLovePDF网站提供PDF文件在线转换服务。它完全免费，而且使用方便。无论是合并PDF文件、拆分PDF文件、压缩PDF文件、Office文件转换为PDF文件，还是PDF转换为JPG图片等，iLovePDF都能满足您的需求！",
               "icon": "/assets/favicon_1764146130676.png",
               "enabled": true
+            },
+            {
+              "id": "1764146151717",
+              "title": "PDF24 Tools",
+              "href": "https://tools.pdf24.org/zh/",
+              "description": "合并、压缩、创建、编辑和转换PDF文件的免费在线PDF工具。 快捷方便。没有安装。没有注册。",
+              "icon": "/assets/favicon_1764146153632.png",
+              "enabled": true
             }
           ]
         },
