@@ -595,6 +595,14 @@
               "description": "UPDF是AI 智能 PDF 编辑器，一款集AI 、阅读、编辑、注释、格式转换、OCR、文档对比等近百项功能于一体的综合型 PDF 编辑软件。",
               "icon": "/assets/favicon_1764146228162.png",
               "enabled": true
+            },
+            {
+              "id": "1764146344704",
+              "title": "mdeditor",
+              "href": "https://mdeditor.net/zh/",
+              "description": "mdeditor.net 在线Markdown编辑器，提供实时预览、格式化及PDF导出功能。完全支持GitHub兼容格式，简单易用，免费！",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=mdeditor.net",
+              "enabled": true
             }
           ]
         },
