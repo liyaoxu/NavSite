@@ -1128,6 +1128,14 @@
               "description": "Jira Software配备的功能可支持软件开发过程的每个阶段，以帮助您计划，跟踪和报告。",
               "icon": "/assets/favicon_1764145600539.png",
               "enabled": true
+            },
+            {
+              "id": "1764145649180",
+              "title": "Teambition",
+              "href": "https://www.teambition.com/",
+              "description": "简单好用的项目协同工具，钉钉旗下数字化协作平台，为你提供项目管理、任务协同等解决方案。",
+              "icon": "/assets/favicon_1764145652441.png",
+              "enabled": true
             }
           ]
         },
