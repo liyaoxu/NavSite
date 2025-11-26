@@ -812,6 +812,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "d5779ab7-49ec-4e92-9ea5-89c3aabbfb0c",
+          "title": "在线工具箱",
+          "icon": "Briefcase",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
