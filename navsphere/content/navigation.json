@@ -519,7 +519,16 @@
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764120402787",
+              "title": "Promptpilot",
+              "href": "https://promptpilot.volcengine.com/home",
+              "description": "PromptPilot是字节跳动旗下火山引擎推出的AI提示词解决方案平台。其重要性在于通过深度解析用户意图，把模糊想法转化为AI可精准执行的专业指令，保障模型稳定输出高质量结果。该平台的主要优点包括具备互动式引导，能帮助用户明确需求；可进行闭环迭代优化，持续提升Prompt效果；支持多轮对话优化、多模态理解与规划、复杂工具调用优化等。在价格方面，文档中提到有免费智能精调功能，但未明确整体定价策略；其定位是为用户提供专业、高效的AI提示词解决方案，助力用户更好地使用AI模型。",
+              "icon": "/assets/favicon_1764120406903.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "222c46e5-b1de-4b66-a917-6b798a70d72a",
