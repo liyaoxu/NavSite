@@ -984,6 +984,14 @@
           "description": "数据可视化工具、营销自动化平台、A/B测试工具、用户反馈工具、CRM系统。",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "d25a559f-1fc7-4c8f-a835-1ce2f4461c0b",
+          "title": "迭代与复盘分析",
+          "icon": "Target",
+          "description": "产品分析工具、项目复盘模板、留存分析工具、版本规划工具。",
+          "enabled": true,
+          "items": []
         }
       ]
     },
