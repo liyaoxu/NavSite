@@ -678,6 +678,14 @@
               "description": "ShareDrop是一个由HTML5 WebRTC支持的点对点文件共享应用程序。",
               "icon": "/assets/favicon_1764146641433.png",
               "enabled": true
+            },
+            {
+              "id": "1764146668970",
+              "title": "LocalSend",
+              "href": "https://localsend.org/zh-CN#/",
+              "description": "LocalSend是一个免费、开源、跨平台的文件分享工具，允许您将文件分享到附近的设备。",
+              "icon": "/assets/favicon_1764146670695.ico",
+              "enabled": true
             }
           ],
           "enabled": true
