@@ -536,7 +536,16 @@
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764120489951",
+              "title": "阿里人工智能学习路线",
+              "href": "https://developer.aliyun.com/learning/roadmap/ai",
+              "description": "",
+              "icon": "/assets/favicon_1764120493673.png",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
