@@ -1061,6 +1061,31 @@
           ]
         },
         {
+          "id": "e4c71dbf-d8c2-4dba-8c7e-b9cef0366a84",
+          "title": "开源组件&SDK",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760433270740",
+              "title": "AI SDK",
+              "href": "https://ai-sdk.dev/",
+              "description": "The AI Toolkit for TypeScript, from the creators of Next.js.",
+              "icon": "/assets/favicon_1760433274445.ico",
+              "enabled": true
+            },
+            {
+              "id": "1763352609100",
+              "title": "Payloadcms",
+              "href": "https://payloadcms.com/",
+              "description": "访问 payloadcms.com",
+              "icon": "/assets/favicon_1763352611319.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "4da4ad49-4cfe-4e78-992b-af84a1d6c0ad",
           "title": "托管平台",
           "icon": "Book",
@@ -1303,31 +1328,6 @@
               "href": "https://motioncanvas.io/",
               "description": "A TypeScript library for creating animated videos using the Canvas API.",
               "icon": "/assets/favicon_1760429621544.svg",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "e4c71dbf-d8c2-4dba-8c7e-b9cef0366a84",
-          "title": "开源组件&SDK",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760433270740",
-              "title": "AI SDK",
-              "href": "https://ai-sdk.dev/",
-              "description": "The AI Toolkit for TypeScript, from the creators of Next.js.",
-              "icon": "/assets/favicon_1760433274445.ico",
-              "enabled": true
-            },
-            {
-              "id": "1763352609100",
-              "title": "Payloadcms",
-              "href": "https://payloadcms.com/",
-              "description": "访问 payloadcms.com",
-              "icon": "/assets/favicon_1763352611319.png",
               "enabled": true
             }
           ]
