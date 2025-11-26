@@ -1144,6 +1144,14 @@
               "description": "PingCode 是简单易用的新一代研发管理工具，覆盖敏捷开发、测试管理、项目集和知识库，让研发管理自动化、数据化、智能化，帮助企业提升研发效能。",
               "icon": "/assets/favicon_1764145761933.ico",
               "enabled": true
+            },
+            {
+              "id": "1764145776028",
+              "title": "Dootask",
+              "href": "https://www.dootask.com/zh",
+              "description": "DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。助力团队高效推进项目，让工作更简单。",
+              "icon": "/assets/favicon_1764145779299.png",
+              "enabled": true
             }
           ]
         },
