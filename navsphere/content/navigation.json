@@ -1033,6 +1033,14 @@
               "description": "TableConvert 是一个免费的在线表格转换和数据生成工具，支持 Excel、CSV、JSON、Markdown、LaTeX、SQL 等 30 多种格式之间的转换。",
               "icon": "/assets/favicon_1764126144261.png",
               "enabled": true
+            },
+            {
+              "id": "1764126359653",
+              "title": "SQL Formatter & Beautifier Online",
+              "href": "https://www.dpriver.com/pp/sqlformat.htm",
+              "description": "Free online sql formatting tool, beautify sql code instantly for SQL Server, Oracle, DB2, MySQL, Sybase, Access and MDX",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.dpriver.com",
+              "enabled": true
             }
           ]
         },
