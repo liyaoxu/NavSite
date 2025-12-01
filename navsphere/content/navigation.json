@@ -928,6 +928,14 @@
               "description": "The fastest path from prompt to production with Gemini",
               "icon": "/assets/favicon_1760605601454.png",
               "enabled": true
+            },
+            {
+              "id": "1764572066391",
+              "title": "Runway | AI Image and Video Generator",
+              "href": "https://runwayml.com/",
+              "description": "Runway是一家专注于艺术、娱乐和人类创造力领域的应用研究公司。其核心功能在于为用户提供一系列强大的工具，助力艺术创作。这些工具涵盖了先进的图像、视频处理技术以及创意生成算法。重要性在于打破了传统艺术创作的限制，让更多人能够轻松参与到艺术创作中来。主要优点包括操作便捷、功能丰富、创新能力强。产品背景基于对未来艺术发展趋势的洞察和探索。",
+              "icon": "/assets/favicon_1764572068993.png",
+              "enabled": true
             }
           ]
         },
