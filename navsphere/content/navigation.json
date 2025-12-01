@@ -1021,9 +1021,9 @@
             },
             {
               "id": "1764572943051",
-              "title": "prompts.chat — awesome AI prompts",
+              "title": "Awesome AI prompts",
               "href": "https://prompts.chat/",
-              "description": "This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.",
+              "description": "prompts.chat是一个专注于提供AI提示词的网站。该网站最初为ChatGPT创建了提示词集合，不过这些提示词也适用于Claude、Gemini、Hugging Face Chat、Llama、Mistral等其他AI模型。其重要性在于帮助用户更好地使用各种AI聊天工具，提高与AI交互的效率和质量。产品背景是随着AI技术的发展，用户对于优质提示词的需求日益增长，因此该网站应运而生。价格方面，网站本身免费使用，不过作者的相关电子书可能需要付费购买。其定位是为开发者和普通用户提供高质量的AI提示词资源。",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=prompts.chat",
               "enabled": true
             },
