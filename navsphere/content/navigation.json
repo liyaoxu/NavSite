@@ -1018,6 +1018,14 @@
               "description": "AiShort 是一个专注于革新工作与学习方式的高效 AI 智能体与提示词平台。其重要性在于帮助用户更好地利用 AI 工具，通过提供海量提示词和智能体构建功能，降低使用 AI 的门槛。",
               "icon": "/assets/favicon_1764572876962.png",
               "enabled": true
+            },
+            {
+              "id": "1764572943051",
+              "title": "prompts.chat — awesome AI prompts",
+              "href": "https://prompts.chat/",
+              "description": "This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=prompts.chat",
+              "enabled": true
             }
           ]
         },
