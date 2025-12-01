@@ -431,6 +431,14 @@
               "description": "基于医学指南和AI技术，为不同性别年龄群体提供科学的个性化体检方案。专业医疗团队审核，权威可信赖。",
               "icon": "/assets/favicon_1764148319851.png",
               "enabled": true
+            },
+            {
+              "id": "1764575499840",
+              "title": "中医养生调理",
+              "href": "https://m.xjlz365.com/",
+              "description": "网站收集整理了中医各方面的方子，包括中草药、方剂、食疗、疾病、养生等。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=m.xjlz365.com",
+              "enabled": true
             }
           ]
         },
