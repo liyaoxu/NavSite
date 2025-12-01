@@ -863,6 +863,14 @@
               "description": "为流行音乐专业伴奏编曲，提供快速模版化工作。\n需要一定的乐理基础，可根据和弦谱，进行编曲微调的自定义编辑，支持导出成品伴奏音频。",
               "icon": "/assets/favicon_1764571574051.png",
               "enabled": true
+            },
+            {
+              "id": "1764571714326",
+              "title": "IBM Watson Text to Speech",
+              "href": "https://www.ibm.com/cn-zh/products/text-to-speech",
+              "description": "Watson Speech to Text 是一种 API，可将多种语言的语音转录为文本。它可作为 SaaS 提供，也可以自托管。",
+              "icon": "/assets/favicon_1764571719662.png",
+              "enabled": true
             }
           ]
         },
