@@ -977,6 +977,14 @@
               "description": "Visual Studio IntelliCode 是一组实验性的 AI 辅助开发功能，用于提高下一代开发人员的工作效率。主要优点包括能够基于代码上下文提供整行自动完成，提高代码的准确性和一致性；其重要性在于能够显著提高开发人员的工作效率，减少手动输入代码的时间。",
               "icon": "/assets/favicon_1764118560339.png",
               "enabled": true
+            },
+            {
+              "id": "1764572373503",
+              "title": "JetBrains AI 服务",
+              "href": "https://www.jetbrains.com/zh-cn/ai-china/",
+              "description": "您喜欢的工具获得新能力，而您可以轻松获得更多信息。 将自己从乏味的工作中解放出来，前所未有地专注于重要事项。",
+              "icon": "/assets/favicon_1764572376795.ico",
+              "enabled": true
             }
           ]
         },
