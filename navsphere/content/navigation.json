@@ -497,6 +497,14 @@
               "description": "你可以完全免费地使用它来实时翻译外语网页，PDF翻译，EPUB电子书翻译，视频双语字幕翻译，漫画&图片翻译等。\n",
               "icon": "/assets/favicon_1764576624333.png",
               "enabled": true
+            },
+            {
+              "id": "1764576834565",
+              "title": "DeepSider",
+              "href": "https://www.deepsider.ai/",
+              "description": "DeepSider基于DeepSeek大模型，为您提供浏览器侧边栏即开即用的AI服务：10秒生成高质量内容、精准翻译50+语言、智能代码编写，极简交互设计让工作效率提升300%",
+              "icon": "/assets/favicon_1764576850165.png",
+              "enabled": true
             }
           ]
         },
