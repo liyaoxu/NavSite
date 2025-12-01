@@ -622,6 +622,14 @@
               "enabled": true
             },
             {
+              "id": "1764568038417",
+              "title": "PPT - SlidesAI",
+              "href": "https://www.slidesai.io/zh",
+              "description": "免费的人工智能演示制作工具，通过利用快速、直观且有影响力的AI，直接在Google幻灯片和PowerPoint中轻松创建惊人的演示文稿。",
+              "icon": "/assets/favicon_1764568085858.png",
+              "enabled": true
+            },
+            {
               "id": "1764119938759",
               "title": "法律 - 通义法睿",
               "href": "https://tongyi.aliyun.com/farui",
@@ -635,14 +643,6 @@
               "href": "https://contract.yoo-ai.com/",
               "description": "合同嗖嗖是一款在线提供合同服务的网站。它的核心功能是利用AI技术生成合同，重要性在于为用户节省合同起草的时间和精力，降低法律风险。其主要优点是操作便捷，只需输入关键词即可AI实时生成合同；提供海量合同模板，涵盖劳动人事、房屋租赁等多种类型，满足不同场景需求。该产品定位为解决各类商业及日常活动中合同起草难题的工具，帮助没有专业法律知识的用户也能轻松获得专业合同。页面未提及价格信息。",
               "icon": "/assets/favicon_1764120015717.png",
-              "enabled": true
-            },
-            {
-              "id": "1764568038417",
-              "title": "PPT - SlidesAI",
-              "href": "https://www.slidesai.io/zh",
-              "description": "免费的人工智能演示制作工具，通过利用快速、直观且有影响力的AI，直接在Google幻灯片和PowerPoint中轻松创建惊人的演示文稿。",
-              "icon": "/assets/favicon_1764568085858.png",
               "enabled": true
             },
             {
