@@ -985,6 +985,14 @@
               "description": "JetBrains AI是JetBrains公司推出的一系列集成AI工具和服务，专为软件开发场景打造。其核心功能是提供智能编码辅助，借助先进的AI技术，分析代码上下文，为开发者提供准确的代码建议和补全。该产品对JetBrains在软件开发领域的优势进行了拓展，与旗下的多款知名IDE深度集成，如IntelliJ IDEA、PyCharm等。",
               "icon": "/assets/favicon_1764572376795.ico",
               "enabled": true
+            },
+            {
+              "id": "1764572640427",
+              "title": "Trae",
+              "href": "https://www.trae.cn/",
+              "description": "Trae是字节跳动推出的一款免费的AI集成的开发环境，集成了Claude3.5与GPT-4o等主流AI模型，提供AI问答、智能代码生成、智能代码补全，多模态输入等功能。支持界面全中文化，为中文开发者提供了高效的开发体验，关键还免费。",
+              "icon": "/assets/favicon_1764572643953.png",
+              "enabled": true
             }
           ]
         },
