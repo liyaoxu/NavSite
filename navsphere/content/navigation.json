@@ -502,7 +502,7 @@
               "id": "1764576834565",
               "title": "DeepSider",
               "href": "https://www.deepsider.ai/",
-              "description": "DeepSider基于DeepSeek大模型，为您提供浏览器侧边栏即开即用的AI服务：10秒生成高质量内容、精准翻译50+语言、智能代码编写，极简交互设计让工作效率提升300%",
+              "description": "DeepSider是一款集成于浏览器侧边栏的AI对话工具，可免费使用所有顶级大模型包括最新的Sora2，GPT-4o画图，GPT-4.1，GPT-o3，Grok 4，Claude Sonnet 4.5，Claude Opus 4.1，Gemini 2.5 pro，FLUX画图，Deepseek R1等以极简交互与超快的响应速度，完成AI搜索、实时问答、内容创作、翻译、代码生成等复杂任务",
               "icon": "/assets/favicon_1764576850165.png",
               "enabled": true
             }
