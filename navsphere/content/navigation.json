@@ -402,6 +402,14 @@
           ]
         },
         {
+          "id": "b8d56511-884d-46bc-b6ea-f43ffc8e58c8",
+          "title": "网盘资源",
+          "icon": "Box",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "29f23873-47fd-46bb-9545-5ad8edd97357",
           "title": "生活服务",
           "icon": "Heart",
@@ -441,14 +449,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "b8d56511-884d-46bc-b6ea-f43ffc8e58c8",
-          "title": "网盘资源",
-          "icon": "Box",
-          "description": "",
-          "enabled": true,
-          "items": []
         },
         {
           "id": "d5779ab7-49ec-4e92-9ea5-89c3aabbfb0c",
