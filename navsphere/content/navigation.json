@@ -490,6 +490,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "5dda27ee-f0d3-4ec0-a614-fab16e6a45db",
+          "title": "学习教育",
+          "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
