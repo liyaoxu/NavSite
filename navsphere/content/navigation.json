@@ -750,6 +750,14 @@
               "description": "Leonardo.AI是一个人工智能绘图社区和工具。它基于Stable Diffusion人工智能模型,深度集成了其各种插件,提供强大的图片生成和创作功能。附带营销活动、图形设计、印刷等工具，很多人用来构建他们的营销素材。",
               "icon": "/assets/favicon_1764137762095.png",
               "enabled": true
+            },
+            {
+              "id": "1764569240113",
+              "title": "通义万相",
+              "href": "https://tongyi.aliyun.com/wan/",
+              "description": "通义万相是阿里巴巴通义旗下的AI创意创作平台，它利用人工智能技术，简化了创作流程，降低了创作门槛。其主要优点在于强大的生成能力，能够依据文本描述生成高质量的图像和视频，满足多样化创作需求。产品背景依托阿里巴巴的技术实力，在AI领域有深厚积累。关于价格，文档未提及，从一般情况推测可能有免费试用和付费服务。它的定位是面向广大创作者，无论是专业人士还是普通爱好者，都能借助它轻松实现创作想法。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tongyi.aliyun.com",
+              "enabled": true
             }
           ]
         },
