@@ -1727,6 +1727,14 @@
               "description": "PMAI是一款面向产品经理的AI助手，具有一键生成PRD、输出解决方案、生成SQL等实用功能。在PRD基础上一键生成对应的流程图、时序图、数据字段、测试用户、PRD分析",
               "icon": "/assets/favicon_1764574900912.png",
               "enabled": true
+            },
+            {
+              "id": "1764579255980",
+              "title": "Drafito",
+              "href": "https://storage.chinapmcc.com/2025/07/chinaPMCC.com-DrafitoforChrome.zip",
+              "description": "Drafito是将网页导入到 Figma 设计文件中的一款插件。\n使用说明如下：\nhttps://surl.chinapmcc.com/web-to-axure",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=storage.chinapmcc.com",
+              "enabled": true
             }
           ]
         },
