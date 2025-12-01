@@ -466,6 +466,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "bd2c5638-5e47-4e8c-b901-46fe3889879f",
+          "title": "浏览器插件",
+          "icon": "Box",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
