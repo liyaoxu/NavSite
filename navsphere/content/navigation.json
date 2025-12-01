@@ -871,6 +871,14 @@
               "description": "Watson Speech to Text 是一种 API，可将多种语言的语音转录为文本。它可作为 SaaS 提供，也可以自托管。",
               "icon": "/assets/favicon_1764571719662.png",
               "enabled": true
+            },
+            {
+              "id": "1764571772011",
+              "title": "Clipchamp AI 语音生成器",
+              "href": "https://clipchamp.com/zh-hans/features/ai-voice-over-generator/",
+              "description": "为视频配上语音。你可以使用我们的免费在线画外音生成器，利用人工智能技术将文字转为语音。",
+              "icon": "/assets/favicon_1764571775085.ico",
+              "enabled": true
             }
           ]
         },
