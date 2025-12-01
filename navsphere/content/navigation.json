@@ -790,6 +790,14 @@
               "description": "无须注册，AI自动一键抠图，获取去除背景的透明图。快速，并且免费下载高清图！更多功能还有图片无损放大、图片压缩、图片裁剪、AI背景、削除笔、模糊背景等等",
               "icon": "/assets/favicon_1764570678524.png",
               "enabled": true
+            },
+            {
+              "id": "1764570847024",
+              "title": "AI 制作图像 | Magic Studio",
+              "href": "https://magicstudio.com/zh",
+              "description": "借助 Magic Studio，任何人都可以使用 AI 创建图像、添加和删除对象、背景、转换等。 为产品页面、广告和社交媒体制作精美的图像。",
+              "icon": "/assets/favicon_1764570849928.png",
+              "enabled": true
             }
           ]
         },
