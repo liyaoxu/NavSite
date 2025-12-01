@@ -571,6 +571,14 @@
               "description": "书格是一个以传承与共享中华传统文化为核心的公益性质开放平台，自 2013 年创办以来，始终秉持 “让每个人都能自由地看到我们的文明” 的理念，致力于古籍文献、经典书画等传统文化资源的数字化整理与免费开放。",
               "icon": "/assets/favicon_1764577059574.png",
               "enabled": true
+            },
+            {
+              "id": "1764577222375",
+              "title": "Jiumodiary",
+              "href": "https://www.jiumodiary.com/",
+              "description": "可在线搜索，下载图书的网站",
+              "icon": "/assets/favicon_1764577225554.png",
+              "enabled": true
             }
           ]
         }
