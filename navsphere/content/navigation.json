@@ -455,6 +455,14 @@
               "description": "",
               "icon": "/assets/favicon_1764577716474.png",
               "enabled": true
+            },
+            {
+              "id": "1764577793902",
+              "title": "Pan",
+              "href": "https://pan.quark.cn/s/5fd16946c16e",
+              "description": "喜马拉雅付费音频，包括外语学习类、传统国学类、名人传记类、亲子育儿类、诗词音乐类、社会财经类、文学艺术类、知识提升类",
+              "icon": "/assets/favicon_1764577797208.png",
+              "enabled": true
             }
           ]
         },
