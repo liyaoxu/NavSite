@@ -505,6 +505,14 @@
               "description": "DeepSider是一款集成于浏览器侧边栏的AI对话工具，可免费使用所有顶级大模型包括最新的Sora2，GPT-4o画图，GPT-4.1，GPT-o3，Grok 4，Claude Sonnet 4.5，Claude Opus 4.1，Gemini 2.5 pro，FLUX画图，Deepseek R1等以极简交互与超快的响应速度，完成AI搜索、实时问答、内容创作、翻译、代码生成等复杂任务",
               "icon": "/assets/favicon_1764576850165.png",
               "enabled": true
+            },
+            {
+              "id": "1764576970595",
+              "title": "Awesome Screenshot",
+              "href": "https://www.awesomescreenshot.com/",
+              "description": "Awesome Screenshot 是评分最高的屏幕捕捉和屏幕录制工具，拥有超过 200 万用户！屏幕共享，快速又简单！通过视频和截图分享屏幕。",
+              "icon": "/assets/favicon_1764576973301.png",
+              "enabled": true
             }
           ]
         },
