@@ -1540,6 +1540,14 @@
               "description": "Fabrie是设计师的新一代在线设计协作平台，支持白板在线编辑图文、便利贴、思维导图、关联多维表格等功能，灵感收集、设计调研、方案评审、图纸标注、归档一步到位，多人协同，免费使用。",
               "icon": "/assets/favicon_1764145241859.svg",
               "enabled": true
+            },
+            {
+              "id": "1764574897359",
+              "title": "PMAI",
+              "href": "https://www.pm-ai.cn/",
+              "description": "PMAI是一款面向产品经理的AI助手，具有一键生成PRD、输出解决方案、生成SQL等实用功能。在PRD基础上一键生成对应的流程图、时序图、数据字段、测试用户、PRD分析",
+              "icon": "/assets/favicon_1764574900912.png",
+              "enabled": true
             }
           ]
         },
