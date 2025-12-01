@@ -982,7 +982,7 @@
               "id": "1764572373503",
               "title": "JetBrains AI 服务",
               "href": "https://www.jetbrains.com/zh-cn/ai-china/",
-              "description": "您喜欢的工具获得新能力，而您可以轻松获得更多信息。 将自己从乏味的工作中解放出来，前所未有地专注于重要事项。",
+              "description": "JetBrains AI是JetBrains公司推出的一系列集成AI工具和服务，专为软件开发场景打造。其核心功能是提供智能编码辅助，借助先进的AI技术，分析代码上下文，为开发者提供准确的代码建议和补全。该产品对JetBrains在软件开发领域的优势进行了拓展，与旗下的多款知名IDE深度集成，如IntelliJ IDEA、PyCharm等。",
               "icon": "/assets/favicon_1764572376795.ico",
               "enabled": true
             }
