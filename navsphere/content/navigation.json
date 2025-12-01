@@ -443,6 +443,14 @@
           ]
         },
         {
+          "id": "b8d56511-884d-46bc-b6ea-f43ffc8e58c8",
+          "title": "网盘资源",
+          "icon": "Box",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "d5779ab7-49ec-4e92-9ea5-89c3aabbfb0c",
           "title": "在线工具箱",
           "icon": "Briefcase",
@@ -478,14 +486,6 @@
         {
           "id": "bd2c5638-5e47-4e8c-b901-46fe3889879f",
           "title": "浏览器插件",
-          "icon": "Box",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "b8d56511-884d-46bc-b6ea-f43ffc8e58c8",
-          "title": "网盘资源",
           "icon": "Box",
           "description": "",
           "enabled": true,
