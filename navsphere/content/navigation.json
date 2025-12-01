@@ -407,7 +407,16 @@
           "icon": "Box",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764576143941",
+              "title": "🎁ChatGPT专题资源大礼包",
+              "href": "https://www.aliyundrive.com/s/w7Nyp7zp5Br",
+              "description": "",
+              "icon": "/assets/favicon_1764576167053.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "d5779ab7-49ec-4e92-9ea5-89c3aabbfb0c",
