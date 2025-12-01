@@ -822,6 +822,14 @@
               "description": "PicMa基于先进深度学习技术，为低质量图片提供去雾、对比度增强、无损放大等优化处理。实现智能快速去噪和细节恢复，创造清晰自然的高清图片。适用于照片修复、图片编辑、画质提升等需求。",
               "icon": "/assets/favicon_1764571394703.png",
               "enabled": true
+            },
+            {
+              "id": "1764571430634",
+              "title": "Jpghd",
+              "href": "https://jpghd.com/zh",
+              "description": "老照片无损高清修复（支持老照片修复、老照片上色和破损修复）",
+              "icon": "/assets/favicon_1764571434047.png",
+              "enabled": true
             }
           ]
         },
