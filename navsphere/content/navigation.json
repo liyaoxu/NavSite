@@ -1490,9 +1490,9 @@
             {
               "id": "1764144392146",
               "title": "Colorable",
-              "href": "https://colordrop.io/",
-              "description": "浏览成千上万的美丽的颜色调色板，并生成自己的AI。100% 免费，无需登录。",
-              "icon": "/assets/favicon_1764144395449.ico",
+              "href": "https://colorable.jxnblk.com/",
+              "description": "字体、背景颜色通过拖动饱和度，亮度等即可预览。免费且无需登录。",
+              "icon": "/assets/favicon_1764654514070.png",
               "enabled": true
             },
             {
