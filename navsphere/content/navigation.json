@@ -545,6 +545,14 @@
               "description": "一款浏览器超级效率工具，包括书签管理、沉浸式网页笔记、双语沉浸式翻译、智能网页大纲等10+项高频功能/操作",
               "icon": "/assets/favicon_1764655277302.png",
               "enabled": true
+            },
+            {
+              "id": "1764655628393",
+              "title": "Axhub",
+              "href": "https://axhub.im/chrome/",
+              "description": "Axhub 致力于打造能用，好用，常用的 Axure AI 工具。将网页转化为 Figma 或 Axure 设计稿，成为产品经理工作中的新伙伴。",
+              "icon": "/assets/favicon_1764655631962.png",
+              "enabled": true
             }
           ]
         },
