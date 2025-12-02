@@ -537,6 +537,14 @@
               "description": "Awesome Screenshot 是评分最高的屏幕捕捉和屏幕录制工具，拥有超过 200 万用户！屏幕共享，快速又简单！通过视频和截图分享屏幕。",
               "icon": "/assets/favicon_1764576973301.png",
               "enabled": true
+            },
+            {
+              "id": "1764655271251",
+              "title": "Flash Copilot 闪记",
+              "href": "https://kjeek.com/",
+              "description": "一款浏览器超级效率工具，包括书签管理、沉浸式网页笔记、双语沉浸式翻译、智能网页大纲等10+项高频功能/操作",
+              "icon": "/assets/favicon_1764655277302.png",
+              "enabled": true
             }
           ]
         },
