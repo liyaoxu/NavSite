@@ -613,6 +613,14 @@
               "enabled": true
             },
             {
+              "id": "1764812801679",
+              "title": "LingoHut 免费学习45种语言",
+              "href": "https://www.lingohut.com/zh",
+              "description": "使用LingoHut，你可以用自己的母语来学习超过45种语言，例如南非荷兰语、阿拉伯语、中文、荷兰语、英语、法语、德语、印地语、意大利语、日语、波斯语、葡萄牙语、俄语、西班牙语、土耳其语等。 免费在线外语课程",
+              "icon": "/assets/favicon_1764812807617.png",
+              "enabled": true
+            },
+            {
               "id": "1764577056336",
               "title": "书格",
               "href": "https://www.shuge.org/",
@@ -658,14 +666,6 @@
               "href": "https://www.tingroom.com/",
               "description": "在线听力室是一个免费在线外语听力学习网站，主要外语都包括，提供经典英语听力教程、英语MP3听力下载、新概念、VOA、少儿英语、四六级英语考试听力等大量英语听力学习资源，网站内英语辅导资料齐全，有效帮助广大英语爱好者完成英语自学课程，突破英语听力障碍！",
               "icon": "/assets/favicon_1764578630126.png",
-              "enabled": true
-            },
-            {
-              "id": "1764812801679",
-              "title": "LingoHut 免费学习45种语言",
-              "href": "https://www.lingohut.com/zh",
-              "description": "使用LingoHut，你可以用自己的母语来学习超过45种语言，例如南非荷兰语、阿拉伯语、中文、荷兰语、英语、法语、德语、印地语、意大利语、日语、波斯语、葡萄牙语、俄语、西班牙语、土耳其语等。 免费在线外语课程",
-              "icon": "/assets/favicon_1764812807617.png",
               "enabled": true
             }
           ]
