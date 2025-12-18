@@ -2089,6 +2089,14 @@
               "description": "访问 payloadcms.com",
               "icon": "/assets/favicon_1763352611319.png",
               "enabled": true
+            },
+            {
+              "id": "1766028989846",
+              "title": "Free APIs",
+              "href": "https://free-apis.github.io/",
+              "description": "提供面向开发者的一系列免费API",
+              "icon": "/assets/favicon_1766029002072.ico",
+              "enabled": true
             }
           ]
         },
