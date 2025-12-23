@@ -345,6 +345,55 @@
           ]
         },
         {
+          "id": "bd2c5638-5e47-4e8c-b901-46fe3889879f",
+          "title": "浏览器插件",
+          "icon": "Box",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1764576622162",
+              "title": "沉浸式翻译",
+              "href": "https://immersivetranslate.com/zh-Hans/download/",
+              "description": "你可以完全免费地使用它来实时翻译外语网页，PDF翻译，EPUB电子书翻译，视频双语字幕翻译，漫画&图片翻译等。\n",
+              "icon": "/assets/favicon_1764576624333.png",
+              "enabled": true
+            },
+            {
+              "id": "1764576834565",
+              "title": "DeepSider",
+              "href": "https://www.deepsider.ai/",
+              "description": "DeepSider是一款集成于浏览器侧边栏的AI对话工具，可免费使用所有顶级大模型包括最新的Sora2，GPT-4o画图，GPT-4.1，GPT-o3，Grok 4，Claude Sonnet 4.5，Claude Opus 4.1，Gemini 2.5 pro，FLUX画图，Deepseek R1等以极简交互与超快的响应速度，完成AI搜索、实时问答、内容创作、翻译、代码生成等复杂任务",
+              "icon": "/assets/favicon_1764576850165.png",
+              "enabled": true
+            },
+            {
+              "id": "1764576970595",
+              "title": "Awesome Screenshot",
+              "href": "https://www.awesomescreenshot.com/",
+              "description": "Awesome Screenshot 是评分最高的屏幕捕捉和屏幕录制工具，拥有超过 200 万用户！屏幕共享，快速又简单！通过视频和截图分享屏幕。",
+              "icon": "/assets/favicon_1764576973301.png",
+              "enabled": true
+            },
+            {
+              "id": "1764655271251",
+              "title": "Flash Copilot 闪记",
+              "href": "https://kjeek.com/",
+              "description": "一款浏览器超级效率工具，包括书签管理、沉浸式网页笔记、双语沉浸式翻译、智能网页大纲等10+项高频功能/操作",
+              "icon": "/assets/favicon_1764655277302.png",
+              "enabled": true
+            },
+            {
+              "id": "1764655628393",
+              "title": "Axhub",
+              "href": "https://axhub.im/chrome/",
+              "description": "Axhub 致力于打造能用，好用，常用的 Axure AI 工具。将网页转化为 Figma 或 Axure 设计稿，成为产品经理工作中的新伙伴。",
+              "icon": "/assets/favicon_1764655631962.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "25e9d7cd-ea38-42fe-ba02-6d61b6919177",
           "title": "开眼视界",
           "icon": "Zap",
@@ -503,55 +552,6 @@
               "href": "https://tinywow.com/",
               "description": "TinyWow是一个免费在线工具集合平台，提供PDF、视频、图像、AI写作和文件转换等多种工具。 平台由Jenni AI公司开发，拥有200+在线工具，帮助用户解决各种文件处理问题，无需注册即可使用。",
               "icon": "/assets/favicon_1764575217403.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "bd2c5638-5e47-4e8c-b901-46fe3889879f",
-          "title": "浏览器插件",
-          "icon": "Box",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1764576622162",
-              "title": "沉浸式翻译",
-              "href": "https://immersivetranslate.com/zh-Hans/download/",
-              "description": "你可以完全免费地使用它来实时翻译外语网页，PDF翻译，EPUB电子书翻译，视频双语字幕翻译，漫画&图片翻译等。\n",
-              "icon": "/assets/favicon_1764576624333.png",
-              "enabled": true
-            },
-            {
-              "id": "1764576834565",
-              "title": "DeepSider",
-              "href": "https://www.deepsider.ai/",
-              "description": "DeepSider是一款集成于浏览器侧边栏的AI对话工具，可免费使用所有顶级大模型包括最新的Sora2，GPT-4o画图，GPT-4.1，GPT-o3，Grok 4，Claude Sonnet 4.5，Claude Opus 4.1，Gemini 2.5 pro，FLUX画图，Deepseek R1等以极简交互与超快的响应速度，完成AI搜索、实时问答、内容创作、翻译、代码生成等复杂任务",
-              "icon": "/assets/favicon_1764576850165.png",
-              "enabled": true
-            },
-            {
-              "id": "1764576970595",
-              "title": "Awesome Screenshot",
-              "href": "https://www.awesomescreenshot.com/",
-              "description": "Awesome Screenshot 是评分最高的屏幕捕捉和屏幕录制工具，拥有超过 200 万用户！屏幕共享，快速又简单！通过视频和截图分享屏幕。",
-              "icon": "/assets/favicon_1764576973301.png",
-              "enabled": true
-            },
-            {
-              "id": "1764655271251",
-              "title": "Flash Copilot 闪记",
-              "href": "https://kjeek.com/",
-              "description": "一款浏览器超级效率工具，包括书签管理、沉浸式网页笔记、双语沉浸式翻译、智能网页大纲等10+项高频功能/操作",
-              "icon": "/assets/favicon_1764655277302.png",
-              "enabled": true
-            },
-            {
-              "id": "1764655628393",
-              "title": "Axhub",
-              "href": "https://axhub.im/chrome/",
-              "description": "Axhub 致力于打造能用，好用，常用的 Axure AI 工具。将网页转化为 Figma 或 Axure 设计稿，成为产品经理工作中的新伙伴。",
-              "icon": "/assets/favicon_1764655631962.png",
               "enabled": true
             }
           ]
