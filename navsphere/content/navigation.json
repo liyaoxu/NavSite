@@ -2318,6 +2318,14 @@
               "description": "一个现代化的团队知识库，用于您的内部文档、产品规格、支持答案、会议记录、入职培训等更多内容…",
               "icon": "/assets/favicon_1766472824985.png",
               "enabled": true
+            },
+            {
+              "id": "1766473230801",
+              "title": "Swagger",
+              "href": "https://swagger.io/",
+              "description": "Swagger 是一个用于API 文档设计、构建、记录和使用 RESTful API 的开源工具集，其核心目标是 “让机器和人都能快速理解 API”。",
+              "icon": "/assets/favicon_1766473235211.png",
+              "enabled": true
             }
           ]
         },
