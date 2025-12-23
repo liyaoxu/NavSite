@@ -312,6 +312,87 @@
           "enabled": true
         },
         {
+          "id": "5dda27ee-f0d3-4ec0-a614-fab16e6a45db",
+          "title": "学习教育",
+          "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1764812641391",
+              "title": "EngLearner - 英语学习导航网站",
+              "href": "https://www.englearner.site/cn/index.html",
+              "description": "EngLearner - 一个超全的英语学习工具导航网站、英语学习资料网站、雅思考试/托福考试/四六级考试资料网站，让你从此学英语不求人！",
+              "icon": "/assets/favicon_1764812646443.ico",
+              "enabled": true
+            },
+            {
+              "id": "1764812801679",
+              "title": "LingoHut 免费学习45种语言",
+              "href": "https://www.lingohut.com/zh",
+              "description": "使用LingoHut，你可以用自己的母语来学习超过45种语言，例如南非荷兰语、阿拉伯语、中文、荷兰语、英语、法语、德语、印地语、意大利语、日语、波斯语、葡萄牙语、俄语、西班牙语、土耳其语等。 免费在线外语课程",
+              "icon": "/assets/favicon_1764812807617.png",
+              "enabled": true
+            },
+            {
+              "id": "1764813055279",
+              "title": "NCE Flow 新概念英语点读",
+              "href": "https://nce.luzhenhua.cn/",
+              "description": "新概念英语在线点读工具，支持多语言界面和播放控制",
+              "icon": "/assets/favicon_1764813068132.png",
+              "enabled": true
+            },
+            {
+              "id": "1764577056336",
+              "title": "书格",
+              "href": "https://www.shuge.org/",
+              "description": "书格是一个以传承与共享中华传统文化为核心的公益性质开放平台，自 2013 年创办以来，始终秉持 “让每个人都能自由地看到我们的文明” 的理念，致力于古籍文献、经典书画等传统文化资源的数字化整理与免费开放。",
+              "icon": "/assets/favicon_1764577059574.png",
+              "enabled": true
+            },
+            {
+              "id": "1764577222375",
+              "title": "Jiumodiary",
+              "href": "https://www.jiumodiary.com/",
+              "description": "可在线搜索，下载图书的网站",
+              "icon": "/assets/favicon_1764577225554.png",
+              "enabled": true
+            },
+            {
+              "id": "1764577998727",
+              "title": "国家高等教育智慧教育平台",
+              "href": "https://higher.smartedu.cn/",
+              "description": "国家高等教育智慧教育平台（简称“智慧高教”）是全国性、综合性高等教育教学资源服务平台。有众多在线课程学习，计算机、金融、人际关系、心里、军事等等、该平台由教育部主办，委托高等教育出版社有限公司建设和运行维护，北京理工大学提供技术支持。",
+              "icon": "/assets/favicon_1764578002693.png",
+              "enabled": true
+            },
+            {
+              "id": "1764578250533",
+              "title": "中学历史教学园地",
+              "href": "https://www.zxls.com/",
+              "description": "集合了历史各方面的资料，课件、试题、解题等，但大部分需要收费。",
+              "icon": "https://www.zxls.com/Template/Default/Skin/MMskin/images/logo.png",
+              "enabled": true
+            },
+            {
+              "id": "1764578494647",
+              "title": "大学资源网",
+              "href": "https://www.dxzy163.com/",
+              "description": "拥有各类在线学习课程，主要课程如下：\n大学课程\n讲座系列\n小学课程\n初中教学外语课程\n高中课程\n考研课程\n资格考试\n计算机课程\n职业培训\n医学视频\n文化艺术\n军事天地\n农业技术\n历史地理\n体育课程",
+              "icon": "/assets/favicon_1764578497994.png",
+              "enabled": true
+            },
+            {
+              "id": "1764578627313",
+              "title": "免费在线外语听力学习网站",
+              "href": "https://www.tingroom.com/",
+              "description": "在线听力室是一个免费在线外语听力学习网站，主要外语都包括，提供经典英语听力教程、英语MP3听力下载、新概念、VOA、少儿英语、四六级英语考试听力等大量英语听力学习资源，网站内英语辅导资料齐全，有效帮助广大英语爱好者完成英语自学课程，突破英语听力障碍！",
+              "icon": "/assets/favicon_1764578630126.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "0545e98a-a5f8-4fa0-ae4f-e90cd26293c3",
           "title": "二维码工具",
           "icon": "Zap",
@@ -593,87 +674,6 @@
               "href": "https://m.xjlz365.com/",
               "description": "网站收集整理了中医各方面的方子，包括中草药、方剂、食疗、疾病、养生等。",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=m.xjlz365.com",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "5dda27ee-f0d3-4ec0-a614-fab16e6a45db",
-          "title": "学习教育",
-          "icon": "BookOpen",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1764812641391",
-              "title": "EngLearner - 英语学习导航网站",
-              "href": "https://www.englearner.site/cn/index.html",
-              "description": "EngLearner - 一个超全的英语学习工具导航网站、英语学习资料网站、雅思考试/托福考试/四六级考试资料网站，让你从此学英语不求人！",
-              "icon": "/assets/favicon_1764812646443.ico",
-              "enabled": true
-            },
-            {
-              "id": "1764812801679",
-              "title": "LingoHut 免费学习45种语言",
-              "href": "https://www.lingohut.com/zh",
-              "description": "使用LingoHut，你可以用自己的母语来学习超过45种语言，例如南非荷兰语、阿拉伯语、中文、荷兰语、英语、法语、德语、印地语、意大利语、日语、波斯语、葡萄牙语、俄语、西班牙语、土耳其语等。 免费在线外语课程",
-              "icon": "/assets/favicon_1764812807617.png",
-              "enabled": true
-            },
-            {
-              "id": "1764813055279",
-              "title": "NCE Flow 新概念英语点读",
-              "href": "https://nce.luzhenhua.cn/",
-              "description": "新概念英语在线点读工具，支持多语言界面和播放控制",
-              "icon": "/assets/favicon_1764813068132.png",
-              "enabled": true
-            },
-            {
-              "id": "1764577056336",
-              "title": "书格",
-              "href": "https://www.shuge.org/",
-              "description": "书格是一个以传承与共享中华传统文化为核心的公益性质开放平台，自 2013 年创办以来，始终秉持 “让每个人都能自由地看到我们的文明” 的理念，致力于古籍文献、经典书画等传统文化资源的数字化整理与免费开放。",
-              "icon": "/assets/favicon_1764577059574.png",
-              "enabled": true
-            },
-            {
-              "id": "1764577222375",
-              "title": "Jiumodiary",
-              "href": "https://www.jiumodiary.com/",
-              "description": "可在线搜索，下载图书的网站",
-              "icon": "/assets/favicon_1764577225554.png",
-              "enabled": true
-            },
-            {
-              "id": "1764577998727",
-              "title": "国家高等教育智慧教育平台",
-              "href": "https://higher.smartedu.cn/",
-              "description": "国家高等教育智慧教育平台（简称“智慧高教”）是全国性、综合性高等教育教学资源服务平台。有众多在线课程学习，计算机、金融、人际关系、心里、军事等等、该平台由教育部主办，委托高等教育出版社有限公司建设和运行维护，北京理工大学提供技术支持。",
-              "icon": "/assets/favicon_1764578002693.png",
-              "enabled": true
-            },
-            {
-              "id": "1764578250533",
-              "title": "中学历史教学园地",
-              "href": "https://www.zxls.com/",
-              "description": "集合了历史各方面的资料，课件、试题、解题等，但大部分需要收费。",
-              "icon": "https://www.zxls.com/Template/Default/Skin/MMskin/images/logo.png",
-              "enabled": true
-            },
-            {
-              "id": "1764578494647",
-              "title": "大学资源网",
-              "href": "https://www.dxzy163.com/",
-              "description": "拥有各类在线学习课程，主要课程如下：\n大学课程\n讲座系列\n小学课程\n初中教学外语课程\n高中课程\n考研课程\n资格考试\n计算机课程\n职业培训\n医学视频\n文化艺术\n军事天地\n农业技术\n历史地理\n体育课程",
-              "icon": "/assets/favicon_1764578497994.png",
-              "enabled": true
-            },
-            {
-              "id": "1764578627313",
-              "title": "免费在线外语听力学习网站",
-              "href": "https://www.tingroom.com/",
-              "description": "在线听力室是一个免费在线外语听力学习网站，主要外语都包括，提供经典英语听力教程、英语MP3听力下载、新概念、VOA、少儿英语、四六级英语考试听力等大量英语听力学习资源，网站内英语辅导资料齐全，有效帮助广大英语爱好者完成英语自学课程，突破英语听力障碍！",
-              "icon": "/assets/favicon_1764578630126.png",
               "enabled": true
             }
           ]
