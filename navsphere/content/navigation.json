@@ -596,6 +596,14 @@
               "enabled": true
             },
             {
+              "id": "1766458488641",
+              "title": "twelve.tools",
+              "href": "https://twelve.tools/",
+              "description": "每天挑选 12 个即用即走的零安装小工具，像翻日历一样简单。旨在帮助创作者、开发者等用户发现最新的效率与创意工具。主要集中在AI人工智能、视频/图像生成与编辑、生产力、市场营销、网站建设等领域。",
+              "icon": "/assets/favicon_1766458490460.png",
+              "enabled": true
+            },
+            {
               "id": "1764149533131",
               "title": "Bookmark Separator",
               "href": "https://separator.site/",
@@ -617,14 +625,6 @@
               "href": "https://tinywow.com/",
               "description": "TinyWow是一个免费在线工具集合平台，提供PDF、视频、图像、AI写作和文件转换等多种工具。 平台由Jenni AI公司开发，拥有200+在线工具，帮助用户解决各种文件处理问题，无需注册即可使用。",
               "icon": "/assets/favicon_1764575217403.png",
-              "enabled": true
-            },
-            {
-              "id": "1766458488641",
-              "title": "twelve.tools",
-              "href": "https://twelve.tools/",
-              "description": "每天挑选 12 个即用即走的零安装小工具，像翻日历一样简单。旨在帮助创作者、开发者等用户发现最新的效率与创意工具。主要集中在AI人工智能、视频/图像生成与编辑、生产力、市场营销、网站建设等领域。",
-              "icon": "/assets/favicon_1766458490460.png",
               "enabled": true
             },
             {
