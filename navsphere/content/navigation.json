@@ -610,6 +610,14 @@
               "description": "TinyWow是一个免费在线工具集合平台，提供PDF、视频、图像、AI写作和文件转换等多种工具。 平台由Jenni AI公司开发，拥有200+在线工具，帮助用户解决各种文件处理问题，无需注册即可使用。",
               "icon": "/assets/favicon_1764575217403.png",
               "enabled": true
+            },
+            {
+              "id": "1766458434844",
+              "title": "Freetool.Dev",
+              "href": "https://www.freetool.dev/",
+              "description": "Freetool - 专注于提供免费在线工具，简化您的日常任务。我们还提供专为软件开发者（DEV）打造的专属工具，旨在简化您的职业活动。",
+              "icon": "/assets/favicon_1766458446919.ico",
+              "enabled": true
             }
           ]
         },
