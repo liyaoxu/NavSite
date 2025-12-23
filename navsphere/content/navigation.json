@@ -2302,7 +2302,16 @@
           "icon": "Laptop",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1766472217907",
+              "title": "GitBook",
+              "href": "https://www.gitbook.com/",
+              "description": "GitBook 是一款基于 Git + Markdown 的文档协作与发布平台，最初定位是“用 Git 写书”，现在已扩展为 产品文档、API 手册、知识库 的通用工具。",
+              "icon": "/assets/favicon_1766472220360.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "457c35b5-fcfb-4c72-8a9a-af21f9371e6b",
