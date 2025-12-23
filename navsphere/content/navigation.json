@@ -2310,6 +2310,14 @@
               "description": "GitBook 是一款基于 Git + Markdown 的文档协作与发布平台，最初定位是“用 Git 写书”，现在已扩展为 产品文档、API 手册、知识库 的通用工具。",
               "icon": "/assets/favicon_1766472220360.png",
               "enabled": true
+            },
+            {
+              "id": "1766472821627",
+              "title": "Outline",
+              "href": "https://www.getoutline.com/",
+              "description": "一个现代化的团队知识库，用于您的内部文档、产品规格、支持答案、会议记录、入职培训等更多内容…",
+              "icon": "/assets/favicon_1766472824985.png",
+              "enabled": true
             }
           ]
         },
