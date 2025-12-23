@@ -265,6 +265,14 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.png",
               "enabled": true
+            },
+            {
+              "id": "1766475465297",
+              "title": "MagicEraser",
+              "href": "https://magiceraser.org/zh/",
+              "description": "是一款在线免费的AI图片擦除工具，可一键移除人物、文字、水印、Logo和背景杂物，无需登录，效果自然不留痕迹。操作简单、无痕填充、画质清晰，无需登录即可立即下载干净图片，适合摄影、社交媒体、电商与日常修图。",
+              "icon": "/assets/favicon_1766475467499.ico",
+              "enabled": true
             }
           ],
           "enabled": true
