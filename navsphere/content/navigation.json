@@ -618,6 +618,14 @@
               "description": "Freetool - 专注于提供免费在线工具，简化您的日常任务。我们还提供专为软件开发者（DEV）打造的专属工具，旨在简化您的职业活动。",
               "icon": "/assets/favicon_1766458446919.ico",
               "enabled": true
+            },
+            {
+              "id": "1766458488641",
+              "title": "twelve.tools",
+              "href": "https://twelve.tools/",
+              "description": "每天挑选 12 个即用即走的零安装小工具，像翻日历一样简单。旨在帮助创作者、开发者等用户发现最新的效率与创意工具。主要集中在AI人工智能、视频/图像生成与编辑、生产力、市场营销、网站建设等领域。",
+              "icon": "/assets/favicon_1766458490460.png",
+              "enabled": true
             }
           ]
         },
