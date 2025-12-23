@@ -393,6 +393,47 @@
           ]
         },
         {
+          "id": "29f23873-47fd-46bb-9545-5ad8edd97357",
+          "title": "生活服务",
+          "icon": "Heart",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1764148044923",
+              "title": "居家菜谱视频",
+              "href": "https://cook.zhangjc.tech/",
+              "description": "居家隔离食用手册，跟着视频学习常见食材能做哪些菜！想在家里种菜？来看看吧！是老饭骨的粉丝吗？这里有最全的菜谱视频合集！",
+              "icon": "/assets/favicon_1764148047289.png",
+              "enabled": true
+            },
+            {
+              "id": "1764148137851",
+              "title": "退休计算器",
+              "href": "https://daojishi.fun/",
+              "description": "使用我们的退休计算器和倒计时工具,精确计算您的法定退休年龄,并可视化您距离退休的时间。提供全屏显示、屏保模式、数据保存和深色模式等功能,助您提前规划,从容迎接退休生活。适用于各行业、各年龄段的中国工作者。",
+              "icon": "/assets/favicon_1764148139569.ico",
+              "enabled": true
+            },
+            {
+              "id": "1764148317513",
+              "title": "智能体检助手",
+              "href": "https://checkup-helper.toolsnav.top/",
+              "description": "基于医学指南和AI技术，为不同性别年龄群体提供科学的个性化体检方案。专业医疗团队审核，权威可信赖。",
+              "icon": "/assets/favicon_1764148319851.png",
+              "enabled": true
+            },
+            {
+              "id": "1764575499840",
+              "title": "中医养生调理",
+              "href": "https://m.xjlz365.com/",
+              "description": "网站收集整理了中医各方面的方子，包括中草药、方剂、食疗、疾病、养生等。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=m.xjlz365.com",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "0545e98a-a5f8-4fa0-ae4f-e90cd26293c3",
           "title": "二维码工具",
           "icon": "Zap",
@@ -633,47 +674,6 @@
               "href": "https://tinywow.com/",
               "description": "TinyWow是一个免费在线工具集合平台，提供PDF、视频、图像、AI写作和文件转换等多种工具。 平台由Jenni AI公司开发，拥有200+在线工具，帮助用户解决各种文件处理问题，无需注册即可使用。",
               "icon": "/assets/favicon_1764575217403.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "29f23873-47fd-46bb-9545-5ad8edd97357",
-          "title": "生活服务",
-          "icon": "Heart",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1764148044923",
-              "title": "居家菜谱视频",
-              "href": "https://cook.zhangjc.tech/",
-              "description": "居家隔离食用手册，跟着视频学习常见食材能做哪些菜！想在家里种菜？来看看吧！是老饭骨的粉丝吗？这里有最全的菜谱视频合集！",
-              "icon": "/assets/favicon_1764148047289.png",
-              "enabled": true
-            },
-            {
-              "id": "1764148137851",
-              "title": "退休计算器",
-              "href": "https://daojishi.fun/",
-              "description": "使用我们的退休计算器和倒计时工具,精确计算您的法定退休年龄,并可视化您距离退休的时间。提供全屏显示、屏保模式、数据保存和深色模式等功能,助您提前规划,从容迎接退休生活。适用于各行业、各年龄段的中国工作者。",
-              "icon": "/assets/favicon_1764148139569.ico",
-              "enabled": true
-            },
-            {
-              "id": "1764148317513",
-              "title": "智能体检助手",
-              "href": "https://checkup-helper.toolsnav.top/",
-              "description": "基于医学指南和AI技术，为不同性别年龄群体提供科学的个性化体检方案。专业医疗团队审核，权威可信赖。",
-              "icon": "/assets/favicon_1764148319851.png",
-              "enabled": true
-            },
-            {
-              "id": "1764575499840",
-              "title": "中医养生调理",
-              "href": "https://m.xjlz365.com/",
-              "description": "网站收集整理了中医各方面的方子，包括中草药、方剂、食疗、疾病、养生等。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=m.xjlz365.com",
               "enabled": true
             }
           ]
