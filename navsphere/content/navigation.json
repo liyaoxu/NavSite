@@ -414,7 +414,16 @@
           "icon": "Laptop",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1766568012838",
+              "title": "网易UU远程",
+              "href": "https://uuyc.163.com/",
+              "description": "网易出品的免费好用，超低延迟多端远程控制软件，能文件传输、同时控制被控端全部显示屏办公效率大大提升",
+              "icon": "/assets/favicon_1766568044124.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "29f23873-47fd-46bb-9545-5ad8edd97357",
