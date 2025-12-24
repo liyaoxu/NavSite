@@ -1195,6 +1195,14 @@
               "description": "一站式音视频解决剪辑难题，无论您需要视频剪辑、音频剪辑还是图片剪辑都游刃有余",
               "icon": "/assets/favicon_1764572256270.png",
               "enabled": true
+            },
+            {
+              "id": "1766563311477",
+              "title": "Fogsight",
+              "href": "https://fogsight.ai/app",
+              "description": "雾象是一款由大型语言模型（LLM）驱动的动画引擎 agent 。用户输入抽象概念或词语，雾象会将其转化为高水平的生动动画。\n您只需输入词语，点击生成，便可得到动画。",
+              "icon": "/assets/favicon_1766563313579.svg",
+              "enabled": true
             }
           ]
         },
