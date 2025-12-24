@@ -397,6 +397,14 @@
               "description": "在线听力室是一个免费在线外语听力学习网站，主要外语都包括，提供经典英语听力教程、英语MP3听力下载、新概念、VOA、少儿英语、四六级英语考试听力等大量英语听力学习资源，网站内英语辅导资料齐全，有效帮助广大英语爱好者完成英语自学课程，突破英语听力障碍！",
               "icon": "/assets/favicon_1764578630126.png",
               "enabled": true
+            },
+            {
+              "id": "1766563995432",
+              "title": "Cymath",
+              "href": "https://www.cymath.com/cn/",
+              "description": "一个解决数学问题的网站，数学问题求解器与步骤 | 数学求解应用程序",
+              "icon": "/assets/favicon_1766564002546.png",
+              "enabled": true
             }
           ]
         },
