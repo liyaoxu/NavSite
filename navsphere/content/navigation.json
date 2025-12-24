@@ -409,6 +409,14 @@
           ]
         },
         {
+          "id": "cc5d1aa8-9786-49a1-bc07-061af5149849",
+          "title": "远程办公",
+          "icon": "Laptop",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "29f23873-47fd-46bb-9545-5ad8edd97357",
           "title": "生活服务",
           "icon": "Heart",
@@ -717,14 +725,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "cc5d1aa8-9786-49a1-bc07-061af5149849",
-          "title": "远程办公",
-          "icon": "Laptop",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
