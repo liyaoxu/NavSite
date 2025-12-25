@@ -1716,7 +1716,16 @@
           "icon": "Box",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1766645230898",
+              "title": "Pinokio",
+              "href": "https://pinokio.co/",
+              "description": "一键部署Github 开源项目的免费神器Pinokio。",
+              "icon": "/assets/favicon_1766645234816.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
