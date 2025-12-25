@@ -1842,19 +1842,19 @@
               "enabled": true
             },
             {
-              "id": "1764579255980",
-              "title": "Drafito",
-              "href": "https://storage.chinapmcc.com/2025/07/chinaPMCC.com-DrafitoforChrome.zip",
-              "description": "Drafito是将网页导入到 Figma 设计文件中的一款插件。\n使用说明如下：\nhttps://surl.chinapmcc.com/web-to-axure",
-              "icon": "/assets/img_1764038499419.png",
-              "enabled": true
-            },
-            {
               "id": "1766643107028",
               "title": "draw.io",
               "href": "https://app.diagrams.net/",
               "description": "draw.io是一款在线绘图应用程序，可让您创建流程图、UML、实体关系、网络图、模型等。 您的数据仅存储在您选择的云存储中，因此无需额外信任第三方来保护您的数据。",
               "icon": "/assets/favicon_1766643116537.ico",
+              "enabled": true
+            },
+            {
+              "id": "1764579255980",
+              "title": "Drafito",
+              "href": "https://storage.chinapmcc.com/2025/07/chinaPMCC.com-DrafitoforChrome.zip",
+              "description": "Drafito是将网页导入到 Figma 设计文件中的一款插件。\n使用说明如下：\nhttps://surl.chinapmcc.com/web-to-axure",
+              "icon": "/assets/img_1764038499419.png",
               "enabled": true
             }
           ]
