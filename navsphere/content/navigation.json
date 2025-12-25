@@ -1318,6 +1318,14 @@
               "description": "Snack Prompt是一个社区驱动的平台，旨在为用户提供发现、分享与管理AI提示的服务。用户能在平台上找到适用于ChatGPT、Gemini等模型的各类优质提示，涵盖商业、健康、视觉等多领域。平台定位为提升AI使用效率与创造力的工具，助力个人和团队更好地利用AI技术。",
               "icon": "/assets/favicon_1764572956779.ico",
               "enabled": true
+            },
+            {
+              "id": "1766645369924",
+              "title": "Aiwind",
+              "href": "https://www.aiwind.org/",
+              "description": "免费 AI 绘图提示词大全，涵盖 Nanobanana Pro、Stable Diffusion、Midjourney、Flux-Kontext、Hunyuan、Imagen、Seedream、Wan、GPT、Qwen、DALL-E 等主流模型。",
+              "icon": "/assets/favicon_1766645376528.png",
+              "enabled": true
             }
           ]
         },
