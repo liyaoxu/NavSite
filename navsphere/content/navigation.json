@@ -2219,6 +2219,14 @@
               "description": "提供面向开发者的一系列免费API",
               "icon": "/assets/favicon_1766029002072.ico",
               "enabled": true
+            },
+            {
+              "id": "1766645769294",
+              "title": "RuoYi-Plus-Soybean",
+              "href": "https://docs.ruoyi.xlsea.cn/",
+              "description": "企业级多租户管理系统 结合了 RuoYi-Vue-Plus 的强大后端功能和 Soybean Admin 的现代化前端特性，为开发者提供了完整的企业管理解决方案。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=docs.ruoyi.xlsea.cn",
+              "enabled": true
             }
           ]
         },
