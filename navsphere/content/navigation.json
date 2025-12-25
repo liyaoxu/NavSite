@@ -1856,6 +1856,14 @@
               "description": "Drafito是将网页导入到 Figma 设计文件中的一款插件。\n使用说明如下：\nhttps://surl.chinapmcc.com/web-to-axure",
               "icon": "/assets/img_1764038499419.png",
               "enabled": true
+            },
+            {
+              "id": "1766643234226",
+              "title": "Next AI Draw.io",
+              "href": "https://next-ai-drawio.jiang.jp/zh",
+              "description": "这款免费在线工具集成了draw.io 和人工智能辅助功能，可帮助您创建专业级图表。利用人工智能创建 AWS 架构图、流程图和技术图等。",
+              "icon": "/assets/favicon_1766643239405.ico",
+              "enabled": true
             }
           ]
         },
