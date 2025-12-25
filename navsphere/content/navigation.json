@@ -1786,6 +1786,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1766565040540",
+              "title": "GemDesign",
+              "href": "https://design.gemcoder.com/",
+              "description": "GemDesign，一款AI时代的高保真原型设计工具，让界面设计变得简单高效。",
+              "icon": "/assets/favicon_1766565043698.png",
+              "enabled": true
+            },
+            {
               "id": "1764142362379",
               "title": "Flinto",
               "href": "https://www.flinto.com/",
@@ -1847,14 +1855,6 @@
               "href": "https://storage.chinapmcc.com/2025/07/chinaPMCC.com-DrafitoforChrome.zip",
               "description": "Drafito是将网页导入到 Figma 设计文件中的一款插件。\n使用说明如下：\nhttps://surl.chinapmcc.com/web-to-axure",
               "icon": "/assets/img_1764038499419.png",
-              "enabled": true
-            },
-            {
-              "id": "1766565040540",
-              "title": "GemDesign",
-              "href": "https://design.gemcoder.com/",
-              "description": "GemDesign，一款AI时代的高保真原型设计工具，让界面设计变得简单高效。",
-              "icon": "/assets/favicon_1766565043698.png",
               "enabled": true
             }
           ]
