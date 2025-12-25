@@ -1767,14 +1767,6 @@
               "description": "Figma 是一款基于 Web 的 UI 设计工具，具有云端存储、实时协作、直觉化操作等特点，更快地设计，原型和构建产品-同时在一个地方收集所有反馈，适合产品经理、设计师和非设计师使用。",
               "icon": "/assets/favicon_1764121039233.png",
               "enabled": true
-            },
-            {
-              "id": "1766642726356",
-              "title": "Axure RP",
-              "href": "https://www.axure.com/",
-              "description": "Axure RP是一种图形设计工具，允许用户为基于Web、移动和PC 的应用程序创建高度交互的HTML 原型。Axure RP凭借其独有的设计功能，帮助用户根据自己的初步想法，开发成线框图和原型。",
-              "icon": "/assets/favicon_1766642730288.ico",
-              "enabled": true
             }
           ]
         },
