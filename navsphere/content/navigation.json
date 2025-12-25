@@ -1709,6 +1709,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "a943df5c-623d-488d-850a-ee78e5f863b7",
+          "title": "安装打包工具",
+          "icon": "Box",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
