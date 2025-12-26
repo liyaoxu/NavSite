@@ -471,6 +471,14 @@
               "description": "Flightradar24 是最好的实时航班追踪器，可实时显示空中交通信息。覆盖范围广，功能强大！Flightradar24是由瑞典团队于2007年创建的航班追踪应用软件，通过网页及移动端提供实时航班动态。 该平台依托全球50000个地面站组成的接收网络，利用ADS-B和MLAT技术获取飞机位置数据，覆盖范围从北欧逐步扩展至全球，并与瑞典AVTECH公司达成数据整合合作。",
               "icon": "/assets/favicon_1766646179040.svg",
               "enabled": true
+            },
+            {
+              "id": "1766708504621",
+              "title": "默沙东诊疗手册",
+              "href": "https://www.msdmanuals.cn/",
+              "description": "默沙东诊疗手册（在美国和加拿大称为默沙东手册）是医生、学生和消费者的医学参考书的全球标准——自 1899 年至今。",
+              "icon": "/assets/favicon_1766708510441.ico",
+              "enabled": true
             }
           ]
         },
