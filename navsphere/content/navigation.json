@@ -1985,6 +1985,14 @@
               "description": "一款蚂蚁集团出品的企业级 UI 设计语言和 React UI 库，提供一套高质量的 React 组件，是企业最佳的 React UI 库之一",
               "icon": "/assets/favicon_1766711718185.png",
               "enabled": true
+            },
+            {
+              "id": "1766711769773",
+              "title": "Arco Design",
+              "href": "https://arco.design",
+              "description": "ArcoDesign 是一套设计系统的简称。\nArcoDesign 的目标, 即通过通用的设计系统去解决产品中的体验问题, 并为产品设计提供指导原则解决业务问题，同时它能够促进设计部门和研发部门之间协作, 成为开发者之间沟通的语言。\nArcoDesign 主要服务于字节跳动旗下中后台产品的体验设计和技术实现，主要由UED设计和开发同学共同构建及维护。",
+              "icon": "/assets/favicon_1766711776702.ico",
+              "enabled": true
             }
           ]
         },
