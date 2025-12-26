@@ -2165,7 +2165,16 @@
           "icon": "Target",
           "description": "产品分析工具、项目复盘模板、留存分析工具、版本规划工具。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1766712640647",
+              "title": "App Store Connect",
+              "href": "https://appstoreconnect.apple.com",
+              "description": "苹果应用商店管理后台",
+              "icon": "/assets/favicon_1766712645059.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
