@@ -2148,6 +2148,14 @@
               "description": "营销链接追踪工具，轻松创建、管理和分析UTM参数，优化您的营销活动效果。",
               "icon": "/assets/favicon_1764149252114.png",
               "enabled": true
+            },
+            {
+              "id": "1766712402218",
+              "title": "火山引擎A/B测试",
+              "href": "https://www.volcengine.com/product/datatester",
+              "description": "火山引擎 A/B 测试（DataTester）是字节跳动旗下的一站式实验与智能优化平台，核心能力一句话概括：“把字节内部打磨 10 年的科学分流＋统计引擎＋灰度发布能力对外开放，让产品、运营、算法团队都能用最小流量、最快速度验证创意、功能或模型，谁好谁上，负向一键回滚。”",
+              "icon": "/assets/favicon_1766712407874.png",
+              "enabled": true
             }
           ]
         },
