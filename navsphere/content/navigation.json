@@ -2086,6 +2086,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1766712005487",
+              "title": "Growingio",
+              "href": "https://www.growingio.com",
+              "description": "GrowingIO 是基于无埋点技术的用户行为分析平台，帮你实时采集数据、可视化漏斗、做 A/B 实验，用数据驱动产品增长。",
+              "icon": "/assets/favicon_1766712011332.png",
+              "enabled": true
+            },
+            {
               "id": "1764136855905",
               "title": "Google Analytics",
               "href": "https://analytics.google.com/",
@@ -2115,14 +2123,6 @@
               "href": "https://biaoda.me/",
               "description": "表答旨在将杂乱的内容转化为结构化的表格和可视化报告——帮助您从评论、留言、产品清单或您自己的 CSV/Excel 文件等网页数据中提取洞察，且仅需数秒。",
               "icon": "/assets/favicon_1766569772379.png",
-              "enabled": true
-            },
-            {
-              "id": "1766712005487",
-              "title": "Growingio",
-              "href": "https://www.growingio.com",
-              "description": "GrowingIO 是基于无埋点技术的用户行为分析平台，帮你实时采集数据、可视化漏斗、做 A/B 实验，用数据驱动产品增长。",
-              "icon": "/assets/favicon_1766712011332.png",
               "enabled": true
             }
           ]
