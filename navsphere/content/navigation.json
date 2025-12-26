@@ -479,6 +479,14 @@
               "description": "默沙东诊疗手册（在美国和加拿大称为默沙东手册）是医生、学生和消费者的医学参考书的全球标准——自 1899 年至今。",
               "icon": "/assets/favicon_1766708510441.ico",
               "enabled": true
+            },
+            {
+              "id": "1766708524806",
+              "title": "RHS",
+              "href": "https://www.rhs.org.uk/",
+              "description": "RHS是英国皇家园艺学会（Royal Horticultural Society，简称 RHS）的官方网站。该学会成立于 1808 年，是英国乃至全球最具影响力的园艺组织之一，主要职能包括：\n制定园艺标准、举办世界级花展（如切尔西花展）；\n运营四大植物园并维护全球最大园艺数据库；\n面向公众提供权威的植物种植、病虫害防治、园林设计等指南和在线工具。",
+              "icon": "/assets/favicon_1766708529403.ico",
+              "enabled": true
             }
           ]
         },
