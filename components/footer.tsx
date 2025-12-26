@@ -15,7 +15,8 @@ export function Footer({ siteInfo }: FooterProps) {
         <div className="flex flex-col items-center gap-4 px-8 md:flex-row md:gap-2 md:px-0">
           <p className="text-center text-sm leading-loose text-muted-foreground">
             {currentYear} {siteInfo.basic.title}. All rights reserved.
-            <br></>更新日期：2025/12/25 更新站点：35+
+              <br />
+                更新日期：2025/12/25 更新站点：35+
           </p>
         </div>
       </div>
