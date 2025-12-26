@@ -422,6 +422,14 @@
               "description": "网易出品的免费好用，超低延迟多端远程控制软件，能文件传输、同时控制被控端全部显示屏办公效率大大提升",
               "icon": "/assets/favicon_1766568044124.png",
               "enabled": true
+            },
+            {
+              "id": "1766710040206",
+              "title": "RustDesk",
+              "href": "https://rustdesk.com/zh-cn/",
+              "description": "RustDesk提供了一个开源的远程桌面解决方案，具有自托管服务器选项。是安全、私密和可定制的远程访问的完美TeamViewer替代品。",
+              "icon": "/assets/favicon_1766710045113.svg",
+              "enabled": true
             }
           ]
         },
