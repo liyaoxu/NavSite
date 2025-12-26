@@ -2191,6 +2191,14 @@
               "enabled": true
             },
             {
+              "id": "1766713523923",
+              "title": "PGYER",
+              "href": "https://www.pgyer.com/",
+              "description": "蒲公英是一款无限制的应用测试版本分发托管平台。它为苹果iOS和安卓应用提供免费的应用托管和测试版本分发服务。蒲公英是中文圈最老牌的「一键上传 IPA/APK → 自动生成二维码/短链 → 测试者扫码安装」内测分发平台，支持密码、设备白名单、版本更新提醒和崩溃日志收集，让 iOS/Android 灰度发布像发网盘链接一样简单。",
+              "icon": "/assets/favicon_1766713530242.ico",
+              "enabled": true
+            },
+            {
               "id": "1766713126825",
               "title": "TestFlight",
               "href": "https://developer.apple.com/testflight",
@@ -2212,14 +2220,6 @@
               "href": "https://bugly.qq.com/",
               "description": "Bugly 是腾讯推出的免费移动应用崩溃监控与质量跟踪平台，为移动开发者提供专业的异常上报和运营统计，帮助开发者快速发现并解决异常，同时掌握产品运营动态，及时跟进用户反馈。",
               "icon": "/assets/favicon_1766713313390.png",
-              "enabled": true
-            },
-            {
-              "id": "1766713523923",
-              "title": "PGYER",
-              "href": "https://www.pgyer.com/",
-              "description": "蒲公英是一款无限制的应用测试版本分发托管平台。它为苹果iOS和安卓应用提供免费的应用托管和测试版本分发服务。蒲公英是中文圈最老牌的「一键上传 IPA/APK → 自动生成二维码/短链 → 测试者扫码安装」内测分发平台，支持密码、设备白名单、版本更新提醒和崩溃日志收集，让 iOS/Android 灰度发布像发网盘链接一样简单。",
-              "icon": "/assets/favicon_1766713530242.ico",
               "enabled": true
             }
           ]
