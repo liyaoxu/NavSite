@@ -1920,6 +1920,14 @@
               "description": "Drafito是将网页导入到 Figma 设计文件中的一款插件。\n使用说明如下：\nhttps://surl.chinapmcc.com/web-to-axure",
               "icon": "/assets/img_1764038499419.png",
               "enabled": true
+            },
+            {
+              "id": "1766710641752",
+              "title": "Figma",
+              "href": "https://www.figma.com/",
+              "description": "Figma 是一款基于 Web 的 UI 设计工具，具有云端存储、实时协作、直觉化操作等特点，更快地设计，原型和构建产品-同时在一个地方收集所有反馈，适合产品经理、设计师和非设计师使用。",
+              "icon": "/assets/favicon_1766710650804.png",
+              "enabled": true
             }
           ]
         },
