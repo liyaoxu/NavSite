@@ -457,14 +457,6 @@
               "enabled": true
             },
             {
-              "id": "1766646175057",
-              "title": "Flight Tracker",
-              "href": "https://www.flightradar24.com/",
-              "description": "Flightradar24 是最好的实时航班追踪器，可实时显示空中交通信息。覆盖范围广，功能强大！Flightradar24是由瑞典团队于2007年创建的航班追踪应用软件，通过网页及移动端提供实时航班动态。 该平台依托全球50000个地面站组成的接收网络，利用ADS-B和MLAT技术获取飞机位置数据，覆盖范围从北欧逐步扩展至全球，并与瑞典AVTECH公司达成数据整合合作。",
-              "icon": "/assets/favicon_1766646179040.svg",
-              "enabled": true
-            },
-            {
               "id": "1764148317513",
               "title": "智能体检助手",
               "href": "https://checkup-helper.toolsnav.top/",
@@ -486,6 +478,14 @@
               "href": "https://www.rhs.org.uk/",
               "description": "RHS是英国皇家园艺学会（Royal Horticultural Society，简称 RHS）的官方网站。该学会成立于 1808 年，是英国乃至全球最具影响力的园艺组织之一，主要职能包括：\n制定园艺标准、举办世界级花展（如切尔西花展）；\n运营四大植物园并维护全球最大园艺数据库；\n面向公众提供权威的植物种植、病虫害防治、园林设计等指南和在线工具。",
               "icon": "/assets/favicon_1766708529403.ico",
+              "enabled": true
+            },
+            {
+              "id": "1766646175057",
+              "title": "Flight Tracker",
+              "href": "https://www.flightradar24.com/",
+              "description": "Flightradar24 是最好的实时航班追踪器，可实时显示空中交通信息。覆盖范围广，功能强大！Flightradar24是由瑞典团队于2007年创建的航班追踪应用软件，通过网页及移动端提供实时航班动态。 该平台依托全球50000个地面站组成的接收网络，利用ADS-B和MLAT技术获取飞机位置数据，覆盖范围从北欧逐步扩展至全球，并与瑞典AVTECH公司达成数据整合合作。",
+              "icon": "/assets/favicon_1766646179040.svg",
               "enabled": true
             }
           ]
