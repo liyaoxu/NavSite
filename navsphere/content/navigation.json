@@ -1834,19 +1834,19 @@
               "enabled": true
             },
             {
-              "id": "1766711082825",
-              "title": "ProcessOn",
-              "href": "https://www.processon.com",
-              "description": "ProcessOn是一款专业在线作图工具和知识分享社区，支持AI一键生成思维导图和流程图。可绘制甘特图、ER图、UML、网络拓扑图、电路图、平面图、鱼骨图、组织结构图、时间轴等多种图形，同时可实现人与人之间的实时协作和共享，提升团队工作效率。",
-              "icon": "/assets/favicon_1766711092856.png",
-              "enabled": true
-            },
-            {
               "id": "1766711251919",
               "title": "Confluence",
               "href": "https://www.atlassian.com/software/confluence",
               "description": "Confluence（@Atlassian） 是一款面向企业的“知识管理与协同文档”SaaS／本地部署软件，由澳大利亚 Atlassian 公司开发。它把“多人实时编辑 + 版本控制 + 权限体系 + 结构化空间”打包在一起，让产品、研发、测试、运营可以把 PRD、会议纪要、技术方案、API 文档全部沉淀在同一平台，并与 Jira、Trello、Bitbucket 等 Atlassian 生态工具双向联动。",
               "icon": "/assets/favicon_1766711267780.png",
+              "enabled": true
+            },
+            {
+              "id": "1766711082825",
+              "title": "ProcessOn",
+              "href": "https://www.processon.com",
+              "description": "ProcessOn是一款专业在线作图工具和知识分享社区，支持AI一键生成思维导图和流程图。可绘制甘特图、ER图、UML、网络拓扑图、电路图、平面图、鱼骨图、组织结构图、时间轴等多种图形，同时可实现人与人之间的实时协作和共享，提升团队工作效率。",
+              "icon": "/assets/favicon_1766711092856.png",
               "enabled": true
             }
           ]
