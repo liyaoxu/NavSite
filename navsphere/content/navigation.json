@@ -1977,6 +1977,14 @@
               "description": "Drafito是将网页导入到 Figma 设计文件中的一款插件。\n使用说明如下：\nhttps://surl.chinapmcc.com/web-to-axure",
               "icon": "/assets/img_1764038499419.png",
               "enabled": true
+            },
+            {
+              "id": "1766711712500",
+              "title": "Ant Design",
+              "href": "https://ant.design",
+              "description": "一款蚂蚁集团出品的企业级 UI 设计语言和 React UI 库，提供一套高质量的 React 组件，是企业最佳的 React UI 库之一",
+              "icon": "/assets/favicon_1766711718185.png",
+              "enabled": true
             }
           ]
         },
