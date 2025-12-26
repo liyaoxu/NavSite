@@ -2118,6 +2118,14 @@
               "enabled": true
             },
             {
+              "id": "1766712261849",
+              "title": "Quick BI",
+              "href": "https://www.aliyun.com/product/bigdata/bi",
+              "description": "Quick BI 是阿里云推出的云端自助式 BI 平台，拖拽即可做图表、大屏和门户，内置 AI 对话问数、毫秒级加速引擎，无缝集成钉钉/企业微信，把数据一键变成可行动的业务洞察 。",
+              "icon": "/assets/favicon_1766712267702.png",
+              "enabled": true
+            },
+            {
               "id": "1764136948841",
               "title": "Google AdSense",
               "href": "https://www.google.com/adsense/",
@@ -2139,14 +2147,6 @@
               "href": "https://biaoda.me/",
               "description": "表答旨在将杂乱的内容转化为结构化的表格和可视化报告——帮助您从评论、留言、产品清单或您自己的 CSV/Excel 文件等网页数据中提取洞察，且仅需数秒。",
               "icon": "/assets/favicon_1766569772379.png",
-              "enabled": true
-            },
-            {
-              "id": "1766712261849",
-              "title": "Quick BI",
-              "href": "https://www.aliyun.com/product/bigdata/bi",
-              "description": "Quick BI 是阿里云推出的云端自助式 BI 平台，拖拽即可做图表、大屏和门户，内置 AI 对话问数、毫秒级加速引擎，无缝集成钉钉/企业微信，把数据一键变成可行动的业务洞察 。",
-              "icon": "/assets/favicon_1766712267702.png",
               "enabled": true
             }
           ]
