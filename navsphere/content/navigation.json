@@ -2191,19 +2191,19 @@
               "enabled": true
             },
             {
-              "id": "1766712991870",
-              "title": "Delighted",
-              "href": "https://delighted.com",
-              "description": "Delighted 是“一键发送 1 问 NPS 邮件/短信→实时回收→自动算分→看板预警”的轻量级体验监测平台，帮你在几小时内知道用户到底愿不愿意推荐你的产品。",
-              "icon": "/assets/favicon_1766712997388.png",
-              "enabled": true
-            },
-            {
               "id": "1766713126825",
               "title": "TestFlight",
               "href": "https://developer.apple.com/testflight",
               "description": "苹果应用测试分发平台，TestFlight 测试版让你可以邀请用户在你将应用发布到 App Store 之前测试应用的测试版版本。",
               "icon": "/assets/favicon_1766713132306.ico",
+              "enabled": true
+            },
+            {
+              "id": "1766712991870",
+              "title": "Delighted",
+              "href": "https://delighted.com",
+              "description": "Delighted 是“一键发送 1 问 NPS 邮件/短信→实时回收→自动算分→看板预警”的轻量级体验监测平台，帮你在几小时内知道用户到底愿不愿意推荐你的产品。",
+              "icon": "/assets/favicon_1766712997388.png",
               "enabled": true
             },
             {
