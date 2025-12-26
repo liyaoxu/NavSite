@@ -2205,6 +2205,14 @@
               "description": "苹果应用测试分发平台，TestFlight 测试版让你可以邀请用户在你将应用发布到 App Store 之前测试应用的测试版版本。",
               "icon": "/assets/favicon_1766713132306.ico",
               "enabled": true
+            },
+            {
+              "id": "1766713307443",
+              "title": "Bugly",
+              "href": "https://bugly.qq.com/",
+              "description": "Bugly 是腾讯推出的免费移动应用崩溃监控与质量跟踪平台，为移动开发者提供专业的异常上报和运营统计，帮助开发者快速发现并解决异常，同时掌握产品运营动态，及时跟进用户反馈。",
+              "icon": "/assets/favicon_1766713313390.png",
+              "enabled": true
             }
           ]
         }
