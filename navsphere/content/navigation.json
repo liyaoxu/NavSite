@@ -1834,14 +1834,6 @@
               "enabled": true
             },
             {
-              "id": "1766711251919",
-              "title": "Confluence",
-              "href": "https://www.atlassian.com/software/confluence",
-              "description": "Confluence（@Atlassian） 是一款面向企业的“知识管理与协同文档”SaaS／本地部署软件，由澳大利亚 Atlassian 公司开发。它把“多人实时编辑 + 版本控制 + 权限体系 + 结构化空间”打包在一起，让产品、研发、测试、运营可以把 PRD、会议纪要、技术方案、API 文档全部沉淀在同一平台，并与 Jira、Trello、Bitbucket 等 Atlassian 生态工具双向联动。",
-              "icon": "/assets/favicon_1766711267780.png",
-              "enabled": true
-            },
-            {
               "id": "1766711082825",
               "title": "ProcessOn",
               "href": "https://www.processon.com",
@@ -1855,6 +1847,14 @@
               "href": "https://xmind.cn",
               "description": "Xmind 是一款跨平台思维导图/头脑风暴软件，由深圳 Xmind Ltd. 开发，支持 Windows、macOS、Linux、iOS 和 Android。它把“一键展开折叠、拖拽节点、富文本+图标+备注”做成极简交互，帮助产品经理、学生、咨询师把零散想法快速结构化，再导出为图片/PDF/Word/Markdown 进行汇报或二次编辑。",
               "icon": "/assets/favicon_1766711318154.png",
+              "enabled": true
+            },
+            {
+              "id": "1766711251919",
+              "title": "Confluence",
+              "href": "https://www.atlassian.com/software/confluence",
+              "description": "Confluence（@Atlassian） 是一款面向企业的“知识管理与协同文档”SaaS／本地部署软件，由澳大利亚 Atlassian 公司开发。它把“多人实时编辑 + 版本控制 + 权限体系 + 结构化空间”打包在一起，让产品、研发、测试、运营可以把 PRD、会议纪要、技术方案、API 文档全部沉淀在同一平台，并与 Jira、Trello、Bitbucket 等 Atlassian 生态工具双向联动。",
+              "icon": "/assets/favicon_1766711267780.png",
               "enabled": true
             },
             {
