@@ -1824,7 +1824,16 @@
           "icon": "Flag",
           "description": "思维导图工具、需求池管理工具、用户故事地图工具、PRD文档模板、优先级排序框架。",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1766710885632",
+              "title": "UserVoice",
+              "href": "https://www.uservoice.com",
+              "description": "强大的用户反馈，需求收集软件，帮助您倾听并了解客户需求，优先考虑重要功能，并高效地进行创新。将客户反馈集中到一个单一的权威来源，并使用领先的产品反馈管理平台构建可定制的路线图。",
+              "icon": "/assets/favicon_1766710891007.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "0e65b366-675c-4d16-b7ab-be9b03c3b7e2",
