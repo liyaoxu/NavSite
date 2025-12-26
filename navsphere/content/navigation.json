@@ -1864,6 +1864,14 @@
               "description": "飞书文档是可多人实时编辑的在线文档工具，在飞书文档可以实时协同编辑，看到的永远都是最新版。文档中还可以@同事、添加评论、插入任务列表等多种类型的内容，岂止于文档，更是丰富的创作工具。",
               "icon": "/assets/favicon_1766711403412.png",
               "enabled": true
+            },
+            {
+              "id": "1766711480916",
+              "title": "Canny",
+              "href": "https://canny.io",
+              "description": "Canny 帮助您收集和整理功能请求，更好地了解客户需求并优先安排产品路线图。",
+              "icon": "/assets/favicon_1766711486021.png",
+              "enabled": true
             }
           ]
         },
