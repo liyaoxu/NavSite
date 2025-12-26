@@ -2110,6 +2110,14 @@
               "enabled": true
             },
             {
+              "id": "1766712161812",
+              "title": "Tableau",
+              "href": "https://www.tableau.com",
+              "description": "Tableau 是“拖几下鼠标就能把数据变成交互图表”的可视化 BI 工具，连完数据源即可实时出图、做仪表板、讲故事，不懂代码也能做大数据分析。",
+              "icon": "/assets/favicon_1766712166346.ico",
+              "enabled": true
+            },
+            {
               "id": "1764136948841",
               "title": "Google AdSense",
               "href": "https://www.google.com/adsense/",
@@ -2131,14 +2139,6 @@
               "href": "https://biaoda.me/",
               "description": "表答旨在将杂乱的内容转化为结构化的表格和可视化报告——帮助您从评论、留言、产品清单或您自己的 CSV/Excel 文件等网页数据中提取洞察，且仅需数秒。",
               "icon": "/assets/favicon_1766569772379.png",
-              "enabled": true
-            },
-            {
-              "id": "1766712161812",
-              "title": "Tableau",
-              "href": "https://www.tableau.com",
-              "description": "Tableau 是“拖几下鼠标就能把数据变成交互图表”的可视化 BI 工具，连完数据源即可实时出图、做仪表板、讲故事，不懂代码也能做大数据分析。",
-              "icon": "/assets/favicon_1766712166346.ico",
               "enabled": true
             }
           ]
