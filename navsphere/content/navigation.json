@@ -2189,6 +2189,14 @@
               "description": "腾讯应用商店开发者平台",
               "icon": "/assets/favicon_1766712763754.png",
               "enabled": true
+            },
+            {
+              "id": "1766712991870",
+              "title": "Delighted",
+              "href": "https://delighted.com",
+              "description": "Delighted 是“一键发送 1 问 NPS 邮件/短信→实时回收→自动算分→看板预警”的轻量级体验监测平台，帮你在几小时内知道用户到底愿不愿意推荐你的产品。",
+              "icon": "/assets/favicon_1766712997388.png",
+              "enabled": true
             }
           ]
         }
