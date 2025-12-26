@@ -2173,6 +2173,14 @@
               "description": "苹果应用商店管理后台",
               "icon": "/assets/favicon_1766712645059.png",
               "enabled": true
+            },
+            {
+              "id": "1766712690576",
+              "title": "Google Play 管理中心",
+              "href": "https://play.google.com/console",
+              "description": "谷歌应用商店管理后台，帮助您在 Google Play 上拓展业务的合作伙伴。查找发布应用和游戏、通过应用或游戏变现以及拓展相关业务所需的工具和指南。",
+              "icon": "/assets/favicon_1766712695609.png",
+              "enabled": true
             }
           ]
         }
