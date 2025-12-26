@@ -2126,6 +2126,14 @@
               "enabled": true
             },
             {
+              "id": "1766569756866",
+              "title": "Biaoda",
+              "href": "https://biaoda.me/",
+              "description": "表答旨在将杂乱的内容转化为结构化的表格和可视化报告——帮助您从评论、留言、产品清单或您自己的 CSV/Excel 文件等网页数据中提取洞察，且仅需数秒。",
+              "icon": "/assets/favicon_1766569772379.png",
+              "enabled": true
+            },
+            {
               "id": "1764136948841",
               "title": "Google AdSense",
               "href": "https://www.google.com/adsense/",
@@ -2139,14 +2147,6 @@
               "href": "https://utm-url-builder.toolsnav.top/",
               "description": "营销链接追踪工具，轻松创建、管理和分析UTM参数，优化您的营销活动效果。",
               "icon": "/assets/favicon_1764149252114.png",
-              "enabled": true
-            },
-            {
-              "id": "1766569756866",
-              "title": "Biaoda",
-              "href": "https://biaoda.me/",
-              "description": "表答旨在将杂乱的内容转化为结构化的表格和可视化报告——帮助您从评论、留言、产品清单或您自己的 CSV/Excel 文件等网页数据中提取洞察，且仅需数秒。",
-              "icon": "/assets/favicon_1766569772379.png",
               "enabled": true
             }
           ]
