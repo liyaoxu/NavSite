@@ -1856,6 +1856,14 @@
               "description": "Xmind 是一款跨平台思维导图/头脑风暴软件，由深圳 Xmind Ltd. 开发，支持 Windows、macOS、Linux、iOS 和 Android。它把“一键展开折叠、拖拽节点、富文本+图标+备注”做成极简交互，帮助产品经理、学生、咨询师把零散想法快速结构化，再导出为图片/PDF/Word/Markdown 进行汇报或二次编辑。",
               "icon": "/assets/favicon_1766711318154.png",
               "enabled": true
+            },
+            {
+              "id": "1766711397317",
+              "title": "飞书云文档",
+              "href": "https://www.feishu.cn/product/docs",
+              "description": "飞书文档是可多人实时编辑的在线文档工具，在飞书文档可以实时协同编辑，看到的永远都是最新版。文档中还可以@同事、添加评论、插入任务列表等多种类型的内容，岂止于文档，更是丰富的创作工具。",
+              "icon": "/assets/favicon_1766711403412.png",
+              "enabled": true
             }
           ]
         },
