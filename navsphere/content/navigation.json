@@ -2094,6 +2094,14 @@
               "enabled": true
             },
             {
+              "id": "1766712089137",
+              "title": "Sensorsdata",
+              "href": "https://www.sensorsdata.cn/",
+              "description": "神策数据官网，一站提供用户行为埋点、实时分析、智能运营与 A/B 测试，帮企业用数据驱动增长。",
+              "icon": "/assets/favicon_1766712094767.png",
+              "enabled": true
+            },
+            {
               "id": "1764136855905",
               "title": "Google Analytics",
               "href": "https://analytics.google.com/",
@@ -2123,14 +2131,6 @@
               "href": "https://biaoda.me/",
               "description": "表答旨在将杂乱的内容转化为结构化的表格和可视化报告——帮助您从评论、留言、产品清单或您自己的 CSV/Excel 文件等网页数据中提取洞察，且仅需数秒。",
               "icon": "/assets/favicon_1766569772379.png",
-              "enabled": true
-            },
-            {
-              "id": "1766712089137",
-              "title": "Sensorsdata",
-              "href": "https://www.sensorsdata.cn/",
-              "description": "神策数据官网，一站提供用户行为埋点、实时分析、智能运营与 A/B 测试，帮企业用数据驱动增长。",
-              "icon": "/assets/favicon_1766712094767.png",
               "enabled": true
             }
           ]
