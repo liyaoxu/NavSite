@@ -715,6 +715,14 @@
               "description": "狗度网盘提取码：2828",
               "icon": "/assets/favicon_1764576460305.png",
               "enabled": true
+            },
+            {
+              "id": "1767160703825",
+              "title": "抖音热卖车载音乐系列+视频系列",
+              "href": "https://pan.quark.cn/s/3aba42d8c4c8",
+              "description": "抖音热卖车载音乐系列+视频系列",
+              "icon": "/assets/favicon_1767160778376.png",
+              "enabled": true
             }
           ]
         },
