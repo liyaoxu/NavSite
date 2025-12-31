@@ -731,6 +731,14 @@
               "description": "车载热舞MV，DJ音乐资源，某宝花128买到的好资源180G",
               "icon": "/assets/favicon_1767160868627.ico",
               "enabled": true
+            },
+            {
+              "id": "1767160991525",
+              "title": "72部搞钱记录片",
+              "href": "https://pan.quark.cn/s/3307bb32a1ee",
+              "description": "72部搞钱记录片-搞钱学习必备335G",
+              "icon": "/assets/favicon_1767160996187.png",
+              "enabled": true
             }
           ]
         },
