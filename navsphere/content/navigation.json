@@ -747,6 +747,14 @@
               "description": "周杰伦所有专辑和单曲合集，花了很大力气才收集来的4.8G",
               "icon": "/assets/favicon_1767161198946.png",
               "enabled": true
+            },
+            {
+              "id": "1767161276600",
+              "title": "百家讲坛最全合集",
+              "href": "https://pan.quark.cn/s/2c10a71eb688",
+              "description": "百家讲坛最全合集【468GB】附七周年限量珍藏版",
+              "icon": "/assets/favicon_1767161290275.png",
+              "enabled": true
             }
           ]
         },
