@@ -16,7 +16,7 @@ export function Footer({ siteInfo }: FooterProps) {
           <p className="text-center text-sm leading-loose text-muted-foreground">
             {currentYear} {siteInfo.basic.title}. All rights reserved.
               <br />
-                更新日期：2025/12/25 更新站点：35+
+                更新日期：2026/1/28 更新站点：10+
           </p>
         </div>
       </div>
