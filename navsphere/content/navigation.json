@@ -2589,6 +2589,14 @@
               "description": "GPT Pilot 是一个面向开发者的开源工具，定位为 AI 开发伴侣，可以生成代码、构建应用并在开发者监督下调试与迭代。项目包含 CLI、VS Code 扩展与 Docker 支持，旨在把 LLM 用于大规模代码生成与协作式开发。",
               "icon": "/assets/favicon_1766643764936.png",
               "enabled": true
+            },
+            {
+              "id": "1769480357017",
+              "title": "Skillsmp",
+              "href": "https://skillsmp.com/zh",
+              "description": "Agent Skills 是扩展 AI 编程助手功能的模块化能力。每个 skill 由一个包含指令的 SKILL.md 文件以及可选的脚本和模板组成。2025 年 12 月，Anthropic 将 Agent Skills 规范作为开放标准发布，OpenAI 也在 Codex CLI 和 ChatGPT 中采用了相同格式。Skills 由模型调用——AI 会根据上下文自主决定何时使用它们。",
+              "icon": "/assets/favicon_1769480362342.png",
+              "enabled": true
             }
           ]
         },
