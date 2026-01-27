@@ -2114,6 +2114,14 @@
               "description": "ArcoDesign 是一套设计系统的简称。\nArcoDesign 的目标, 即通过通用的设计系统去解决产品中的体验问题, 并为产品设计提供指导原则解决业务问题，同时它能够促进设计部门和研发部门之间协作, 成为开发者之间沟通的语言。\nArcoDesign 主要服务于字节跳动旗下中后台产品的体验设计和技术实现，主要由UED设计和开发同学共同构建及维护。",
               "icon": "/assets/favicon_1766711776702.ico",
               "enabled": true
+            },
+            {
+              "id": "1769485125730",
+              "title": "Lovable",
+              "href": "https://lovable.dev/",
+              "description": "Build apps, websites, and digital products faster using Lovable’s no-code and AI-powered platform, no deep coding skills required.",
+              "icon": "/assets/favicon_1769485130121.svg",
+              "enabled": true
             }
           ]
         },
