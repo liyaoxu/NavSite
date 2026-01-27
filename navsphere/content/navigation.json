@@ -3137,6 +3137,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "3ab3b526-8f3f-4da5-913d-9474a3fbe9e8",
+          "title": "副业赚钱平台",
+          "icon": "Coffee",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
