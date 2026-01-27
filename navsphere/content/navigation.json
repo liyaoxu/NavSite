@@ -3144,7 +3144,16 @@
           "icon": "Coffee",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1769481805552",
+              "title": "DataAnnotation",
+              "href": "https://www.dataannotation.tech/",
+              "description": "Apply to DataAnnotation to train AI for on-demand work from home. Choose from diverse tasks that suit your skills, with flexible hours and pay starting at $20+/hour.",
+              "icon": "/assets/favicon_1769481808794.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
