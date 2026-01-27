@@ -791,6 +791,14 @@
           ]
         },
         {
+          "id": "333c01de-6810-4536-b7d7-780cbb2a9632",
+          "title": "激活破解",
+          "icon": "Code",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "25e9d7cd-ea38-42fe-ba02-6d61b6919177",
           "title": "有意思的网站",
           "icon": "Zap",
@@ -854,14 +862,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "333c01de-6810-4536-b7d7-780cbb2a9632",
-          "title": "激活破解",
-          "icon": "Code",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
