@@ -2854,6 +2854,14 @@
               "description": "A股商品等基金净值计算工具",
               "icon": "/assets/favicon_1760611626932.png",
               "enabled": true
+            },
+            {
+              "id": "1769479698365",
+              "title": "ValueCell",
+              "href": "https://valuecell.ai/",
+              "description": "ValueCell 现已提供 A 股深度研究与市场分析，且无需部署——直接访问 valuecell.ai。ValueCell 是一个社区驱动的多智能体金融应用平台，我们的使命是打造世界最大的去中心化金融智能体社区。",
+              "icon": "/assets/favicon_1769479702392.svg",
+              "enabled": true
             }
           ]
         }
