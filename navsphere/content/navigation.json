@@ -2519,6 +2519,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1769479128658",
+              "title": "OpenCode",
+              "href": "https://opencode.ai/",
+              "description": "OpenCode 是一个开源的 AI 编程代理。它可作为基于终端的界面、桌面应用程序或 IDE 扩展使用。",
+              "icon": "/assets/favicon_1769479142796.png",
+              "enabled": true
+            },
+            {
               "id": "1737529639971",
               "title": "Cursor",
               "href": "https://www.cursor.com/",
@@ -2580,14 +2588,6 @@
               "href": "https://www.pythagora.ai/",
               "description": "GPT Pilot 是一个面向开发者的开源工具，定位为 AI 开发伴侣，可以生成代码、构建应用并在开发者监督下调试与迭代。项目包含 CLI、VS Code 扩展与 Docker 支持，旨在把 LLM 用于大规模代码生成与协作式开发。",
               "icon": "/assets/favicon_1766643764936.png",
-              "enabled": true
-            },
-            {
-              "id": "1769479128658",
-              "title": "OpenCode",
-              "href": "https://opencode.ai/",
-              "description": "OpenCode 是一个开源的 AI 编程代理。它可作为基于终端的界面、桌面应用程序或 IDE 扩展使用。",
-              "icon": "/assets/favicon_1769479142796.png",
               "enabled": true
             }
           ]
