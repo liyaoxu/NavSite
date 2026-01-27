@@ -796,7 +796,16 @@
           "icon": "Code",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1769480926035",
+              "title": "Windows激活码",
+              "href": "https://www.chinapmcc.com/",
+              "description": "WIN10：FJV4D-B2N99-2PV72-QJ627-YY49M",
+              "icon": "/assets/favicon_1769480965367.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "25e9d7cd-ea38-42fe-ba02-6d61b6919177",
