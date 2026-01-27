@@ -240,6 +240,14 @@
               "description": "使用md2image-最好的免费Markdown到图像转换器在线转换Markdown到图像。从Markdown创建漂亮的社交媒体图像，文档和代码片段。快速，轻松的MD图像转换与8个惊人的主题。",
               "icon": "/assets/favicon_1764146468817.ico",
               "enabled": true
+            },
+            {
+              "id": "1769485630826",
+              "title": "FreeConvert",
+              "href": "https://www.freeconvert.com/zh",
+              "description": "文件转换器 - 在线转换 2000 多种音频、图像、视频、电子书、文档和档案格式。无需安装软件，免费使用。",
+              "icon": "/assets/favicon_1769485634227.png",
+              "enabled": true
             }
           ]
         },
