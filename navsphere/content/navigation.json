@@ -3245,6 +3245,14 @@
               "description": "AlgerMusicPlayer 音乐播放器，支持在线播放、歌词显示、音乐下载等功能。提供海量音乐资源，让您随时随地享受音乐。",
               "icon": "/assets/favicon_1769563682276.ico",
               "enabled": true
+            },
+            {
+              "id": "1769566559460",
+              "title": "Sampld",
+              "href": "https://sampld.app/",
+              "description": "Sampld is a sound sharing platform made for musicians and content creators. Find high-quality sounds for free, and use it any way you like.",
+              "icon": "/assets/favicon_1769566562411.png",
+              "enabled": true
             }
           ]
         },
