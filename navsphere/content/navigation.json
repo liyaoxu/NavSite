@@ -3253,6 +3253,14 @@
               "description": "Sampld is a sound sharing platform made for musicians and content creators. Find high-quality sounds for free, and use it any way you like.",
               "icon": "/assets/favicon_1769566562411.png",
               "enabled": true
+            },
+            {
+              "id": "1769567094922",
+              "title": "布谷音乐网",
+              "href": "https://www.buguyy.top/",
+              "description": "布谷音乐网-在线音乐-无损音乐免费下载",
+              "icon": "https://www.buguyy.top/vite.svg",
+              "enabled": true
             }
           ]
         },
