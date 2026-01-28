@@ -3196,6 +3196,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "022f9814-37fc-4bf3-9e11-85e78a8dd834",
+          "title": "动漫专栏",
+          "icon": "Image",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
