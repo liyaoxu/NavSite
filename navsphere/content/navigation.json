@@ -3187,7 +3187,16 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1769563474778",
+              "title": "SeedHub | 影视&动漫分享",
+              "href": "https://www.seedhub.cc/",
+              "description": "SeedHub 每天为您分享优质的电影、电视剧和动漫资讯。免费分享，无需注册，更新及时，我们致力打造最好的影视资讯分享站！",
+              "icon": "/assets/favicon_1769563477251.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "ae7d79cf-a388-44b5-9551-2d79b9d7143b",
