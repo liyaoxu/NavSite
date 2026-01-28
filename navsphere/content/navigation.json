@@ -3237,7 +3237,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1769563807111",
+              "title": "书格",
+              "href": "https://www.shuge.org/",
+              "description": "书格的一个口号就是：每个人都能自由地看到我们的文明。我们鼓励更利于传播、更利于长期保存的数字文件。",
+              "icon": "/assets/favicon_1769563809920.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
