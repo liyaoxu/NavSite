@@ -3261,6 +3261,14 @@
               "description": "布谷音乐网-在线音乐-无损音乐免费下载",
               "icon": "https://www.buguyy.top/vite.svg",
               "enabled": true
+            },
+            {
+              "id": "1769567128259",
+              "title": "种子音乐",
+              "href": "https://zz123.com/",
+              "description": "精选2025最好听的全网歌曲,最新音乐免费畅听,抖音歌曲,分类齐全,歌曲数量丰富,更新及时.种子音乐全站收集了经典老歌,欧美流行,中文DJ等期待您的体验。",
+              "icon": "/assets/favicon_1769567131469.ico",
+              "enabled": true
             }
           ]
         },
