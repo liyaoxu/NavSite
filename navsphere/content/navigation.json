@@ -3188,6 +3188,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "ae7d79cf-a388-44b5-9551-2d79b9d7143b",
+          "title": "音乐专栏",
+          "icon": "Music",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
