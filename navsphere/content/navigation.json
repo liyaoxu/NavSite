@@ -3254,6 +3254,14 @@
               "description": "高清Kindle格式漫画下载，支持推送漫画到kindle设备。",
               "icon": "/assets/favicon_1769565394932.png",
               "enabled": true
+            },
+            {
+              "id": "1769565504408",
+              "title": "漫畫狗",
+              "href": "https://dogemanga.com/",
+              "description": "漫畫狗 - 免費分享與閱讀網路漫畫",
+              "icon": "/assets/favicon_1769565507082.png",
+              "enabled": true
             }
           ]
         },
