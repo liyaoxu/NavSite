@@ -3253,6 +3253,14 @@
               "description": "Honey PDF(honeypdf.com)每天精选互联网好看的电子书及TXT全集电子书文档供浏览者学习使用，各类PDF书籍下载仅供学习交流使用。",
               "icon": "/assets/favicon_1769563942032.ico",
               "enabled": true
+            },
+            {
+              "id": "1769563965894",
+              "title": "可阅文学",
+              "href": "https://www.kepub.net/",
+              "description": "",
+              "icon": "/assets/favicon_1769563969118.png",
+              "enabled": true
             }
           ]
         }
