@@ -3172,6 +3172,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1769563121958",
+      "title": "休闲娱乐",
+      "icon": "Video",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
