@@ -3262,6 +3262,14 @@
               "description": "漫畫狗 - 免費分享與閱讀網路漫畫",
               "icon": "/assets/favicon_1769565507082.png",
               "enabled": true
+            },
+            {
+              "id": "1769565521889",
+              "title": "Komiic",
+              "href": "https://komiic.com/",
+              "description": "漫畫網站，現在努力的在經營這個網站，想把它做到最好，目前漫畫數不多，大多在1400本漫畫, 陸續增加中，會定期更新，會努力的給你最好的體驗",
+              "icon": "/assets/favicon_1769565523700.png",
+              "enabled": true
             }
           ]
         },
