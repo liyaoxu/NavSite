@@ -1698,9 +1698,9 @@
         },
         {
           "id": "8_3",
-          "title": "平面素材",
+          "title": "视觉素材",
           "href": "#平面素材",
-          "icon": "",
+          "icon": "Image",
           "description": "",
           "items": [
             {
@@ -1719,7 +1719,8 @@
               "icon": "/assets/images/logos/unsplash.png",
               "enabled": true
             }
-          ]
+          ],
+          "enabled": true
         },
         {
           "id": "24c3efcb-413f-46e7-bfdb-e7acaffb01e7",
