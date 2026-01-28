@@ -3270,6 +3270,14 @@
               "description": "漫畫網站，現在努力的在經營這個網站，想把它做到最好，目前漫畫數不多，大多在1400本漫畫, 陸續增加中，會定期更新，會努力的給你最好的體驗",
               "icon": "/assets/favicon_1769565523700.png",
               "enabled": true
+            },
+            {
+              "id": "1769565538903",
+              "title": "KADOKAWAの無料漫画が読める！",
+              "href": "https://comic-walker.com/",
+              "description": "Webでもアプリでも読めるKADOKAWAのオリジナル無料漫画連載が勢揃い！異世界コミックやFLOS COMICなどの、人気漫画レーベルが集結！",
+              "icon": "/assets/favicon_1769565540652.ico",
+              "enabled": true
             }
           ]
         },
