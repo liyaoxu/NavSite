@@ -3220,6 +3220,14 @@
               "description": "超清在线视频",
               "icon": "/assets/favicon_1769563567409.ico",
               "enabled": true
+            },
+            {
+              "id": "1769566138331",
+              "title": "淘淘影院",
+              "href": "https://buding3.com/",
+              "description": "各类电视剧在线播放",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=buding3.com",
+              "enabled": true
             }
           ]
         },
