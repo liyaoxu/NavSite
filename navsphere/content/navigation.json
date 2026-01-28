@@ -3230,6 +3230,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "088b5bee-a8c6-4ce5-a16c-205633c7de8f",
+          "title": "读物专栏",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
