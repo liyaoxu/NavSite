@@ -1583,6 +1583,32 @@
           ]
         },
         {
+          "id": "8_3",
+          "title": "视觉素材",
+          "href": "#平面素材",
+          "icon": "Image",
+          "description": "",
+          "items": [
+            {
+              "id": "8_3_1",
+              "title": "Freepik",
+              "href": "https://www.freepik.com/",
+              "description": "免费矢量素材",
+              "icon": "/assets/images/logos/freepik.png",
+              "enabled": true
+            },
+            {
+              "id": "8_3_2",
+              "title": "Unsplash",
+              "href": "https://unsplash.com/",
+              "description": "免费高清图片",
+              "icon": "/assets/images/logos/unsplash.png",
+              "enabled": true
+            }
+          ],
+          "enabled": true
+        },
+        {
           "id": "8_1",
           "title": "图标素材",
           "href": "#图标素材",
@@ -1691,32 +1717,6 @@
               "href": "https://lucide.dev/",
               "description": "由社区制作的漂亮和一致的图标工具包。",
               "icon": "/assets/favicon_1764139025859.png",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
-          "id": "8_3",
-          "title": "视觉素材",
-          "href": "#平面素材",
-          "icon": "Image",
-          "description": "",
-          "items": [
-            {
-              "id": "8_3_1",
-              "title": "Freepik",
-              "href": "https://www.freepik.com/",
-              "description": "免费矢量素材",
-              "icon": "/assets/images/logos/freepik.png",
-              "enabled": true
-            },
-            {
-              "id": "8_3_2",
-              "title": "Unsplash",
-              "href": "https://unsplash.com/",
-              "description": "免费高清图片",
-              "icon": "/assets/images/logos/unsplash.png",
               "enabled": true
             }
           ],
