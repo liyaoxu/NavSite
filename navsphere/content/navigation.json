@@ -1612,6 +1612,14 @@
               "description": "寻找完美的免版税图片或视频，下载之后使用。 ✓ 免版税 ✓ 不要求署名 ✓ 高质量图片.",
               "icon": "/assets/favicon_1769564714134.png",
               "enabled": true
+            },
+            {
+              "id": "1769564759694",
+              "title": "影视飓风",
+              "href": "https://www.ysjf.com/material",
+              "description": "提供大厂拍摄的免费可商用的视频和图片素材",
+              "icon": "/assets/favicon_1769564763395.svg",
+              "enabled": true
             }
           ],
           "enabled": true
