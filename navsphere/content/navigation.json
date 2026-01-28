@@ -3246,7 +3246,16 @@
           "icon": "Image",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1769565390318",
+              "title": "Kmoe",
+              "href": "https://kzz.moe/",
+              "description": "高清Kindle格式漫画下载，支持推送漫画到kindle设备。",
+              "icon": "/assets/favicon_1769565394932.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "088b5bee-a8c6-4ce5-a16c-205633c7de8f",
