@@ -3212,7 +3212,16 @@
           "icon": "Music",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1769563678204",
+              "title": "AlgerMusicPlayer",
+              "href": "http://music.alger.fun",
+              "description": "AlgerMusicPlayer 音乐播放器，支持在线播放、歌词显示、音乐下载等功能。提供海量音乐资源，让您随时随地享受音乐。",
+              "icon": "/assets/favicon_1769563682276.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "022f9814-37fc-4bf3-9e11-85e78a8dd834",
