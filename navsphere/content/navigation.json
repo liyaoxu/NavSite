@@ -3245,6 +3245,14 @@
               "description": "书格的一个口号就是：每个人都能自由地看到我们的文明。我们鼓励更利于传播、更利于长期保存的数字文件。",
               "icon": "/assets/favicon_1769563809920.png",
               "enabled": true
+            },
+            {
+              "id": "1769563939900",
+              "title": "电子书之家",
+              "href": "https://honeypdf.com/",
+              "description": "Honey PDF(honeypdf.com)每天精选互联网好看的电子书及TXT全集电子书文档供浏览者学习使用，各类PDF书籍下载仅供学习交流使用。",
+              "icon": "/assets/favicon_1769563942032.ico",
+              "enabled": true
             }
           ]
         }
