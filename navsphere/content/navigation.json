@@ -1604,6 +1604,14 @@
               "description": "免费高清图片",
               "icon": "/assets/images/logos/unsplash.png",
               "enabled": true
+            },
+            {
+              "id": "1769564711320",
+              "title": "Pixabay",
+              "href": "https://pixabay.com/zh",
+              "description": "寻找完美的免版税图片或视频，下载之后使用。 ✓ 免版税 ✓ 不要求署名 ✓ 高质量图片.",
+              "icon": "/assets/favicon_1769564714134.png",
+              "enabled": true
             }
           ],
           "enabled": true
