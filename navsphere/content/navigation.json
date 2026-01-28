@@ -3278,6 +3278,14 @@
               "description": "Webでもアプリでも読めるKADOKAWAのオリジナル無料漫画連載が勢揃い！異世界コミックやFLOS COMICなどの、人気漫画レーベルが集結！",
               "icon": "/assets/favicon_1769565540652.ico",
               "enabled": true
+            },
+            {
+              "id": "1769565639599",
+              "title": "动漫屋",
+              "href": "https://tel.dm5.com/",
+              "description": "原创国漫,日本漫画,港台漫画,韩国漫画,欧美漫画,好漫画,为看漫画的人而生。热门漫画：火影忍者、海贼王1171、死神、一拳超人、古惑仔88、山海逆战等",
+              "icon": "/assets/favicon_1769565644440.ico",
+              "enabled": true
             }
           ]
         },
