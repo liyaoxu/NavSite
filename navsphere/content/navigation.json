@@ -1397,6 +1397,14 @@
               "description": "雾象是一款由大型语言模型（LLM）驱动的动画引擎 agent 。用户输入抽象概念或词语，雾象会将其转化为高水平的生动动画。\n您只需输入词语，点击生成，便可得到动画。",
               "icon": "/assets/favicon_1766563313579.svg",
               "enabled": true
+            },
+            {
+              "id": "1770788536844",
+              "title": "Seedance",
+              "href": "https://seedance.io/zh",
+              "description": "Seedance 是一个先进的 AI 视频生成平台，允许用户仅使用文本提示或单张图片创建丰富的动画视频。利用我们的技术，将想法转化为引人入胜的视觉故事变得快速、直观且充满创意灵活性。",
+              "icon": "/assets/favicon_1770788556745.ico",
+              "enabled": true
             }
           ]
         },
