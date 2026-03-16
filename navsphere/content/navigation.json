@@ -893,6 +893,14 @@
               "description": "BongoCat 是一款免费的跨平台桌面宠物应用，支持 Windows、macOS 和 Linux 系统。可根据键盘、鼠标、手柄操作实时同步动作，支持自定义 Live2D 模型，为你的桌面增添乐趣！",
               "icon": "/assets/favicon_1769481331177.png",
               "enabled": true
+            },
+            {
+              "id": "1773649067846",
+              "title": "中国家谱知识服务平台",
+              "href": "https://jiapu.library.sh.cn/",
+              "description": "中国家谱知识服务平台提供家谱资料检索、在线修谱及文化传承服务，助力寻根问祖与家族历史研究。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=jiapu.library.sh.cn",
+              "enabled": true
             }
           ]
         }
