@@ -819,6 +819,14 @@
               "description": "重新修复的周星驰电影超清收藏全集43部121GB",
               "icon": "/assets/favicon_1773708434189.png",
               "enabled": true
+            },
+            {
+              "id": "1773712093436",
+              "title": "欧美最热电影与连续剧合集",
+              "href": "https://pan.xunlei.com/s/VOntTQSVRODisCHDF_vIYJlzA1?pwd=zmu8#",
+              "description": "挑选了最热门，评分较高的电影与连续剧",
+              "icon": "/assets/favicon_1773712097788.png",
+              "enabled": true
             }
           ]
         },
