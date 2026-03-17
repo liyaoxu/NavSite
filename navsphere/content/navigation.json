@@ -811,6 +811,14 @@
               "description": "1.4T奥斯卡获奖影片一次看个够",
               "icon": "/assets/favicon_1773707106810.png",
               "enabled": true
+            },
+            {
+              "id": "1773708429840",
+              "title": "周星驰电影超清收藏全集",
+              "href": "https://pan.quark.cn/s/5a8cee5a4e3c",
+              "description": "重新修复的周星驰电影超清收藏全集43部121GB",
+              "icon": "/assets/favicon_1773708434189.png",
+              "enabled": true
             }
           ]
         },
