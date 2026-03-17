@@ -803,6 +803,14 @@
               "description": "这些资源线下学习起码几万块，我分文不收，免费下载，大家尽快转存！",
               "icon": "/assets/favicon_1767161806400.ico",
               "enabled": true
+            },
+            {
+              "id": "1773707102329",
+              "title": "历届奥斯卡获奖影片合集(1988-2025)",
+              "href": "https://pan.quark.cn/s/a6cc881db48c",
+              "description": "1.4T奥斯卡获奖影片一次看个够",
+              "icon": "/assets/favicon_1773707106810.png",
+              "enabled": true
             }
           ]
         },
