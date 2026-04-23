@@ -925,6 +925,14 @@
               "description": "中国家谱知识服务平台提供家谱资料检索、在线修谱及文化传承服务，助力寻根问祖与家族历史研究。",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=jiapu.library.sh.cn",
               "enabled": true
+            },
+            {
+              "id": "1776922764044",
+              "title": "World Monitor",
+              "href": "https://www.worldmonitor.app",
+              "description": "Real-time global intelligence dashboard with live news, markets, military tracking, infrastructure monitoring, and geopolitical data. OSINT in one view.",
+              "icon": "/assets/favicon_1776922766426.ico",
+              "enabled": true
             }
           ]
         }
