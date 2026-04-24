@@ -933,6 +933,14 @@
               "description": "Real-time global intelligence dashboard with live news, markets, military tracking, infrastructure monitoring, and geopolitical data. OSINT in one view.",
               "icon": "/assets/favicon_1776922766426.ico",
               "enabled": true
+            },
+            {
+              "id": "1776991578143",
+              "title": "BuildCores 3D电脑组装",
+              "href": "https://www.buildcores.com/",
+              "description": "一个在线3D电脑组装和零件选择器。不用担心兼容性问题，获取最新最低价格，并在购买前查看你的组装效果。",
+              "icon": "/assets/favicon_1776991582125.png",
+              "enabled": true
             }
           ]
         }
