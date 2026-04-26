@@ -2017,6 +2017,14 @@
               "description": "使用AI智能消费者代理进行快速高效的用户研究，获取深入洞察，优化产品设计，缩短研发周期，降低研究成本。",
               "icon": "/assets/favicon_1764145437404.ico",
               "enabled": true
+            },
+            {
+              "id": "1777195069612",
+              "title": "Browse AI",
+              "href": "https://www.browse.ai/",
+              "description": "无需代码即可从任何网站抓取和监控数据",
+              "icon": "/assets/favicon_1777195083311.png",
+              "enabled": true
             }
           ]
         },
