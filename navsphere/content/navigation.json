@@ -2831,7 +2831,7 @@
               "id": "1761279603255",
               "title": "Dokploy",
               "href": "https://dokploy.com/zh-Hans",
-              "description": "以前所未有的简洁和高效提供一站式项目、数据的管理以及系统监控。",
+              "description": "一个开源的Vercel、Netlify和Heroku替代品。Dokploy是一个免费、可自托管的平台即服务（PaaS），它简化了应用程序和数据库的部署和管理。简洁高效地提供一站式项目、数据的管理以及系统监控。",
               "icon": "/assets/favicon_1761279607527.svg",
               "enabled": true
             },
