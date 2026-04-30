@@ -2770,14 +2770,6 @@
               "enabled": true
             },
             {
-              "id": "1769479535125",
-              "title": "Dokploy",
-              "href": "https://dokploy.com/",
-              "description": "一个开源的Vercel、Netlify和Heroku替代品。Dokploy是一个免费、可自托管的平台即服务（PaaS），它简化了应用程序和数据库的部署和管理。",
-              "icon": "/assets/favicon_1769479542792.svg",
-              "enabled": true
-            },
-            {
               "id": "1755225929754",
               "title": "Tencent -  EdgeOne亚洲最佳CDN、边缘和安全解决方案",
               "href": "https://edgeone.ai/zh",
